@@ -1,0 +1,522 @@
+{
+    "Comprensión de la Ciencia": [
+      {
+        "question": "¿Cuál es la base del método científico?",
+        "options": ["La intuición", "La observación", "La creatividad", "La imaginación"],
+        "answer": "La observación"
+      },
+      {
+        "question": "¿Qué es una hipótesis en el método científico?",
+        "options": ["Una opinión sin fundamentos", "Una explicación tentativa basada en observaciones", "Un experimento ya comprobado", "Un hecho irrefutable"],
+        "answer": "Una explicación tentativa basada en observaciones"
+      },
+      {
+        "question": "¿Qué paso sigue después de formular una hipótesis?",
+        "options": ["Experimentación", "Publicación de resultados", "Conclusiones finales", "Abandono del estudio"],
+        "answer": "Experimentación"
+      },
+      {
+        "question": "¿Qué caracteriza a una teoría científica?",
+        "options": ["Es una suposición sin pruebas", "Explica fenómenos con evidencia comprobada", "No puede ser modificada", "Solo la creen algunos científicos"],
+        "answer": "Explica fenómenos con evidencia comprobada"
+      },
+      {
+        "question": "¿Qué es una variable independiente en un experimento?",
+        "options": ["El factor que se manipula", "El resultado que se mide", "El error experimental", "La constante que no cambia"],
+        "answer": "El factor que se manipula"
+      },
+      {
+        "question": "¿Qué significa 'peer review' en ciencia?",
+        "options": ["Evaluación por pares expertos", "Revisión popular en redes", "Autoevaluación del investigador", "Aprobación gubernamental"],
+        "answer": "Evaluación por pares expertos"
+      },
+      {
+        "question": "¿Qué disciplina NO es una ciencia natural?",
+        "options": ["Biología", "Química", "Sociología", "Física"],
+        "answer": "Sociología"
+      },
+      {
+        "question": "¿Qué científico formuló las leyes de la herencia?",
+        "options": ["Gregor Mendel", "Isaac Newton", "Albert Einstein", "Charles Darwin"],
+        "answer": "Gregor Mendel"
+      },
+      {
+        "question": "¿Qué instrumento mide la masa?",
+        "options": ["Termómetro", "Balanza", "Barómetro", "Dinamómetro"],
+        "answer": "Balanza"
+      },
+      {
+        "question": "¿Qué método usa la ciencia para validar conocimientos?",
+        "options": ["Prueba y error sistemático", "Tradiciones populares", "Creencias personales", "Dogmas religiosos"],
+        "answer": "Prueba y error sistemático"
+      }
+    ],
+    "Sexualidad Humana": [
+      {
+        "question": "¿Qué es la sexualidad humana?",
+        "options": ["Un conjunto de características biológicas", "Un aspecto integral del ser humano que incluye aspectos biológicos, psicológicos y sociales", "Una conducta instintiva de los animales", "Algo que solo ocurre en la adolescencia"],
+        "answer": "Un aspecto integral del ser humano que incluye aspectos biológicos, psicológicos y sociales"
+      },
+      {
+        "question": "¿Qué órgano produce los espermatozoides?",
+        "options": ["Ovarios", "Testículos", "Uretra", "Páncreas"],
+        "answer": "Testículos"
+      },
+      {
+        "question": "¿Qué hormona regula el ciclo menstrual?",
+        "options": ["Estrógeno", "Insulina", "Adrenalina", "Tiroxina"],
+        "answer": "Estrogeno"
+      },
+      {
+        "question": "¿Qué método anticonceptivo previene ETS?",
+        "options": ["Pastillas anticonceptivas", "Preservativo", "DIU", "Método del ritmo"],
+        "answer": "Preservativo"
+      },
+      {
+        "question": "¿Qué significa consentimiento sexual?",
+        "options": ["Acuerdo libre, consciente y mutuo", "Presión psicológica", "Suposición sin comunicación", "Obligación legal"],
+        "answer": "Acuerdo libre, consciente y mutuo"
+      },
+      {
+        "question": "¿Qué etapa del desarrollo incluye cambios puberales?",
+        "options": ["Adolescencia", "Niñez temprana", "Edad adulta", "Vejez"],
+        "answer": "Adolescencia"
+      },
+      {
+        "question": "¿Qué caracteriza la orientación sexual?",
+        "options": ["Atracción emocional/sexual duradera", "Preferencia temporal", "Conducta aprendida", "Enfermedad mental"],
+        "answer": "Atracción emocional/sexual duradera"
+      },
+      {
+        "question": "¿Qué ETS es causada por bacterias?",
+        "options": ["VIH/SIDA", "Herpes", "Sífilis", "Hepatitis B"],
+        "answer": "Sífilis"
+      },
+      {
+        "question": "¿Qué concepto define identidad de género?",
+        "options": ["Experiencia interna/personal del género", "Sexo biológico al nacer", "Orientación sexual", "Rol social tradicional"],
+        "answer": "Experiencia interna/personal del género"
+      },
+      {
+        "question": "¿Qué promueve la educación sexual integral?",
+        "options": ["Toma de decisiones responsables", "Iniciación sexual temprana", "Promiscuidad", "Tabúes culturales"],
+        "answer": "Toma de decisiones responsables"
+      }
+    ],
+    "Taller de Habilidades para el Aprendizaje": [
+      {
+        "question": "¿Qué es el aprendizaje significativo?",
+        "options": ["Memorizar datos sin entenderlos", "Relacionar nueva información con conocimientos previos", "Aprender solo por repetición", "Resolver problemas sin razonamiento"],
+        "answer": "Relacionar nueva información con conocimientos previos"
+      },
+      {
+        "question": "¿Qué técnica es útil para organizar ideas?",
+        "options": ["Leer sin subrayar", "Hacer mapas conceptuales", "Leer una sola vez", "Tomar notas en desorden"],
+        "answer": "Hacer mapas conceptuales"
+      },
+      {
+        "question": "¿Qué método mejora la retención de información?",
+        "options": ["Repaso espaciado", "Estudio intensivo la noche anterior", "Lectura rápida superficial", "Memorización mecánica"],
+        "answer": "Repaso espaciado"
+      },
+      {
+        "question": "¿Qué técnica ayuda a comprender textos complejos?",
+        "options": ["Lectura activa con preguntas", "Ojeada rápida", "Subrayar todo el texto", "Saltarse párrafos"],
+        "answer": "Lectura activa con preguntas"
+      },
+      {
+        "question": "¿Qué estrategia desarrolla pensamiento crítico?",
+        "options": ["Analizar diferentes perspectivas", "Aceptar información sin cuestionar", "Seguir siempre la opinión mayoritaria", "Evitar debates"],
+        "answer": "Analizar diferentes perspectivas"
+      },
+      {
+        "question": "¿Qué herramienta visual organiza información jerárquicamente?",
+        "options": ["Diagrama de flujo", "Mapa mental", "Tabla comparativa", "Lista numerada"],
+        "answer": "Mapa mental"
+      },
+      {
+        "question": "¿Qué beneficio tiene establecer metas SMART?",
+        "options": ["Objetivos claros y alcanzables", "Mayor improvisación", "Dependencia del azar", "Reducción del esfuerzo"],
+        "answer": "Objetivos claros y alcanzables"
+      },
+      {
+        "question": "¿Qué técnica reduce la procrastinación?",
+        "options": ["Técnica Pomodoro", "Dejar todo para después", "Trabajar sin descansos", "Multitarea excesiva"],
+        "answer": "Técnica Pomodoro"
+      },
+      {
+        "question": "¿Qué habilidad desarrolla el aprendizaje colaborativo?",
+        "options": ["Trabajo en equipo", "Aislamiento intelectual", "Competencia individualista", "Dependencia absoluta"],
+        "answer": "Trabajo en equipo"
+      },
+      {
+        "question": "¿Qué factor mejora la concentración al estudiar?",
+        "options": ["Ambiente ordenado y silencioso", "Música alta constante", "Pantallas múltiples encendidas", "Interrupciones frecuentes"],
+        "answer": "Ambiente ordenado y silencioso"
+      }
+    ],
+    "Descripción y Comunicación": [
+      {
+        "question": "¿Qué es la comunicación?",
+        "options": ["El intercambio de información entre dos o más personas", "La escritura de textos en papel", "El uso exclusivo de gestos", "Ninguna de las anteriores"],
+        "answer": "El intercambio de información entre dos o más personas"
+      },
+      {
+        "question": "¿Qué elemento es esencial en un proceso de comunicación?",
+        "options": ["Receptor", "Ruido", "Barreras", "Contexto"],
+        "answer": "Receptor"
+      },
+      {
+        "question": "¿Qué tipo de comunicación usa palabras?",
+        "options": ["Verbal", "No verbal", "Visual", "Táctil"],
+        "answer": "Verbal"
+      },
+      {
+        "question": "¿Qué porcentaje de la comunicación es no verbal según Mehrabian?",
+        "options": ["30%", "55%", "70%", "93%"],
+        "answer": "93%"
+      },
+      {
+        "question": "¿Qué técnica mejora la escucha activa?",
+        "options": ["Parafrasear", "Interrumpir", "Juzgar mientras escucha", "Evitar contacto visual"],
+        "answer": "Parafrasear"
+      },
+      {
+        "question": "¿Qué barrera dificulta la comunicación?",
+        "options": ["Prejuicios", "Claridad en el mensaje", "Contexto adecuado", "Feedback constante"],
+        "answer": "Prejuicios"
+      },
+      {
+        "question": "¿Qué canal es más efectivo para instrucciones complejas?",
+        "options": ["Comunicación escrita", "Lenguaje corporal", "Comunicación oral", "Mensajes subliminales"],
+        "answer": "Comunicación escrita"
+      },
+      {
+        "question": "¿Qué caracteriza la comunicación asertiva?",
+        "options": ["Expresar ideas con claridad y respeto", "Agresividad verbal", "Pasividad extrema", "Manipulación emocional"],
+        "answer": "Expresar ideas con claridad y respeto"
+      },
+      {
+        "question": "¿Qué elemento NO pertenece al proceso comunicativo?",
+        "options": ["Retroalimentación", "Código secreto", "Mensaje", "Canal"],
+        "answer": "Código secreto"
+      },
+      {
+        "question": "¿Qué técnica describe objetos con precisión?",
+        "options": ["Uso de adjetivos específicos", "Lenguaje ambiguo", "Generalizaciones", "Metáforas abstractas"],
+        "answer": "Uso de adjetivos específicos"
+      }
+    ],
+    "Lengua Extranjera": [
+      {
+        "question": "¿Qué significa 'Hello' en español?",
+        "options": ["Adiós", "Hola", "Gracias", "Por favor"],
+        "answer": "Hola"
+      },
+      {
+        "question": "¿Qué significa 'Thank you' en español?",
+        "options": ["Hola", "Gracias", "Adiós", "Bienvenido"],
+        "answer": "Gracias"
+      },
+      {
+        "question": "¿Cómo se dice 'agua' en inglés?",
+        "options": ["Water", "Fire", "Earth", "Air"],
+        "answer": "Water"
+      },
+      {
+        "question": "¿Qué tiempo verbal expresa acciones habituales en inglés?",
+        "options": ["Present Simple", "Past Perfect", "Future Continuous", "Present Perfect"],
+        "answer": "Present Simple"
+      },
+      {
+        "question": "¿Qué auxiliar se usa para preguntas en Present Simple?",
+        "options": ["Do/Does", "Have/Has", "Is/Are", "Did"],
+        "answer": "Do/Does"
+      },
+      {
+        "question": "¿Qué palabra es un 'false friend' en inglés?",
+        "options": ["Actually (realmente)", "Computer", "Radio", "Hotel"],
+        "answer": "Actually (realmente)"
+      },
+      {
+        "question": "¿Qué significa 'I am hungry' en español?",
+        "options": ["Tengo sed", "Tengo hambre", "Estoy cansado", "Tengo frío"],
+        "answer": "Tengo hambre"
+      },
+      {
+        "question": "¿Qué preposición indica lugar en inglés?",
+        "options": ["In", "On", "At", "Todas las anteriores"],
+        "answer": "Todas las anteriores"
+      },
+      {
+        "question": "¿Cómo se forma el plural regular en inglés?",
+        "options": ["Añadiendo -s o -es", "Cambiando la vocal", "Sin cambiar la palabra", "Añadiendo -ing"],
+        "answer": "Añadiendo -s o -es"
+      },
+      {
+        "question": "¿Qué expresión significa 'de nada' en inglés?",
+        "options": ["You're welcome", "I'm sorry", "Excuse me", "Goodbye"],
+        "answer": "You're welcome"
+      }
+    ],
+    "Tecnologías de la Información": [
+      {
+        "question": "¿Qué es un sistema operativo?",
+        "options": ["Un programa que permite la ejecución de aplicaciones y gestiona los recursos del hardware", "Un dispositivo físico", "Una red de computadoras", "Una impresora"],
+        "answer": "Un programa que permite la ejecución de aplicaciones y gestiona los recursos del hardware"
+      },
+      {
+        "question": "¿Qué es el almacenamiento en la nube?",
+        "options": ["Guardar datos en dispositivos físicos", "Guardar datos en servidores remotos accesibles a través de internet", "Guardar datos en CD-ROM", "Guardar datos en una memoria USB"],
+        "answer": "Guardar datos en servidores remotos accesibles a través de internet"
+      },
+      {
+        "question": "¿Qué extensión tiene un archivo de Excel?",
+        "options": [".docx", ".xlsx", ".pptx", ".pdf"],
+        "answer": ".xlsx"
+      },
+      {
+        "question": "¿Qué dispositivo conecta redes?",
+        "options": ["Router", "Monitor", "Teclado", "Impresora"],
+        "answer": "Router"
+      },
+      {
+        "question": "¿Qué lenguaje se usa para páginas web?",
+        "options": ["HTML", "Python", "Java", "C++"],
+        "answer": "HTML"
+      },
+      {
+        "question": "¿Qué tecla abre el menú contextual?",
+        "options": ["F1", "Shift", "Menú/Contexto", "Ctrl"],
+        "answer": "Menú/Contexto"
+      },
+      {
+        "question": "¿Qué protocolo usan las páginas web seguras?",
+        "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+        "answer": "HTTPS"
+      },
+      {
+        "question": "¿Qué programa protege contra malware?",
+        "options": ["Antivirus", "Procesador de texto", "Hoja de cálculo", "Reproductor multimedia"],
+        "answer": "Antivirus"
+      },
+      {
+        "question": "¿Qué significa 'URL'?",
+        "options": ["Uniform Resource Locator", "Universal Random Link", "User Registration License", "Ultra Rapid Loader"],
+        "answer": "Uniform Resource Locator"
+      },
+      {
+        "question": "¿Qué tecla combinación copia texto?",
+        "options": ["Ctrl + C", "Ctrl + V", "Ctrl + X", "Ctrl + Z"],
+        "answer": "Ctrl + C"
+      }
+    ],
+    "Matemática y Vida Cotidiana 1": [
+      {
+        "question": "¿Qué es una fracción?",
+        "options": ["Un número entero", "Una representación de una parte de un todo", "Un número negativo", "Un número mayor a 1"],
+        "answer": "Una representación de una parte de un todo"
+      },
+      {
+        "question": "¿Qué es un porcentaje?",
+        "options": ["Un número en decimal", "Una fracción con denominador 100", "Un número negativo", "Un número irracional"],
+        "answer": "Una fracción con denominador 100"
+      },
+      {
+        "question": "¿Cómo se calcula el 20% de 150?",
+        "options": ["150 × 0.20", "150 ÷ 20", "150 + 20", "150 - 20"],
+        "answer": "150 × 0.20"
+      },
+      {
+        "question": "¿Qué operación resuelve problemas de proporciones?",
+        "options": ["Regla de tres", "Ecuación cuadrática", "Teorema de Pitágoras", "Logaritmos"],
+        "answer": "Regla de tres"
+      },
+      {
+        "question": "¿Qué concepto representa π (pi)?",
+        "options": ["Relación entre circunferencia y diámetro", "Base del logaritmo natural", "Raíz cuadrada de 2", "Número áureo"],
+        "answer": "Relación entre circunferencia y diámetro"
+      },
+      {
+        "question": "¿Qué unidad mide ángulos?",
+        "options": ["Metros", "Litros", "Grados", "Watts"],
+        "answer": "Grados"
+      },
+      {
+        "question": "¿Qué figura tiene 4 lados iguales?",
+        "options": ["Triángulo", "Cuadrado", "Pentágono", "Hexágono"],
+        "answer": "Cuadrado"
+      },
+      {
+        "question": "¿Qué operación es 5³?",
+        "options": ["5 + 3", "5 × 3", "5 ÷ 3", "5 × 5 × 5"],
+        "answer": "5 × 5 × 5"
+      },
+      {
+        "question": "¿Qué mide el perímetro?",
+        "options": ["Longitud del contorno", "Superficie interior", "Volumen", "Capacidad"],
+        "answer": "Longitud del contorno"
+      },
+      {
+        "question": "¿Qué número es primo?",
+        "options": ["9", "15", "17", "21"],
+        "answer": "17"
+      }
+    ],
+    "Apreciación del Arte": [
+      {
+        "question": "¿Qué es el arte?",
+        "options": ["Una forma de comunicación humana que expresa emociones, ideas y creatividad", "Solo aquello que se puede vender en galerías", "Cualquier creación hecha por máquinas", "Un proceso científico"],
+        "answer": "Una forma de comunicación humana que expresa emociones, ideas y creatividad"
+      },
+      {
+        "question": "¿Qué caracteriza al arte abstracto?",
+        "options": ["Representa la realidad tal como es", "No intenta representar formas reales", "Se enfoca en la lógica y el cálculo", "Solo incluye esculturas"],
+        "answer": "No intenta representar formas reales"
+      },
+      {
+        "question": "¿Qué movimiento artístico pintó 'La noche estrellada'?",
+        "options": ["Impresionismo", "Expresionismo", "Cubismo", "Surrealismo"],
+        "answer": "Postimpresionismo"
+      },
+      {
+        "question": "¿Qué técnica usa tallado en madera?",
+        "options": ["Grabado", "Pintura al óleo", "Escultura", "Acuarela"],
+        "answer": "Escultura"
+      },
+      {
+        "question": "¿Qué artista pintó la Capilla Sixtina?",
+        "options": ["Leonardo da Vinci", "Miguel Ángel", "Pablo Picasso", "Vincent van Gogh"],
+        "answer": "Miguel Ángel"
+      },
+      {
+        "question": "¿Qué elemento es clave en arquitectura?",
+        "options": ["Funcionalidad y estética", "Color vibrante", "Temporalidad efímera", "Sonido ambiental"],
+        "answer": "Funcionalidad y estética"
+      },
+      {
+        "question": "¿Qué período artístico precede al Renacimiento?",
+        "options": ["Barroco", "Medieval", "Neoclásico", "Romántico"],
+        "answer": "Medieval"
+      },
+      {
+        "question": "¿Qué técnica usa puntos pequeños de color?",
+        "options": ["Puntillismo", "Dripping", "Collage", "Fresco"],
+        "answer": "Puntillismo"
+      },
+      {
+        "question": "¿Qué arte utiliza luz como medio principal?",
+        "options": ["Fotografía", "Arte cinético", "Land Art", "Performance"],
+        "answer": "Fotografía"
+      },
+      {
+        "question": "¿Qué movimiento influyó en el diseño gráfico?",
+        "options": ["Bauhaus", "Realismo", "Rococó", "Gótico"],
+        "answer": "Bauhaus"
+      }
+    ],
+    "Física 1": [
+      {
+        "question": "¿Qué estudia la física?",
+        "options": ["Las propiedades de la materia y la energía", "Solo los objetos en movimiento", "El comportamiento humano", "Exclusivamente las reacciones químicas"],
+        "answer": "Las propiedades de la materia y la energía"
+      },
+      {
+        "question": "¿Qué representa la velocidad?",
+        "options": ["La distancia recorrida por unidad de tiempo", "El cambio en la dirección", "La fuerza ejercida sobre un objeto", "La energía potencial de un objeto"],
+        "answer": "La distancia recorrida por unidad de tiempo"
+      },
+      {
+        "question": "¿Qué ley explica el movimiento de planetas?",
+        "options": ["Ley de Ohm", "Ley de Gravitación Universal", "Ley de Hooke", "Ley de Pascal"],
+        "answer": "Ley de Gravitación Universal"
+      },
+      {
+        "question": "¿Qué unidad mide la fuerza?",
+        "options": ["Newton", "Joule", "Watt", "Pascal"],
+        "answer": "Newton"
+      },
+      {
+        "question": "¿Qué tipo de energía tiene un objeto en altura?",
+        "options": ["Cinética", "Potencial gravitatoria", "Térmica", "Eléctrica"],
+        "answer": "Potencial gravitatoria"
+      },
+      {
+        "question": "¿Qué principio explica los submarinos?",
+        "options": ["Arquímedes", "Pascal", "Newton", "Einstein"],
+        "answer": "Arquímedes"
+      },
+      {
+        "question": "¿Qué fenómeno produce el arcoíris?",
+        "options": ["Reflexión", "Refracción y dispersión", "Difracción", "Polarización"],
+        "answer": "Refracción y dispersión"
+      },
+      {
+        "question": "¿Qué instrumento mide la corriente eléctrica?",
+        "options": ["Voltímetro", "Amperímetro", "Ohmímetro", "Barómetro"],
+        "answer": "Amperímetro"
+      },
+      {
+        "question": "¿Qué ley relaciona presión y volumen en gases?",
+        "options": ["Boyle-Mariotte", "Charles", "Gay-Lussac", "Avogadro"],
+        "answer": "Boyle-Mariotte"
+      },
+      {
+        "question": "¿Qué tipo de lente converge rayos de luz?",
+        "options": ["Cóncava", "Convexa", "Plana", "Cilíndrica"],
+        "answer": "Convexa"
+      }
+    ],
+    "Educación para la Salud": [
+      {
+        "question": "¿Qué es la educación para la salud?",
+        "options": ["Un proceso de aprendizaje para promover hábitos saludables", "Un programa de entrenamiento físico", "Un tratamiento médico", "Un curso de nutrición"],
+        "answer": "Un proceso de aprendizaje para promover hábitos saludables"
+      },
+      {
+        "question": "¿Cuál es el objetivo principal de la educación para la salud?",
+        "options": ["Prevenir enfermedades y promover el bienestar", "Ganar competencias deportivas", "Identificar síntomas de enfermedades", "Ninguna de las anteriores"],
+        "answer": "Prevenir enfermedades y promover el bienestar"
+      },
+      {
+        "question": "¿Qué hábito previene enfermedades cardiovasculares?",
+        "options": ["Ejercicio regular", "Fumar", "Dieta alta en grasas", "Sedentarismo"],
+        "answer": "Ejercicio regular"
+      },
+      {
+        "question": "¿Qué vacuna previene la polio?",
+        "options": ["BCG", "Antipoliomielítica", "Triple viral", "Hepatitis B"],
+        "answer": "Antipoliomielítica"
+      },
+      {
+        "question": "¿Qué método previene ITS efectivamente?",
+        "options": ["Abstinencia", "Preservativos", "Anticonceptivos orales", "Lavados vaginales"],
+        "answer": "Preservativos"
+      },
+      {
+        "question": "¿Qué nutriente es principal fuente de energía?",
+        "options": ["Proteínas", "Carbohidratos", "Vitaminas", "Minerales"],
+        "answer": "Carbohidratos"
+      },
+      {
+        "question": "¿Qué práctica mejora la salud mental?",
+        "options": ["Meditación", "Aislamiento social", "Jornadas laborales extensas", "Dormir menos de 4 horas"],
+        "answer": "Meditación"
+      },
+      {
+        "question": "¿Qué enfermedad previene el agua potable?",
+        "options": ["Cólera", "Diabetes", "Artritis", "Asma"],
+        "answer": "Cólera"
+      },
+      {
+        "question": "¿Qué factor es riesgo para diabetes tipo 2?",
+        "options": ["Obesidad", "Ejercicio diario", "Dieta balanceada", "Sueño adecuado"],
+        "answer": "Obesidad"
+      },
+      {
+        "question": "¿Qué porcentaje diario de frutas/verduras recomienda la OMS?",
+        "options": ["20%", "50%", "75%", "100%"],
+        "answer": "50%"
+      }
+    ]
+  }

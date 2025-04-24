@@ -1,0 +1,314 @@
+{
+    "Habilidad Verbal": [
+      {
+        "question": "¿Qué es un sinónimo?",
+        "options": ["Una palabra con significado similar a otra", "Una palabra con significado opuesto", "Una palabra inventada", "Una palabra con varias sílabas"],
+        "answer": "Una palabra con significado similar a otra"
+      },
+      {
+        "question": "¿Qué es un antónimo?",
+        "options": ["Una palabra con significado opuesto a otra", "Una palabra con significado similar", "Una palabra que rima", "Una palabra que termina en vocal"],
+        "answer": "Una palabra con significado opuesto a otra"
+      },
+      {
+        "question": "¿Qué es una analogía?",
+        "options": ["Una relación de semejanza entre conceptos", "Un error gramatical", "Una palabra compuesta", "Un tipo de verbo irregular"],
+        "answer": "Una relación de semejanza entre conceptos"
+      },
+      {
+        "question": "¿Cuál es el significado de 'efímero'?",
+        "options": ["Que dura poco tiempo", "De gran tamaño", "Muy brillante", "De color oscuro"],
+        "answer": "Que dura poco tiempo"
+      },
+      {
+        "question": "¿Qué es una metáfora?",
+        "options": ["Una comparación implícita sin usar 'como' o 'tal como'", "Una expresión numérica", "Un error ortográfico", "Una palabra técnica"],
+        "answer": "Una comparación implícita sin usar 'como' o 'tal como'"
+      },
+      {
+        "question": "¿Qué significa 'perspicaz'?",
+        "options": ["Agudo o penetrante en el entendimiento", "Lento para comprender", "De voz fuerte", "Físicamente débil"],
+        "answer": "Agudo o penetrante en el entendimiento"
+      },
+      {
+        "question": "¿Qué es un oxímoron?",
+        "options": ["Una figura retórica que combina términos contradictorios", "Un tipo de rima", "Una palabra extranjera", "Un error de sintaxis"],
+        "answer": "Una figura retórica que combina términos contradictorios"
+      },
+      {
+        "question": "¿Cuál es el antónimo de 'ascender'?",
+        "options": ["Descender", "Elevar", "Flotar", "Saltar"],
+        "answer": "Descender"
+      },
+      {
+        "question": "¿Qué es un prefijo?",
+        "options": ["Parte de una palabra que se añade al inicio para modificar su significado", "Una terminación verbal", "Una sílaba tónica", "Un signo de puntuación"],
+        "answer": "Parte de una palabra que se añade al inicio para modificar su significado"
+      },
+      {
+        "question": "¿Qué significa 'lúgubre'?",
+        "options": ["Triste y oscuro", "Alegre y colorido", "Rápido y eficiente", "Suave y delicado"],
+        "answer": "Triste y oscuro"
+      }
+    ],
+    "Lengua Extranjera VI": [
+      {
+        "question": "¿Cómo se traduce 'Could you repeat that, please?' al español?",
+        "options": ["¿Podrías repetir eso, por favor?", "¿Dónde está el baño?", "¿Qué hora es?", "¿Puedes ayudarme ahora?"],
+        "answer": "¿Podrías repetir eso, por favor?"
+      },
+      {
+        "question": "¿Qué significa 'I am looking for a hotel nearby' en español?",
+        "options": ["Estoy buscando un hotel cerca", "Voy a reservar un hotel", "Necesito un taxi", "Estoy en un restaurante"],
+        "answer": "Estoy buscando un hotel cerca"
+      },
+      {
+        "question": "¿Cómo se dice 'Gracias' en inglés?",
+        "options": ["Thank you", "Please", "Sorry", "Hello"],
+        "answer": "Thank you"
+      },
+      {
+        "question": "Traduce 'The meeting was postponed' al español.",
+        "options": ["La reunión fue pospuesta", "La reunión fue cancelada", "La reunión fue exitosa", "La reunión fue corta"],
+        "answer": "La reunión fue pospuesta"
+      },
+      {
+        "question": "¿Qué significa 'How much does it cost?' en español?",
+        "options": ["¿Cuánto cuesta?", "¿Qué hora es?", "¿Dónde está?", "¿Cómo te llamas?"],
+        "answer": "¿Cuánto cuesta?"
+      },
+      {
+        "question": "Traduce 'No entiendo' al inglés.",
+        "options": ["I don't understand", "I don't know", "I don't like it", "I don't have it"],
+        "answer": "I don't understand"
+      },
+      {
+        "question": "¿Cómo se pregunta '¿De dónde eres?' en inglés?",
+        "options": ["Where are you from?", "How old are you?", "What's your name?", "Where do you live?"],
+        "answer": "Where are you from?"
+      },
+      {
+        "question": "¿Qué significa 'I have a headache' en español?",
+        "options": ["Tengo dolor de cabeza", "Tengo frío", "Tengo hambre", "Tengo sueño"],
+        "answer": "Tengo dolor de cabeza"
+      },
+      {
+        "question": "Traduce 'She is wearing a blue dress' al español.",
+        "options": ["Ella lleva un vestido azul", "Ella tiene ojos azules", "Ella vive en una casa azul", "Ella compró un libro azul"],
+        "answer": "Ella lleva un vestido azul"
+      },
+      {
+        "question": "¿Cómo se dice 'Hasta mañana' en inglés?",
+        "options": ["See you tomorrow", "Good night", "See you later", "Good afternoon"],
+        "answer": "See you tomorrow"
+      }
+    ],
+    "Matemática Avanzada": [
+      {
+        "question": "¿Qué es un límite en cálculo?",
+        "options": ["El valor al que se acerca una función a medida que la variable independiente tiende a un número", "El punto máximo de una gráfica", "El área bajo una curva", "Una constante en una ecuación diferencial"],
+        "answer": "El valor al que se acerca una función a medida que la variable independiente tiende a un número"
+      },
+      {
+        "question": "¿Qué es una integral definida?",
+        "options": ["El área bajo una curva entre dos puntos", "El límite de una función en el infinito", "Una ecuación diferencial", "Una suma infinita de términos"],
+        "answer": "El área bajo una curva entre dos puntos"
+      },
+      {
+        "question": "¿Qué es la derivada de una función?",
+        "options": ["La tasa de cambio instantánea de la función", "La integral de la función", "El valor máximo de la función", "La raíz cuadrada de la función"],
+        "answer": "La tasa de cambio instantánea de la función"
+      },
+      {
+        "question": "¿Qué es una matriz identidad?",
+        "options": ["Una matriz cuadrada con unos en la diagonal principal y ceros en el resto", "Una matriz con todos sus elementos iguales a uno", "Una matriz rectangular", "Una matriz con elementos aleatorios"],
+        "answer": "Una matriz cuadrada con unos en la diagonal principal y ceros en el resto"
+      },
+      {
+        "question": "¿Qué es un vector ortogonal?",
+        "options": ["Un vector perpendicular a otro", "Un vector paralelo a otro", "Un vector de magnitud cero", "Un vector unitario"],
+        "answer": "Un vector perpendicular a otro"
+      },
+      {
+        "question": "¿Qué es la regla de la cadena en cálculo?",
+        "options": ["Una fórmula para derivar funciones compuestas", "Un método para integrar polinomios", "Una técnica para resolver ecuaciones lineales", "Una regla para sumar fracciones"],
+        "answer": "Una fórmula para derivar funciones compuestas"
+      },
+      {
+        "question": "¿Qué es un número complejo?",
+        "options": ["Un número de la forma a + bi, donde i es la unidad imaginaria", "Un número irracional", "Un número primo", "Un número entero negativo"],
+        "answer": "Un número de la forma a + bi, donde i es la unidad imaginaria"
+      },
+      {
+        "question": "¿Qué es la transformada de Fourier?",
+        "options": ["Una herramienta que descompone una función en frecuencias", "Un método para resolver ecuaciones cuadráticas", "Una técnica de integración numérica", "Un algoritmo de ordenamiento"],
+        "answer": "Una herramienta que descompone una función en frecuencias"
+      },
+      {
+        "question": "¿Qué es la probabilidad condicional?",
+        "options": ["La probabilidad de un evento dado que otro ha ocurrido", "La suma de probabilidades simples", "El producto de probabilidades independientes", "La media de una distribución"],
+        "answer": "La probabilidad de un evento dado que otro ha ocurrido"
+      },
+      {
+        "question": "¿Qué es una asíntota?",
+        "options": ["Una línea a la que una gráfica se acerca infinitamente sin tocarla", "El punto máximo de una función", "La raíz de una ecuación", "La derivada de una función en un punto"],
+        "answer": "Una línea a la que una gráfica se acerca infinitamente sin tocarla"
+      }
+    ],
+    "Geografía y Cuidado del Entorno": [
+      {
+        "question": "¿Qué es el efecto invernadero?",
+        "options": ["El calentamiento de la atmósfera debido a gases como el CO2", "La reducción de las capas de hielo", "El aumento de la biodiversidad", "La rotación de la Tierra"],
+        "answer": "El calentamiento de la atmósfera debido a gases como el CO2"
+      },
+      {
+        "question": "¿Qué es la deforestación?",
+        "options": ["La tala masiva de árboles en un área", "El aumento de áreas verdes", "La creación de parques nacionales", "La plantación de bosques artificiales"],
+        "answer": "La tala masiva de árboles en un área"
+      },
+      {
+        "question": "¿Qué es la biodiversidad?",
+        "options": ["La variedad de vida en un ecosistema", "El clima de una región", "El estudio de los suelos", "La altura de las montañas"],
+        "answer": "La variedad de vida en un ecosistema"
+      },
+      {
+        "question": "¿Cuál es la capa de ozono?",
+        "options": ["Una capa protectora en la atmósfera que filtra los rayos UV", "Un tipo de contaminante", "Una capa de nubes", "Un fenómeno meteorológico"],
+        "answer": "Una capa protectora en la atmósfera que filtra los rayos UV"
+      },
+      {
+        "question": "¿Qué es un ecosistema?",
+        "options": ["Un sistema formado por seres vivos y su entorno", "Un tipo de roca", "Una corriente oceánica", "Una formación montañosa"],
+        "answer": "Un sistema formado por seres vivos y su entorno"
+      },
+      {
+        "question": "¿Qué es el cambio climático?",
+        "options": ["Alteraciones a largo plazo en los patrones climáticos", "Un día lluvioso", "Una estación del año", "Un fenómeno localizado"],
+        "answer": "Alteraciones a largo plazo en los patrones climáticos"
+      },
+      {
+        "question": "¿Qué son los recursos renovables?",
+        "options": ["Recursos que pueden regenerarse naturalmente", "Recursos que se agotan con el uso", "Combustibles fósiles", "Minerales metálicos"],
+        "answer": "Recursos que pueden regenerarse naturalmente"
+      },
+      {
+        "question": "¿Qué es la desertificación?",
+        "options": ["La degradación de tierras fértiles a desiertos", "La formación de dunas", "La erosión costera", "La lluvia ácida"],
+        "answer": "La degradación de tierras fértiles a desiertos"
+      },
+      {
+        "question": "¿Qué es la huella ecológica?",
+        "options": ["El impacto de una persona o sociedad sobre el medio ambiente", "La marca de un animal", "Un tipo de mapa", "Un indicador económico"],
+        "answer": "El impacto de una persona o sociedad sobre el medio ambiente"
+      },
+      {
+        "question": "¿Qué es un bioma?",
+        "options": ["Una gran comunidad ecológica con clima y flora/fauna característicos", "Un tipo de roca sedimentaria", "Una corriente oceánica", "Una capa atmosférica"],
+        "answer": "Una gran comunidad ecológica con clima y flora/fauna característicos"
+      }
+    ],
+    "Reflexión Ética": [
+      {
+        "question": "¿Qué es un dilema ético?",
+        "options": ["Una situación donde se enfrentan valores o principios morales", "Un problema matemático", "Una decisión basada en leyes", "Una situación sin solución"],
+        "answer": "Una situación donde se enfrentan valores o principios morales"
+      },
+      {
+        "question": "¿Qué es la responsabilidad moral?",
+        "options": ["La obligación de actuar correctamente según principios éticos", "Un castigo legal", "La imposición de reglas externas", "El cumplimiento de leyes fiscales"],
+        "answer": "La obligación de actuar correctamente según principios éticos"
+      },
+      {
+        "question": "¿Qué es el utilitarismo?",
+        "options": ["Una teoría ética que busca la mayor felicidad para el mayor número", "El estudio de la utilidad de los objetos", "Una doctrina política", "Un sistema económico"],
+        "answer": "Una teoría ética que busca la mayor felicidad para el mayor número"
+      },
+      {
+        "question": "¿Qué es la deontología?",
+        "options": ["Una ética basada en el deber y las reglas", "El estudio de los dinosaurios", "Una teoría del valor", "Un sistema de gobierno"],
+        "answer": "Una ética basada en el deber y las reglas"
+      },
+      {
+        "question": "¿Qué es la justicia distributiva?",
+        "options": ["La distribución equitativa de bienes en una sociedad", "El castigo a los delincuentes", "La igualdad ante la ley", "La libertad de expresión"],
+        "answer": "La distribución equitativa de bienes en una sociedad"
+      },
+      {
+        "question": "¿Qué es la autonomía en ética?",
+        "options": ["La capacidad de autogobernarse según principios racionales", "La independencia económica", "La ausencia de reglas", "La obediencia ciega"],
+        "answer": "La capacidad de autogobernarse según principios racionales"
+      },
+      {
+        "question": "¿Qué es la virtud según Aristóteles?",
+        "options": ["Un hábito que lleva a la excelencia moral", "Una creencia religiosa", "Una ley natural", "Una emoción intensa"],
+        "answer": "Un hábito que lleva a la excelencia moral"
+      },
+      {
+        "question": "¿Qué es el relativismo moral?",
+        "options": ["La idea de que lo moral depende del contexto cultural", "La creencia en valores absolutos", "Una doctrina política", "Un sistema legal"],
+        "answer": "La idea de que lo moral depende del contexto cultural"
+      },
+      {
+        "question": "¿Qué es la ética aplicada?",
+        "options": ["El uso de principios éticos en problemas concretos", "La filosofía pura", "La teoría del conocimiento", "La metafísica"],
+        "answer": "El uso de principios éticos en problemas concretos"
+      },
+      {
+        "question": "¿Qué es la dignidad humana?",
+        "options": ["El valor inherente de todo ser humano", "Un título nobiliario", "Un logro académico", "Una cualidad física"],
+        "answer": "El valor inherente de todo ser humano"
+      }
+    ],
+    "Análisis Económico": [
+      {
+        "question": "¿Qué es la oferta en economía?",
+        "options": ["La cantidad de bienes o servicios que los productores están dispuestos a vender", "La cantidad de bienes que los consumidores desean comprar", "El precio más bajo de un producto", "Un descuento especial"],
+        "answer": "La cantidad de bienes o servicios que los productores están dispuestos a vender"
+      },
+      {
+        "question": "¿Qué es la demanda en economía?",
+        "options": ["La cantidad de bienes o servicios que los consumidores están dispuestos a comprar", "La cantidad de bienes disponibles en el mercado", "El costo de producción de un bien", "El precio más alto de un producto"],
+        "answer": "La cantidad de bienes o servicios que los consumidores están dispuestos a comprar"
+      },
+      {
+        "question": "¿Qué es el PIB?",
+        "options": ["El valor total de bienes y servicios producidos en un país", "El presupuesto del gobierno", "La deuda externa", "La tasa de desempleo"],
+        "answer": "El valor total de bienes y servicios producidos en un país"
+      },
+      {
+        "question": "¿Qué es la inflación?",
+        "options": ["El aumento generalizado de precios", "La caída de la bolsa", "El crecimiento económico", "La reducción de impuestos"],
+        "answer": "El aumento generalizado de precios"
+      },
+      {
+        "question": "¿Qué es un monopolio?",
+        "options": ["Cuando una empresa controla todo el mercado de un producto", "Un acuerdo entre varias empresas", "Un mercado con muchos competidores", "Una empresa estatal"],
+        "answer": "Cuando una empresa controla todo el mercado de un producto"
+      },
+      {
+        "question": "¿Qué es la elasticidad-precio de la demanda?",
+        "options": ["La sensibilidad de la demanda ante cambios en el precio", "El costo de producción", "El margen de ganancia", "La oferta agregada"],
+        "answer": "La sensibilidad de la demanda ante cambios en el precio"
+      },
+      {
+        "question": "¿Qué es el costo de oportunidad?",
+        "options": ["El valor de la mejor alternativa no elegida", "El precio de un producto", "El salario mínimo", "El costo fijo de producción"],
+        "answer": "El valor de la mejor alternativa no elegida"
+      },
+      {
+        "question": "¿Qué es la macroeconomía?",
+        "options": ["El estudio de la economía a gran escala (países, regiones)", "El análisis de empresas individuales", "La contabilidad personal", "La teoría del consumidor"],
+        "answer": "El estudio de la economía a gran escala (países, regiones)"
+      },
+      {
+        "question": "¿Qué es un impuesto progresivo?",
+        "options": ["Un impuesto que aumenta con el nivel de ingresos", "Un impuesto fijo para todos", "Un impuesto al consumo", "Un arancel aduanero"],
+        "answer": "Un impuesto que aumenta con el nivel de ingresos"
+      },
+      {
+        "question": "¿Qué es la balanza comercial?",
+        "options": ["La diferencia entre exportaciones e importaciones", "El presupuesto nacional", "La deuda pública", "La reserva monetaria"],
+        "answer": "La diferencia entre exportaciones e importaciones"
+      }
+    ]
+  }

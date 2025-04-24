@@ -1,0 +1,367 @@
+{
+    "Cálculo Diferencial": [
+      {
+        "question": "¿Cuál es la derivada de f(x) = x²?",
+        "options": ["2x", "x", "x²", "1"],
+        "answer": "2x"
+      },
+      {
+        "question": "¿Qué representa la derivada en una función?",
+        "options": ["La pendiente de la recta tangente", "El área bajo la curva", "El máximo valor", "La raíz cuadrada"],
+        "answer": "La pendiente de la recta tangente"
+      },
+      {
+        "question": "¿Cuál es la derivada de f(x) = sin(x)?",
+        "options": ["cos(x)", "-cos(x)", "sin(x)", "tan(x)"],
+        "answer": "cos(x)"
+      },
+      {
+        "question": "¿Qué es la regla de la cadena en derivación?",
+        "options": ["Derivar funciones compuestas", "Sumar derivadas", "Integrar funciones", "Dividir polinomios"],
+        "answer": "Derivar funciones compuestas"
+      },
+      {
+        "question": "¿Cuál es la derivada de f(x) = e^x?",
+        "options": ["e^x", "0", "x·e^x", "1/x"],
+        "answer": "e^x"
+      },
+      {
+        "question": "¿Qué significa que una función sea diferenciable en un punto?",
+        "options": ["Que tiene derivada en ese punto", "Que es discontinua", "Que es constante", "Que no está definida"],
+        "answer": "Que tiene derivada en ese punto"
+      },
+      {
+        "question": "¿Cuál es la derivada de f(x) = ln(x)?",
+        "options": ["1/x", "x", "e^x", "0"],
+        "answer": "1/x"
+      },
+      {
+        "question": "¿Qué representa f''(x) en física si f(x) es la posición?",
+        "options": ["Aceleración", "Velocidad", "Distancia", "Tiempo"],
+        "answer": "Aceleración"
+      },
+      {
+        "question": "¿Cómo se deriva f(x) = x³ + 2x²?",
+        "options": ["3x² + 4x", "x² + 4x", "3x + 4", "6x + 4"],
+        "answer": "3x² + 4x"
+      },
+      {
+        "question": "¿Qué es un punto crítico?",
+        "options": ["Donde la derivada es cero o no existe", "El valor máximo de la función", "Una discontinuidad", "Una asíntota"],
+        "answer": "Donde la derivada es cero o no existe"
+      }
+    ],
+    "Estructura de Datos": [
+      {
+        "question": "¿Cuál estructura sigue el principio FIFO?",
+        "options": ["Cola", "Pila", "Árbol", "Grafo"],
+        "answer": "Cola"
+      },
+      {
+        "question": "¿Qué estructura permite acceso rápido por índice?",
+        "options": ["Arreglo", "Lista enlazada", "Cola", "Árbol binario"],
+        "answer": "Arreglo"
+      },
+      {
+        "question": "¿Qué estructura usa LIFO?",
+        "options": ["Pila", "Cola", "Árbol", "Hash"],
+        "answer": "Pila"
+      },
+      {
+        "question": "¿Cuál es la complejidad de búsqueda en un árbol binario balanceado?",
+        "options": ["O(log n)", "O(n)", "O(1)", "O(n²)"],
+        "answer": "O(log n)"
+      },
+      {
+        "question": "¿Qué es un grafo dirigido?",
+        "options": ["Aristas con dirección", "Solo nodos", "Un árbol", "Una lista"],
+        "answer": "Aristas con dirección"
+      },
+      {
+        "question": "¿Qué algoritmo usa 'dividir y conquistar' para ordenar?",
+        "options": ["Merge Sort", "Bubble Sort", "Linear Search", "DFS"],
+        "answer": "Merge Sort"
+      },
+      {
+        "question": "¿Qué estructura es mejor para implementar una cola de prioridad?",
+        "options": ["Heap", "Arreglo", "Lista enlazada", "Pila"],
+        "answer": "Heap"
+      },
+      {
+        "question": "¿Qué es un árbol AVL?",
+        "options": ["Árbol binario balanceado", "Un grafo", "Una tabla hash", "Una pila"],
+        "answer": "Árbol binario balanceado"
+      },
+      {
+        "question": "¿Cuál es la peor complejidad de QuickSort?",
+        "options": ["O(n²)", "O(n log n)", "O(1)", "O(n)"],
+        "answer": "O(n²)"
+      },
+      {
+        "question": "¿Qué estructura usa claves y valores?",
+        "options": ["Tabla hash", "Pila", "Cola", "Árbol"],
+        "answer": "Tabla hash"
+      }
+    ],
+    "Desarrollo Organizacional": [
+      {
+        "question": "¿Qué busca el desarrollo organizacional?",
+        "options": ["Mejorar la eficiencia y el ambiente laboral", "Despedir empleados", "Aumentar los costos", "Reducir el salario"],
+        "answer": "Mejorar la eficiencia y el ambiente laboral"
+      },
+      {
+        "question": "¿Qué es una cultura organizacional?",
+        "options": ["Conjunto de valores, creencias y normas compartidas", "Reglamento escolar", "Sistema de salarios", "Informe de ventas"],
+        "answer": "Conjunto de valores, creencias y normas compartidas"
+      },
+      {
+        "question": "¿Qué herramienta se usa para analizar el entorno competitivo?",
+        "options": ["Análisis SWOT", "Balance general", "Diagrama de Gantt", "Curva de demanda"],
+        "answer": "Análisis SWOT"
+      },
+      {
+        "question": "¿Qué es el cambio organizacional?",
+        "options": ["Adaptación a nuevas condiciones", "Mantener el statu quo", "Despedir empleados", "Ignorar el mercado"],
+        "answer": "Adaptación a nuevas condiciones"
+      },
+      {
+        "question": "¿Qué mide el clima organizacional?",
+        "options": ["Percepción de los empleados", "Ganancias anuales", "Número de clientes", "Horas trabajadas"],
+        "answer": "Percepción de los empleados"
+      },
+      {
+        "question": "¿Qué es un líder transformacional?",
+        "options": ["Inspira y motiva al cambio", "Controla con reglas estrictas", "Evita la innovación", "Solo delega tareas"],
+        "answer": "Inspira y motiva al cambio"
+      },
+      {
+        "question": "¿Cuál es un objetivo del feedback 360°?",
+        "options": ["Evaluación integral del desempeño", "Reducir costos", "Aumentar ventas", "Automatizar procesos"],
+        "answer": "Evaluación integral del desempeño"
+      },
+      {
+        "question": "¿Qué promueve la comunicación asertiva?",
+        "options": ["Claridad y respeto", "Agresividad", "Pasividad", "Ambigüedad"],
+        "answer": "Claridad y respeto"
+      },
+      {
+        "question": "¿Qué es la responsabilidad social corporativa?",
+        "options": ["Contribuir al bienestar social", "Maximizar ganancias a cualquier costo", "Ignorar regulaciones", "Reducir la plantilla"],
+        "answer": "Contribuir al bienestar social"
+      },
+      {
+        "question": "¿Qué técnica usa lluvia de ideas?",
+        "options": ["Generar ideas creativas", "Evaluar finanzas", "Controlar inventario", "Medir productividad"],
+        "answer": "Generar ideas creativas"
+      }
+    ],
+    "Programación Orientada a Objetos": [
+      {
+        "question": "¿Qué es un objeto en POO?",
+        "options": ["Una instancia de una clase", "Una variable", "Una función", "Un archivo"],
+        "answer": "Una instancia de una clase"
+      },
+      {
+        "question": "¿Qué palabra clave se usa para herencia en Java?",
+        "options": ["extends", "implements", "inherits", "prototype"],
+        "answer": "extends"
+      },
+      {
+        "question": "¿Qué principio permite ocultar detalles internos?",
+        "options": ["Encapsulamiento", "Herencia", "Polimorfismo", "Abstracción"],
+        "answer": "Encapsulamiento"
+      },
+      {
+        "question": "¿Qué es el polimorfismo?",
+        "options": ["Un objeto puede tomar muchas formas", "Solo una clase por objeto", "Ocultar atributos", "Evitar herencia"],
+        "answer": "Un objeto puede tomar muchas formas"
+      },
+      {
+        "question": "¿Qué es una interfaz?",
+        "options": ["Contrato de métodos a implementar", "Una clase concreta", "Un objeto instanciado", "Un tipo de dato primitivo"],
+        "answer": "Contrato de métodos a implementar"
+      },
+      {
+        "question": "¿Qué método se ejecuta al crear un objeto?",
+        "options": ["Constructor", "Destructor", "Main", "Setter"],
+        "answer": "Constructor"
+      },
+      {
+        "question": "¿Qué es la sobrecarga de métodos?",
+        "options": ["Múltiples métodos con el mismo nombre pero diferentes parámetros", "Redefinir un método en una subclase", "Eliminar métodos", "Ocultar métodos"],
+        "answer": "Múltiples métodos con el mismo nombre pero diferentes parámetros"
+      },
+      {
+        "question": "¿Qué lenguaje es puramente orientado a objetos?",
+        "options": ["Smalltalk", "C", "Java", "Python"],
+        "answer": "Smalltalk"
+      },
+      {
+        "question": "¿Qué patrón crea objetos sin especificar la clase exacta?",
+        "options": ["Factory Method", "Singleton", "Observer", "Decorator"],
+        "answer": "Factory Method"
+      },
+      {
+        "question": "¿Qué es la cohesión en POO?",
+        "options": ["Grado de relación entre elementos de un módulo", "Acoplamiento entre clases", "Herencia múltiple", "Uso de interfaces"],
+        "answer": "Grado de relación entre elementos de un módulo"
+      }
+    ],
+    "English for Social Situations and Communication": [
+      {
+        "question": "What does 'How do you do?' mean?",
+        "options": ["It's a formal greeting", "It means 'What are you doing?'", "It's an insult", "It's a goodbye"],
+        "answer": "It's a formal greeting"
+      },
+      {
+        "question": "What is a polite way to ask for help?",
+        "options": ["Give me that!", "Help me now!", "Can you please help me?", "You must help me!"],
+        "answer": "Can you please help me?"
+      },
+      {
+        "question": "What does 'Broke the ice' mean?",
+        "options": ["Start a conversation in a tense situation", "Literally break ice", "End a discussion", "Ignore someone"],
+        "answer": "Start a conversation in a tense situation"
+      },
+      {
+        "question": "How do you respond to 'Thank you' formally?",
+        "options": ["You're welcome", "No problem", "Sure", "Yeah"],
+        "answer": "You're welcome"
+      },
+      {
+        "question": "What does 'Let's touch base' mean?",
+        "options": ["To reconnect later", "To play baseball", "To argue", "To finish a project"],
+        "answer": "To reconnect later"
+      },
+      {
+        "question": "Which phrase is used to interrupt politely?",
+        "options": ["Excuse me, may I add something?", "Shut up!", "I don't care", "Your idea is bad"],
+        "answer": "Excuse me, may I add something?"
+      },
+      {
+        "question": "What does 'ASAP' stand for?",
+        "options": ["As soon as possible", "Always say a prayer", "After Saturday arrives probably", "All systems are perfect"],
+        "answer": "As soon as possible"
+      },
+      {
+        "question": "How do you decline an invitation politely?",
+        "options": ["I appreciate it, but I can't", "No way!", "I hate parties", "Your events are boring"],
+        "answer": "I appreciate it, but I can't"
+      },
+      {
+        "question": "What is a 'networking event'?",
+        "options": ["Opportunity to meet professionals", "A sports competition", "A solo work session", "A family gathering"],
+        "answer": "Opportunity to meet professionals"
+      },
+      {
+        "question": "What does 'Keep me posted' mean?",
+        "options": ["Update me later", "Send me a letter", "Ignore the news", "Stop communicating"],
+        "answer": "Update me later"
+      }
+    ],
+    "Educación para la Salud": [
+      {
+        "question": "¿Qué es una medida preventiva?",
+        "options": ["Evitar el contacto con agentes de riesgo", "Ignorar síntomas", "Automedicarse", "Tomar refresco en exceso"],
+        "answer": "Evitar el contacto con agentes de riesgo"
+      },
+      {
+        "question": "¿Qué promueve la educación para la salud?",
+        "options": ["Hábitos saludables y bienestar", "Consumo excesivo de azúcar", "Uso de drogas", "Sedentarismo"],
+        "answer": "Hábitos saludables y bienestar"
+      },
+      {
+        "question": "¿Qué enfermedad previene la vacunación?",
+        "options": ["Sarampión", "Diabetes tipo 2", "Hipertensión", "Migraña"],
+        "answer": "Sarampión"
+      },
+      {
+        "question": "¿Cuál es un componente de la salud mental?",
+        "options": ["Manejo del estrés", "Comer rápido", "Aislamiento social", "Trabajar sin descanso"],
+        "answer": "Manejo del estrés"
+      },
+      {
+        "question": "¿Qué acción previene infecciones respiratorias?",
+        "options": ["Lavarse las manos", "Comer alimentos crudos", "Fumar", "Dormir poco"],
+        "answer": "Lavarse las manos"
+      },
+      {
+        "question": "¿Qué es una dieta balanceada?",
+        "options": ["Incluir todos los grupos alimenticios", "Solo comer carbohidratos", "Evitar frutas", "Saltarse comidas"],
+        "answer": "Incluir todos los grupos alimenticios"
+      },
+      {
+        "question": "¿Qué beneficia el ejercicio regular?",
+        "options": ["Salud cardiovascular", "Aumentar el colesterol", "Reducir flexibilidad", "Empeorar el ánimo"],
+        "answer": "Salud cardiovascular"
+      },
+      {
+        "question": "¿Qué factor es de riesgo para enfermedades crónicas?",
+        "options": ["Obesidad", "Hidratación", "Dieta equilibrada", "Ejercicio diario"],
+        "answer": "Obesidad"
+      },
+      {
+        "question": "¿Qué método previene embarazos no planeados?",
+        "options": ["Anticonceptivos", "Abstinencia permanente", "Ignorar el tema", "Automedicación"],
+        "answer": "Anticonceptivos"
+      },
+      {
+        "question": "¿Qué acción ayuda a detectar cáncer temprano?",
+        "options": ["Chequeos médicos anuales", "Ignorar síntomas", "Evitar médicos", "Usar remedios caseros"],
+        "answer": "Chequeos médicos anuales"
+      }
+    ],
+    "Números Complejos": [
+      {
+        "question": "¿Cuál es la unidad imaginaria?",
+        "options": ["i", "j", "x", "z"],
+        "answer": "i"
+      },
+      {
+        "question": "¿Qué representa el número complejo 3 + 2i?",
+        "options": ["Parte real 3, parte imaginaria 2i", "Parte imaginaria 3, parte real 2i", "Un número racional", "Un número irracional"],
+        "answer": "Parte real 3, parte imaginaria 2i"
+      },
+      {
+        "question": "¿Cómo se suma (2 + 3i) + (1 - 2i)?",
+        "options": ["3 + i", "1 + 5i", "3 - i", "2 + i"],
+        "answer": "3 + i"
+      },
+      {
+        "question": "¿Qué es el conjugado de 5 - 4i?",
+        "options": ["5 + 4i", "-5 + 4i", "5 - 4i", "-5 - 4i"],
+        "answer": "5 + 4i"
+      },
+      {
+        "question": "¿Cuál es el módulo de 3 + 4i?",
+        "options": ["5", "7", "1", "25"],
+        "answer": "5"
+      },
+      {
+        "question": "¿Qué forma tiene un número complejo en coordenadas polares?",
+        "options": ["r(cosθ + i·sinθ)", "a + b·i", "x² + y²", "Re(z) + Im(z)"],
+        "answer": "r(cosθ + i·sinθ)"
+      },
+      {
+        "question": "¿Qué operación representa (a + bi)(c + di)?",
+        "options": ["Multiplicación de complejos", "Suma", "Conjugación", "División"],
+        "answer": "Multiplicación de complejos"
+      },
+      {
+        "question": "¿Qué es la fórmula de Euler para complejos?",
+        "options": ["e^(iθ) = cosθ + i·sinθ", "a² + b² = c²", "z = a + bi", "Re(z) = a"],
+        "answer": "e^(iθ) = cosθ + i·sinθ"
+      },
+      {
+        "question": "¿Cómo se divide (6 + 3i) / (1 + i)?",
+        "options": ["4.5 - 1.5i", "6 + 3i", "3 + 6i", "1.5 + 4.5i"],
+        "answer": "4.5 - 1.5i"
+      },
+      {
+        "question": "¿Qué aplicación tienen los números complejos?",
+        "options": ["Circuitos eléctricos", "Contabilidad básica", "Geometría euclidiana", "Estadística descriptiva"],
+        "answer": "Circuitos eléctricos"
+      }
+    ]
+  }
+  

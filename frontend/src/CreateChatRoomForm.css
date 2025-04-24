@@ -1,0 +1,215 @@
+/* Mantenemos la paleta de colores consistente */
+:root {
+  --red: #E41B17;
+  --yellow: #FFC107;
+  --blue: #1E88E5;
+  --paper: #FFF9F0;
+  --ink: #3E2723;
+  --border: #5D4037;
+}
+
+.create-room-container {
+  background: var(--paper);
+  border: 3px solid var(--border);
+  border-radius: 2px;
+  box-shadow: 8px 8px 0 rgba(0,0,0,0.1);
+  padding: 2rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  position: relative;
+  font-family: 'Dela Gothic One', sans-serif;
+}
+
+.create-room-header {
+  background: var(--red);
+  padding: 1rem;
+  margin: -2rem -2rem 1.5rem -2rem;
+  border-bottom: 3px solid var(--border);
+  text-align: center;
+}
+
+.create-room-header h2 {
+  color: white;
+  margin: 0;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  text-shadow: 2px 2px 0 rgba(0,0,0,0.2);
+}
+
+.create-room-header .icon {
+  margin-right: 0.5rem;
+}
+
+.create-room-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.form-field {
+  margin-bottom: 1rem;
+}
+
+.form-field label {
+  display: block;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+
+.input-area {
+  position: relative;
+}
+
+.form-icon {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--blue);
+  font-size: 1.2rem;
+}
+
+.input-area input {
+  width: 100%;
+  padding: 1rem 1rem 1rem 3rem;
+  border: 2px solid var(--border);
+  background: rgba(255,255,255,0.7);
+  font-family: 'Dela Gothic One', sans-serif;
+  font-size: 0.9rem;
+}
+
+.input-decoration {
+  height: 3px;
+  background: var(--yellow);
+  width: 0;
+  transition: width 0.3s;
+  margin-top: 5px;
+}
+
+.input-area input:focus + .input-decoration {
+  width: 100%;
+}
+
+/* Estilo para el checkbox */
+.checkbox-field label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.checkbox-field input[type="checkbox"] {
+  display: none;
+}
+
+.checkbox-custom {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: white;
+  border: 2px solid var(--border);
+  margin-right: 10px;
+  position: relative;
+}
+
+.checkbox-field input[type="checkbox"]:checked + .checkbox-custom::after {
+  content: "✓";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: var(--blue);
+  font-size: 1rem;
+}
+
+/* Estilo para el input de archivo */
+.file-input-wrapper {
+  border: 2px dashed var(--border);
+  padding: 1.5rem;
+  text-align: center;
+  background: rgba(255,255,255,0.7);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.file-input-wrapper:hover {
+  background: rgba(255,255,255,0.9);
+}
+
+.file-input-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.file-input-icon {
+  color: var(--blue);
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.file-input-text {
+  font-family: 'Dela Gothic One', sans-serif;
+  color: var(--ink);
+  font-size: 0.9rem;
+}
+
+.file-input-wrapper input[type="file"] {
+  display: none;
+}
+
+/* Botón de submit */
+.submit-button {
+  width: 100%;
+  padding: 1rem;
+  background: var(--blue);
+  color: white;
+  border: none;
+  font-family: 'Dela Gothic One', sans-serif;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  margin-top: 1rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  border: 2px solid var(--border);
+}
+
+.submit-button:hover {
+  background: #1565C0;
+  transform: translateY(-2px);
+}
+
+/* Mensajes de error/éxito */
+.create-room-message {
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  font-family: 'Dela Gothic One', sans-serif;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.create-room-message.error {
+  background: rgba(228, 27, 23, 0.1);
+  border-left: 4px solid var(--red);
+  color: var(--red);
+}
+
+.create-room-message.success {
+  background: rgba(33, 186, 69, 0.1);
+  border-left: 4px solid #21ba45;
+  color: #21ba45;
+}
+
+/* Decoraciones */
+.create-room-container::after {
+  content: "";
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 50px;
+  height: 50px;
+  background: radial-gradient(circle, var(--yellow) 0%, transparent 70%);
+  opacity: 0.2;
+}

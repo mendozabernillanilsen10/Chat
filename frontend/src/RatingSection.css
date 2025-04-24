@@ -1,0 +1,179 @@
+/* Mantenemos la paleta base pero con ajustes */
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+:root {
+  --red: #E41B17;
+  --yellow: #FFC107;
+  --blue: #1E88E5;
+  --paper: #FFF9F0;
+  --ink: #3E2723;
+  --border: #5D4037;
+  --highlight: #FFEE58;
+}
+
+.rating-container {
+  background: var(--paper);
+  border: 3px solid var(--border);
+  border-radius: 2px;
+  box-shadow: 6px 6px 0 rgba(0,0,0,0.1);
+  padding: 2rem;
+  position: relative;
+  overflow: hidden;
+  margin: 2rem auto;
+  max-width: 900px;
+}
+
+.rating-container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 10px;
+  background: repeating-linear-gradient(
+    45deg,
+    var(--red),
+    var(--red) 10px,
+    var(--yellow) 10px,
+    var(--yellow) 20px
+  );
+}
+
+.rating-title {
+  font-family: 'Dela Gothic One', sans-serif;
+  color: var(--red);
+  text-shadow: 2px 2px 0 rgba(0,0,0,0.1);
+  border-bottom: 2px dashed var(--border);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+  letter-spacing: 1px;
+}
+
+/* Selector estilo pizarra */
+.room-selector {
+  font-family: 'Dela Gothic One', sans-serif;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border: 2px solid var(--border);
+  background: rgba(255,255,255,0.7);
+  appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%235D4037'%3e%3cpath d='M7 10l5 5 5-5z'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 1rem center;
+  background-size: 1rem;
+}
+
+/* Estrellas de rating personalizadas */
+.custom-rating {
+  margin: 1rem 0;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.custom-rating .star {
+  color: var(--yellow);
+  font-size: 2rem;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.custom-rating .star:hover {
+  transform: scale(1.2);
+}
+
+/* Área de comentarios estilo formulario vintage */
+.comment-area {
+  width: 100%;
+  min-height: 120px;
+  padding: 1rem;
+  border: 2px solid var(--border);
+  background: rgba(255,255,255,0.7);
+  font-family: 'Dela Gothic One', sans-serif;
+  margin-bottom: 1.5rem;
+  resize: vertical;
+}
+
+/* Botón con variación */
+.submit-rating {
+  background: var(--blue);
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  font-family: 'Dela Gothic One', sans-serif;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  cursor: pointer;
+  border: 2px solid var(--border);
+  box-shadow: 3px 3px 0 rgba(0,0,0,0.1);
+  transition: all 0.2s;
+}
+
+.submit-rating:hover {
+  background: #1565C0;
+  transform: translateY(-2px);
+  box-shadow: 5px 5px 0 rgba(0,0,0,0.1);
+}
+
+/* Tarjetas de ratings */
+.ratings-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.rating-card {
+  background: white;
+  border: 2px solid var(--border);
+  padding: 1.5rem;
+  position: relative;
+}
+
+.rating-card::after {
+  content: "";
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  width: 30px;
+  height: 30px;
+  background: radial-gradient(circle, var(--highlight) 0%, transparent 70%);
+  opacity: 0.3;
+}
+
+.rating-card-header {
+  font-family: 'Dela Gothic One', sans-serif;
+  color: var(--red);
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.rating-card-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  font-family: 'Dela Gothic One', sans-serif;
+  color: var(--ink);
+  font-size: 0.9rem;
+}
+
+.rating-card-stars {
+  color: var(--yellow);
+}
+
+.rating-card-comment {
+  font-family: 'Dela Gothic One', sans-serif;
+  color: var(--ink);
+  line-height: 1.4;
+}
+
+/* Mensaje de error */
+.rating-error {
+  background: rgba(228, 27, 23, 0.1);
+  border-left: 4px solid var(--red);
+  padding: 1rem;
+  margin: 1rem 0;
+  font-family: 'Dela Gothic One', sans-serif;
+  color: var(--red);
+}

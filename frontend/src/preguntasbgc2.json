@@ -1,0 +1,818 @@
+{
+    "Comprensión y Exposición": [
+      {
+        "question": "¿Qué es una idea principal en un texto?",
+        "options": [
+          "El núcleo del contenido del texto",
+          "Un dato irrelevante",
+          "Un ejemplo secundario",
+          "Una conclusión repetitiva"
+        ],
+        "answer": "El núcleo del contenido del texto"
+      },
+      {
+        "question": "¿Qué es una conclusión en un texto argumentativo?",
+        "options": [
+          "El cierre lógico basado en las premisas",
+          "Una idea sin relación con el tema",
+          "Un dato anecdótico",
+          "Un resumen sin argumentos"
+        ],
+        "answer": "El cierre lógico basado en las premisas"
+      },
+      {
+        "question": "¿Qué técnica ayuda a identificar ideas principales?",
+        "options": [
+          "Subrayado selectivo",
+          "Lectura diagonal rápida",
+          "Memorización literal",
+          "Traducción a otro idioma"
+        ],
+        "answer": "Subrayado selectivo"
+      },
+      {
+        "question": "¿Qué elemento NO pertenece a una exposición oral efectiva?",
+        "options": [
+          "Lenguaje técnico sin explicar",
+          "Contacto visual con la audiencia",
+          "Estructura lógica (introducción, desarrollo, conclusión)",
+          "Modulación de voz"
+        ],
+        "answer": "Lenguaje técnico sin explicar"
+      },
+      {
+        "question": "¿Qué recurso refuerza argumentos en una exposición?",
+        "options": [
+          "Datos estadísticos verificables",
+          "Opiniones personales sin fundamento",
+          "Generalizaciones",
+          "Hipótesis no comprobadas"
+        ],
+        "answer": "Datos estadísticos verificables"
+      },
+      {
+        "question": "¿Qué tipo de discurso busca persuadir?",
+        "options": [
+          "Argumentativo",
+          "Descriptivo",
+          "Narrativo",
+          "Expositivo"
+        ],
+        "answer": "Argumentativo"
+      },
+      {
+        "question": "¿Qué porcentaje del lenguaje en exposiciones es no verbal?",
+        "options": [
+          "30%",
+          "55%",
+          "70%",
+          "90%"
+        ],
+        "answer": "55%"
+      },
+      {
+        "question": "¿Qué técnica organiza ideas para escribir?",
+        "options": [
+          "Lluvia de ideas",
+          "Copiar textos completos",
+          "Improvisación",
+          "Uso exclusivo de imágenes"
+        ],
+        "answer": "Lluvia de ideas"
+      },
+      {
+        "question": "¿Qué caracteriza un buen resumen?",
+        "options": [
+          "Síntesis con palabras propias",
+          "Repetición literal del texto",
+          "Inclusión de todos los detalles",
+          "Extensión mayor al original"
+        ],
+        "answer": "Síntesis con palabras propias"
+      },
+      {
+        "question": "¿Qué error común debe evitarse al exponer?",
+        "options": [
+          "Monotonía vocal",
+          "Claridad en ejemplos",
+          "Estructura organizada",
+          "Dominio del tema"
+        ],
+        "answer": "Monotonía vocal"
+      }
+    ],
+    "Lengua Extranjera 2": [
+      {
+        "question": "¿Qué significa 'Good morning' en español?",
+        "options": [
+          "Buenas noches",
+          "Buenos días",
+          "Buenas tardes",
+          "Hola"
+        ],
+        "answer": "Buenos días"
+      },
+      {
+        "question": "¿Cómo se dice 'Gracias' en inglés?",
+        "options": [
+          "Thanks",
+          "Hello",
+          "Sorry",
+          "Please"
+        ],
+        "answer": "Thanks"
+      },
+      {
+        "question": "¿Qué significa 'How are you?' en español?",
+        "options": [
+          "¿Quién eres?",
+          "¿Cómo estás?",
+          "¿Dónde vives?",
+          "¿Qué hora es?"
+        ],
+        "answer": "¿Cómo estás?"
+      },
+      {
+        "question": "¿Cómo se forma el pasado simple de verbos regulares en inglés?",
+        "options": [
+          "Añadiendo -ed",
+          "Añadiendo -ing",
+          "Cambiando la vocal",
+          "Sin cambios"
+        ],
+        "answer": "Añadiendo -ed"
+      },
+      {
+        "question": "¿Qué auxiliar se usa para preguntas en presente?",
+        "options": [
+          "Do/Does",
+          "Did",
+          "Have",
+          "Will"
+        ],
+        "answer": "Do/Does"
+      },
+      {
+        "question": "¿Qué significa 'I have a question' en español?",
+        "options": [
+          "Tengo una respuesta",
+          "Tengo una pregunta",
+          "Tengo un problema",
+          "Tengo una idea"
+        ],
+        "answer": "Tengo una pregunta"
+      },
+      {
+        "question": "¿Qué preposición indica lugar en 'The book is on the table'?",
+        "options": [
+          "On",
+          "In",
+          "At",
+          "Under"
+        ],
+        "answer": "On"
+      },
+      {
+        "question": "¿Cómo se dice 'Familia' en inglés?",
+        "options": [
+          "Family",
+          "Friend",
+          "House",
+          "School"
+        ],
+        "answer": "Family"
+      },
+      {
+        "question": "¿Qué tiempo verbal expresa acciones futuras planeadas?",
+        "options": [
+          "Present Continuous",
+          "Past Simple",
+          "Present Perfect",
+          "Future Simple"
+        ],
+        "answer": "Present Continuous"
+      },
+      {
+        "question": "¿Qué expresión significa 'De nada' en inglés?",
+        "options": [
+          "You're welcome",
+          "I'm sorry",
+          "Excuse me",
+          "Goodbye"
+        ],
+        "answer": "You're welcome"
+      }
+    ],
+    "Tecnologías de la Información 2": [
+      {
+        "question": "¿Qué es un procesador de texto?",
+        "options": [
+          "Un software para editar documentos",
+          "Un dispositivo de hardware",
+          "Un lenguaje de programación",
+          "Un sistema operativo"
+        ],
+        "answer": "Un software para editar documentos"
+      },
+      {
+        "question": "¿Qué es un archivo comprimido?",
+        "options": [
+          "Un archivo reducido en tamaño",
+          "Un archivo eliminado",
+          "Un tipo de carpeta",
+          "Un software de edición"
+        ],
+        "answer": "Un archivo reducido en tamaño"
+      },
+      {
+        "question": "¿Qué formato es para hojas de cálculo?",
+        "options": [
+          ".docx",
+          ".xlsx",
+          ".pptx",
+          ".pdf"
+        ],
+        "answer": ".xlsx"
+      },
+      {
+        "question": "¿Qué programa edita imágenes?",
+        "options": [
+          "Photoshop",
+          "Excel",
+          "Word",
+          "PowerPoint"
+        ],
+        "answer": "Photoshop"
+      },
+      {
+        "question": "¿Qué tecla combinación pega contenido?",
+        "options": [
+          "Ctrl + C",
+          "Ctrl + V",
+          "Ctrl + X",
+          "Ctrl + Z"
+        ],
+        "answer": "Ctrl + V"
+      },
+      {
+        "question": "¿Qué dispositivo almacena datos permanentemente?",
+        "options": [
+          "RAM",
+          "Disco duro",
+          "Procesador",
+          "Tarjeta gráfica"
+        ],
+        "answer": "Disco duro"
+      },
+      {
+        "question": "¿Qué extensión tiene un ejecutable en Windows?",
+        "options": [
+          ".exe",
+          ".jpg",
+          ".mp3",
+          ".html"
+        ],
+        "answer": ".exe"
+      },
+      {
+        "question": "¿Qué red social es profesional?",
+        "options": [
+          "Facebook",
+          "LinkedIn",
+          "TikTok",
+          "Instagram"
+        ],
+        "answer": "LinkedIn"
+      },
+      {
+        "question": "¿Qué protocolo usa el correo electrónico?",
+        "options": [
+          "HTTP",
+          "SMTP",
+          "FTP",
+          "HTTPS"
+        ],
+        "answer": "SMTP"
+      },
+      {
+        "question": "¿Qué herramienta organiza datos en filas y columnas?",
+        "options": [
+          "Procesador de texto",
+          "Hoja de cálculo",
+          "Editor de imágenes",
+          "Reproductor multimedia"
+        ],
+        "answer": "Hoja de cálculo"
+      }
+    ],
+    "Matemática y Vida Cotidiana 2": [
+      {
+        "question": "¿Qué es un número decimal?",
+        "options": [
+          "Un número con una parte fraccionaria",
+          "Un número entero",
+          "Un número negativo",
+          "Un número irracional"
+        ],
+        "answer": "Un número con una parte fraccionaria"
+      },
+      {
+        "question": "¿Qué es un triángulo rectángulo?",
+        "options": [
+          "Un triángulo con un ángulo de 90 grados",
+          "Un triángulo con todos sus lados iguales",
+          "Un triángulo con lados desiguales",
+          "Un triángulo con un ángulo obtuso"
+        ],
+        "answer": "Un triángulo con un ángulo de 90 grados"
+      },
+      {
+        "question": "¿Cómo se calcula el área de un rectángulo?",
+        "options": [
+          "Base × Altura",
+          "Lado × Lado",
+          "π × Radio²",
+          "(Base × Altura)/2"
+        ],
+        "answer": "Base × Altura"
+      },
+      {
+        "question": "¿Qué operación resuelve 3/4 + 1/2?",
+        "options": [
+          "5/4",
+          "4/6",
+          "3/8",
+          "2/6"
+        ],
+        "answer": "5/4"
+      },
+      {
+        "question": "¿Qué porcentaje es 0.75?",
+        "options": [
+          "7.5%",
+          "75%",
+          "0.075%",
+          "750%"
+        ],
+        "answer": "75%"
+      },
+      {
+        "question": "¿Qué unidad mide ángulos?",
+        "options": [
+          "Metros",
+          "Litros",
+          "Grados",
+          "Gramos"
+        ],
+        "answer": "Grados"
+      },
+      {
+        "question": "¿Qué propiedad aplica en a(b + c) = ab + ac?",
+        "options": [
+          "Distributiva",
+          "Conmutativa",
+          "Asociativa",
+          "Identidad"
+        ],
+        "answer": "Distributiva"
+      },
+      {
+        "question": "¿Qué número es primo?",
+        "options": [
+          "9",
+          "15",
+          "17",
+          "21"
+        ],
+        "answer": "17"
+      },
+      {
+        "question": "¿Qué fórmula calcula el perímetro de un cuadrado?",
+        "options": [
+          "4 × Lado",
+          "Lado × Lado",
+          "2 × (Base + Altura)",
+          "π × Diámetro"
+        ],
+        "answer": "4 × Lado"
+      },
+      {
+        "question": "¿Qué valor tiene π (pi) aproximado?",
+        "options": [
+          "2.14",
+          "3.1416",
+          "1.618",
+          "9.8"
+        ],
+        "answer": "3.1416"
+      }
+    ],
+    "Autoconocimiento y Personalidad": [
+      {
+        "question": "¿Qué es la autoestima?",
+        "options": [
+          "La valoración que una persona tiene de sí misma",
+          "El reconocimiento de logros ajenos",
+          "La evaluación de habilidades técnicas",
+          "La percepción de los demás sobre uno mismo"
+        ],
+        "answer": "La valoración que una persona tiene de sí misma"
+      },
+      {
+        "question": "¿Qué es la inteligencia emocional?",
+        "options": [
+          "La capacidad de gestionar emociones propias y ajenas",
+          "La habilidad para resolver problemas matemáticos",
+          "El conocimiento técnico sobre emociones",
+          "La ausencia de emociones en decisiones"
+        ],
+        "answer": "La capacidad de gestionar emociones propias y ajenas"
+      },
+      {
+        "question": "¿Qué técnica mejora el autoconocimiento?",
+        "options": [
+          "Autoreflexión guiada",
+          "Comparación constante con otros",
+          "Ignorar sentimientos",
+          "Evitar feedback"
+        ],
+        "answer": "Autoreflexión guiada"
+      },
+      {
+        "question": "¿Qué caracteriza a una persona resiliente?",
+        "options": [
+          "Adaptarse positivamente a adversidades",
+          "Evitar desafíos",
+          "Depender de otros para superar problemas",
+          "Rendirse fácilmente"
+        ],
+        "answer": "Adaptarse positivamente a adversidades"
+      },
+      {
+        "question": "¿Qué factor influye en la formación de la personalidad?",
+        "options": [
+          "Herencia y ambiente",
+          "Solo el coeficiente intelectual",
+          "Exclusivamente la educación formal",
+          "Únicamente los rasgos físicos"
+        ],
+        "answer": "Herencia y ambiente"
+      },
+      {
+        "question": "¿Qué es la asertividad?",
+        "options": [
+          "Expresar opiniones con respeto y firmeza",
+          "Agredir verbalmente",
+          "Callar ante conflictos",
+          "Manipular a otros"
+        ],
+        "answer": "Expresar opiniones con respeto y firmeza"
+      },
+      {
+        "question": "¿Qué técnica reduce el estrés?",
+        "options": [
+          "Mindfulness",
+          "Aislamiento social",
+          "Represión emocional",
+          "Autocrítica constante"
+        ],
+        "answer": "Mindfulness"
+      },
+      {
+        "question": "¿Qué caracteriza a los valores personales?",
+        "options": [
+          "Principios que guían conductas",
+          "Opiniones temporales",
+          "Preferencias materiales",
+          "Habilidades técnicas"
+        ],
+        "answer": "Principios que guían conductas"
+      },
+      {
+        "question": "¿Qué beneficio tiene establecer metas personales?",
+        "options": [
+          "Dirección y motivación en la vida",
+          "Dependencia de aprobación ajena",
+          "Inseguridad permanente",
+          "Comparación negativa con otros"
+        ],
+        "answer": "Dirección y motivación en la vida"
+      },
+      {
+        "question": "¿Qué es el autoconcepto?",
+        "options": [
+          "Imagen mental que tenemos de nosotros mismos",
+          "Percepción que otros tienen de nosotros",
+          "Lista de logros académicos",
+          "Evaluación de bienes materiales"
+        ],
+        "answer": "Imagen mental que tenemos de nosotros mismos"
+      }
+    ],
+    "Física 2": [
+      {
+        "question": "¿Qué es la energía cinética?",
+        "options": [
+          "La energía asociada al movimiento de un cuerpo",
+          "La energía almacenada en un resorte",
+          "La energía de un cuerpo en reposo",
+          "La energía debida a una reacción química"
+        ],
+        "answer": "La energía asociada al movimiento de un cuerpo"
+      },
+      {
+        "question": "¿Qué describe la ley de la gravitación universal?",
+        "options": [
+          "La fuerza de atracción entre dos masas",
+          "La fuerza de fricción entre dos superficies",
+          "La velocidad de un objeto en caída libre",
+          "La energía asociada a un resorte"
+        ],
+        "answer": "La fuerza de atracción entre dos masas"
+      },
+      {
+        "question": "¿Qué unidad mide la fuerza?",
+        "options": [
+          "Newton",
+          "Joule",
+          "Watt",
+          "Pascal"
+        ],
+        "answer": "Newton"
+      },
+      {
+        "question": "¿Qué ley explica que 'a toda acción hay una reacción igual y opuesta'?",
+        "options": [
+          "Primera ley de Newton",
+          "Segunda ley de Newton",
+          "Tercera ley de Newton",
+          "Ley de Hooke"
+        ],
+        "answer": "Tercera ley de Newton"
+      },
+      {
+        "question": "¿Qué tipo de energía tiene un objeto a cierta altura?",
+        "options": [
+          "Cinética",
+          "Potencial gravitatoria",
+          "Eléctrica",
+          "Térmica"
+        ],
+        "answer": "Potencial gravitatoria"
+      },
+      {
+        "question": "¿Qué principio explica por qué flotan los barcos?",
+        "options": [
+          "Principio de Arquímedes",
+          "Ley de Pascal",
+          "Ley de Ohm",
+          "Teorema de Bernoulli"
+        ],
+        "answer": "Principio de Arquímedes"
+      },
+      {
+        "question": "¿Qué instrumento mide la presión atmosférica?",
+        "options": [
+          "Termómetro",
+          "Barómetro",
+          "Dinamómetro",
+          "Velocímetro"
+        ],
+        "answer": "Barómetro"
+      },
+      {
+        "question": "¿Qué fenómeno produce el arcoíris?",
+        "options": [
+          "Reflexión de la luz",
+          "Refracción y dispersión de la luz",
+          "Difracción del sonido",
+          "Polarización electromagnética"
+        ],
+        "answer": "Refracción y dispersión de la luz"
+      },
+      {
+        "question": "¿Qué ley relaciona voltaje, corriente y resistencia?",
+        "options": [
+          "Ley de Coulomb",
+          "Ley de Ohm",
+          "Ley de Faraday",
+          "Ley de Ampère"
+        ],
+        "answer": "Ley de Ohm"
+      },
+      {
+        "question": "¿Qué tipo de lente converge rayos de luz?",
+        "options": [
+          "Cóncava",
+          "Convexa",
+          "Plana",
+          "Cilíndrica"
+        ],
+        "answer": "Convexa"
+      }
+    ],
+    "Química 1": [
+      {
+        "question": "¿Qué es un elemento químico?",
+        "options": [
+          "Una sustancia formada por átomos del mismo tipo",
+          "Una mezcla homogénea",
+          "Un compuesto de varias sustancias",
+          "Un átomo con carga eléctrica"
+        ],
+        "answer": "Una sustancia formada por átomos del mismo tipo"
+      },
+      {
+        "question": "¿Qué representa el número atómico de un elemento?",
+        "options": [
+          "El número de protones en el núcleo",
+          "El número de electrones en la capa exterior",
+          "La masa total del átomo",
+          "El número de neutrones en el núcleo"
+        ],
+        "answer": "El número de protones en el núcleo"
+      },
+      {
+        "question": "¿Qué partícula tiene carga negativa?",
+        "options": [
+          "Protón",
+          "Neutrón",
+          "Electrón",
+          "Núcleo"
+        ],
+        "answer": "Electrón"
+      },
+      {
+        "question": "¿Qué tipo de enlace comparten electrones?",
+        "options": [
+          "Iónico",
+          "Covalente",
+          "Metálico",
+          "Dipolo-dipolo"
+        ],
+        "answer": "Covalente"
+      },
+      {
+        "question": "¿Qué indica el pH de una sustancia?",
+        "options": [
+          "Su acidez o alcalinidad",
+          "Su densidad",
+          "Su conductividad eléctrica",
+          "Su punto de ebullición"
+        ],
+        "answer": "Su acidez o alcalinidad"
+      },
+      {
+        "question": "¿Qué cambio es irreversible?",
+        "options": [
+          "Derretir hielo",
+          "Quemar papel",
+          "Disolver azúcar",
+          "Condensar vapor"
+        ],
+        "answer": "Quemar papel"
+      },
+      {
+        "question": "¿Qué grupo es de metales alcalinos?",
+        "options": [
+          "Grupo 1",
+          "Grupo 2",
+          "Grupo 17",
+          "Grupo 18"
+        ],
+        "answer": "Grupo 1"
+      },
+      {
+        "question": "¿Qué ley conserva la masa en reacciones?",
+        "options": [
+          "Ley de Boyle",
+          "Ley de Lavoisier",
+          "Ley de Charles",
+          "Ley de Dalton"
+        ],
+        "answer": "Ley de Lavoisier"
+      },
+      {
+        "question": "¿Qué método separa mezclas por punto de ebullición?",
+        "options": [
+          "Filtración",
+          "Decantación",
+          "Destilación",
+          "Cromatografía"
+        ],
+        "answer": "Destilación"
+      },
+      {
+        "question": "¿Qué compuesto es NaCl?",
+        "options": [
+          "Agua",
+          "Cloruro de sodio",
+          "Dióxido de carbono",
+          "Amoníaco"
+        ],
+        "answer": "Cloruro de sodio"
+      }
+    ],
+    "Acercamiento al Desarrollo Deportivo": [
+      {
+        "question": "¿Qué es la resistencia aeróbica?",
+        "options": [
+          "La capacidad de mantener un esfuerzo prolongado",
+          "La fuerza máxima ejercida en un movimiento",
+          "La velocidad en carreras cortas",
+          "La flexibilidad de las articulaciones"
+        ],
+        "answer": "La capacidad de mantener un esfuerzo prolongado"
+      },
+      {
+        "question": "¿Qué es una alimentación balanceada en el deporte?",
+        "options": [
+          "Una dieta que incluye todos los grupos alimenticios",
+          "Comer solo carbohidratos",
+          "Evitar alimentos ricos en proteínas",
+          "Consumir alimentos altos en grasas"
+        ],
+        "answer": "Una dieta que incluye todos los grupos alimenticios"
+      },
+      {
+        "question": "¿Qué mide el VO2 máx?",
+        "options": [
+          "Consumo máximo de oxígeno",
+          "Frecuencia cardíaca en reposo",
+          "Porcentaje de grasa corporal",
+          "Fuerza muscular absoluta"
+        ],
+        "answer": "Consumo máximo de oxígeno"
+      },
+      {
+        "question": "¿Qué tipo de ejercicio desarrolla fuerza?",
+        "options": [
+          "Pesas",
+          "Yoga",
+          "Caminata",
+          "Estiramientos"
+        ],
+        "answer": "Pesas"
+      },
+      {
+        "question": "¿Qué principio evita lesiones en el entrenamiento?",
+        "options": [
+          "Progresión gradual",
+          "Intensidad máxima desde el inicio",
+          "Repetición idéntica diaria",
+          "Ignorar el calentamiento"
+        ],
+        "answer": "Progresión gradual"
+      },
+      {
+        "question": "¿Qué nutriente es principal fuente de energía inmediata?",
+        "options": [
+          "Proteínas",
+          "Carbohidratos",
+          "Grasas",
+          "Vitaminas"
+        ],
+        "answer": "Carbohidratos"
+      },
+      {
+        "question": "¿Qué deporte mejora la coordinación óculo-manual?",
+        "options": [
+          "Natación",
+          "Tenis",
+          "Ciclismo",
+          "Atletismo"
+        ],
+        "answer": "Tenis"
+      },
+      {
+        "question": "¿Qué caracteriza el entrenamiento en circuito?",
+        "options": [
+          "Series de ejercicios con pausas cortas",
+          "Una sola actividad prolongada",
+          "Ejercicio sin variación",
+          "Sin medición de resultados"
+        ],
+        "answer": "Series de ejercicios con pausas cortas"
+      },
+      {
+        "question": "¿Qué beneficio tiene el deporte en la salud mental?",
+        "options": [
+          "Liberación de endorfinas",
+          "Aumento del estrés",
+          "Disminución de la autoestima",
+          "Aislamiento social"
+        ],
+        "answer": "Liberación de endorfinas"
+      },
+      {
+        "question": "¿Qué prueba evalúa la flexibilidad?",
+        "options": [
+          "Test de Cooper",
+          "Test de Sit and Reach",
+          "Press de banca",
+          "Salto vertical"
+        ],
+        "answer": "Test de Sit and Reach"
+      }
+    ]
+  }

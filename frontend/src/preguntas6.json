@@ -1,0 +1,410 @@
+{
+    "costos y presupuestos": [
+      {
+        "question": "¿Qué es un costo fijo?",
+        "options": [
+          "Varía con la producción",
+          "Se mantiene constante",
+          "Es un gasto variable",
+          "Es un ingreso"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué representa un presupuesto?",
+        "options": [
+          "Gasto pasado",
+          "Plan financiero futuro",
+          "Ingreso actual",
+          "Costo de producción"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es un costo variable?",
+        "options": [
+          "No cambia",
+          "Depende del volumen de producción",
+          "Es un impuesto",
+          "Es un préstamo"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué se incluye en los costos indirectos?",
+        "options": [
+          "Mano de obra directa",
+          "Material directo",
+          "Alquiler y servicios",
+          "Pago al proveedor"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es el punto de equilibrio?",
+        "options": [
+          "Pérdida mínima",
+          "Ganancia máxima",
+          "Ingresos = Costos",
+          "Costos = 0"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es un estado de resultados?",
+        "options": [
+          "Balance general",
+          "Informe de pérdidas y ganancias",
+          "Flujo de caja",
+          "Inventario"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué significa presupuestar?",
+        "options": [
+          "Invertir",
+          "Gastar",
+          "Planificar financieramente",
+          "Ahorrar"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué se necesita para hacer un presupuesto?",
+        "options": [
+          "Solo ingresos",
+          "Solo gastos",
+          "Ingresos y gastos estimados",
+          "Activos fijos"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué herramienta se usa para controlar el presupuesto?",
+        "options": [
+          "Contabilidad",
+          "Estado de cuenta",
+          "Análisis financiero",
+          "Presupuesto maestro"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué es un costo de oportunidad?",
+        "options": [
+          "Costo fijo",
+          "Costo perdido por no elegir otra opción",
+          "Gasto innecesario",
+          "Costo de materiales"
+        ],
+        "answer": 1
+      }
+    ],
+    "redes de computadoras": [
+      {
+        "question": "¿Qué es una red LAN?",
+        "options": [
+          "Red amplia",
+          "Red de área local",
+          "Red inalámbrica",
+          "Red global"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué hace un router?",
+        "options": [
+          "Almacena datos",
+          "Conecta redes",
+          "Imprime documentos",
+          "Procesa gráficos"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué significa IP?",
+        "options": [
+          "Internet Protocol",
+          "Internal Process",
+          "Input Port",
+          "Interconnection Point"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué capa del modelo OSI es responsable del enrutamiento?",
+        "options": [
+          "Capa de red",
+          "Capa física",
+          "Capa de enlace",
+          "Capa de aplicación"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué protocolo se usa para enviar correos?",
+        "options": [
+          "HTTP",
+          "SMTP",
+          "FTP",
+          "TCP"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es una dirección MAC?",
+        "options": [
+          "IP pública",
+          "Identificador físico de red",
+          "Contraseña de red",
+          "Protocolo de red"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es un switch?",
+        "options": [
+          "Servidor",
+          "Dispositivo de red para interconectar equipos",
+          "Router inalámbrico",
+          "Firewall"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué hace el protocolo DHCP?",
+        "options": [
+          "Crea dominios",
+          "Asigna IPs automáticamente",
+          "Bloquea accesos",
+          "Envía correos"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué capa del modelo OSI maneja los cables y señales?",
+        "options": [
+          "Red",
+          "Enlace",
+          "Física",
+          "Transporte"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es una red WAN?",
+        "options": [
+          "Red doméstica",
+          "Red de área amplia",
+          "Red de oficina",
+          "Red virtual"
+        ],
+        "answer": 1
+      }
+    ],
+    "business english": [
+      {
+        "question": "What does 'CEO' stand for?",
+        "options": [
+          "Chief Engineering Officer",
+          "Chief Executive Officer",
+          "Central Executive Office",
+          "Chief Economic Officer"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is a 'deadline'?",
+        "options": [
+          "Meeting point",
+          "Final date to finish something",
+          "Start of a project",
+          "Contract end"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What does 'ASAP' mean?",
+        "options": [
+          "Always Save A Project",
+          "As Soon As Possible",
+          "Authorized Safety Access Point",
+          "After Sales Agreement Protocol"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is an invoice?",
+        "options": [
+          "Payment request",
+          "Meeting note",
+          "Email",
+          "Contract"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What is a 'meeting agenda'?",
+        "options": [
+          "Calendar",
+          "List of items to discuss",
+          "Email summary",
+          "Job contract"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is a 'promotion' in business?",
+        "options": [
+          "Advertising",
+          "Job advancement",
+          "Firing",
+          "Bonus"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is a 'budget'?",
+        "options": [
+          "Time plan",
+          "Money plan",
+          "Staff list",
+          "Project description"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is a 'stakeholder'?",
+        "options": [
+          "Investor only",
+          "Person affected by a project",
+          "Bank manager",
+          "Employee"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is a 'resignation letter'?",
+        "options": [
+          "Request to hire",
+          "Notice to quit a job",
+          "Email to a client",
+          "Project proposal"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is a 'negotiation'?",
+        "options": [
+          "Discussion to reach agreement",
+          "Argument",
+          "Job interview",
+          "Business lunch"
+        ],
+        "answer": 0
+      }
+    ],
+    "mantenimiento de computadoras": [
+      {
+        "question": "¿Qué es mantenimiento preventivo?",
+        "options": [
+          "Reparar fallas",
+          "Actualizar sistema",
+          "Evitar daños futuros",
+          "Reemplazar partes dañadas"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es el software antivirus?",
+        "options": [
+          "Sistema operativo",
+          "Programa de diseño",
+          "Protección contra malware",
+          "Driver de impresora"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué herramienta se usa para limpiar el polvo interno?",
+        "options": [
+          "Trapo mojado",
+          "Aire comprimido",
+          "Escoba",
+          "Jeringa"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué componente almacena el sistema operativo?",
+        "options": [
+          "RAM",
+          "CPU",
+          "Disco duro",
+          "Fuente de poder"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué hace el diagnóstico de hardware?",
+        "options": [
+          "Reinstala drivers",
+          "Verifica fallos físicos",
+          "Limpia archivos",
+          "Actualiza sistema"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué programa verifica errores del disco?",
+        "options": [
+          "Task Manager",
+          "CHKDSK",
+          "MSCONFIG",
+          "CMD"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es la BIOS?",
+        "options": [
+          "Sistema de red",
+          "Sistema básico de entrada/salida",
+          "Programa de diseño",
+          "Antivirus"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué se debe revisar antes de abrir una computadora?",
+        "options": [
+          "Fecha",
+          "Electricidad estática",
+          "Color del gabinete",
+          "Tamaño de pantalla"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es mantenimiento correctivo?",
+        "options": [
+          "Prevención",
+          "Instalación",
+          "Reparar fallos",
+          "Actualizar sistema"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué herramienta se usa para atornillar componentes?",
+        "options": [
+          "Martillo",
+          "Destornillador",
+          "Tenaza",
+          "Pinzas"
+        ],
+        "answer": 1
+      }
+    ]
+  }

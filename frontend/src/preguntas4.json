@@ -1,0 +1,319 @@
+{
+    "Mecánica física en la programación": [
+      {
+        "question": "¿Qué representa la aceleración en física?",
+        "options": ["La velocidad dividida entre el tiempo", "El cambio de velocidad en el tiempo", "La distancia entre dos cuerpos", "El peso de un objeto"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué ley establece que la fuerza es igual a la masa por aceleración?",
+        "options": ["Primera ley de Newton", "Segunda ley de Newton", "Tercera ley de Newton", "Ley de la gravedad"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es la inercia?",
+        "options": ["La resistencia de un objeto a cambiar su estado de movimiento", "La fuerza que actúa sobre un objeto en reposo", "El peso de un objeto en el espacio", "El cambio de velocidad en un instante"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es un vector en mecánica física?",
+        "options": ["Una cantidad que tiene magnitud y dirección", "Una cantidad que tiene sólo magnitud", "Un número sin unidades", "Una constante física"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué unidad se utiliza para medir la fuerza en el Sistema Internacional?",
+        "options": ["Newton", "Joule", "Watt", "Pascal"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es la velocidad angular?",
+        "options": ["La distancia recorrida por unidad de tiempo", "El cambio de posición angular por unidad de tiempo", "La aceleración dividida entre el tiempo", "La fuerza aplicada en un objeto circular"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué describe la tercera ley de Newton?",
+        "options": ["La relación entre masa y energía", "Que toda acción tiene una reacción igual y opuesta", "El movimiento uniforme de los objetos", "La fuerza gravitacional entre dos cuerpos"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es la energía cinética?",
+        "options": ["La energía almacenada en un objeto", "La energía debido al movimiento de un objeto", "La energía que se pierde por fricción", "La energía emitida por un objeto caliente"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es el trabajo en términos físicos?",
+        "options": ["La cantidad de fuerza aplicada", "El producto de la fuerza y el desplazamiento en la dirección de la fuerza", "La energía total de un objeto", "La velocidad promedio de un objeto"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es el momento lineal?",
+        "options": ["La fuerza dividida entre la masa", "El producto de la masa por la velocidad", "La energía aplicada a un objeto", "El desplazamiento de un objeto"],
+        "answer": 1
+      }
+    ],
+  
+    "Base de datos": [
+      {
+        "question": "¿Qué es una clave primaria?",
+        "options": ["Una columna que puede contener valores duplicados", "Una columna que identifica de manera única cada fila", "Un índice no único", "Una clave que no se puede usar para unir tablas"],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuál es el lenguaje principal para consultar bases de datos relacionales?",
+        "options": ["HTML", "CSS", "SQL", "Python"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es una clave foránea?",
+        "options": ["Una clave que identifica de manera única cada fila", "Una clave que conecta dos tablas en una relación", "Una columna con valores duplicados", "Una clave para indexar datos"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es una transacción en bases de datos?",
+        "options": ["Un conjunto de operaciones que se ejecutan de forma atómica", "Un comando para crear tablas", "Un tipo de índice", "Un procedimiento almacenado"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué significa 'normalización' en bases de datos?",
+        "options": ["Optimizar el diseño para reducir redundancia", "Crear índices en las tablas", "Eliminar todas las claves foráneas", "Dividir datos en tablas no relacionadas"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es un índice en bases de datos?",
+        "options": ["Un método para acelerar las consultas", "Una clave primaria", "Un tipo de relación entre tablas", "Un lenguaje de consulta"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué comando SQL se utiliza para insertar datos?",
+        "options": ["SELECT", "INSERT", "UPDATE", "DELETE"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es un procedimiento almacenado?",
+        "options": ["Una consulta básica", "Un conjunto de instrucciones almacenadas en el servidor", "Un índice no único", "Una relación entre tablas"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es una vista en bases de datos?",
+        "options": ["Una tabla temporal", "Una consulta almacenada como un objeto de base de datos", "Un índice único", "Un tipo de relación entre tablas"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué significa ACID en bases de datos?",
+        "options": ["Atomicidad, Consistencia, Aislamiento y Durabilidad", "Acceso, Compresión, Integridad y Diseño", "Alta Consistencia y Diseño", "Atomicidad y Consistencia de Índices"],
+        "answer": 0
+      }
+    ],
+  
+    "Ecuaciones diferenciales": [
+      {
+        "question": "¿Qué es una ecuación diferencial?",
+        "options": ["Una ecuación con constantes únicamente", "Una ecuación que involucra derivadas", "Una ecuación sin variables", "Una fórmula para calcular áreas"],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuál es el orden de una ecuación diferencial que contiene la derivada segunda?",
+        "options": ["Orden 1", "Orden 2", "Orden 3", "Orden 0"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es una solución particular en ecuaciones diferenciales?",
+        "options": ["Una solución que satisface sólo la ecuación homogénea", "Una solución que satisface condiciones iniciales específicas", "Una solución para ecuaciones algebraicas", "Una solución que no incluye términos constantes"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué método se utiliza para resolver ecuaciones diferenciales lineales de primer orden?",
+        "options": ["Separación de variables", "Transformada de Laplace", "Método de Euler", "Método de Newton"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es una ecuación diferencial homogénea?",
+        "options": ["Una ecuación que no incluye derivadas", "Una ecuación en la que el término independiente es cero", "Una ecuación con coeficientes constantes", "Una ecuación con derivadas parciales"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué significa resolver una ecuación diferencial?",
+        "options": ["Encontrar las derivadas", "Encontrar la función que satisface la ecuación", "Eliminar los términos constantes", "Transformar la ecuación en algebraica"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es una ecuación diferencial parcial?",
+        "options": ["Una ecuación que involucra derivadas parciales de varias variables", "Una ecuación con sólo una variable", "Una ecuación sin constantes", "Una ecuación homogénea"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es el método de integración por partes?",
+        "options": ["Un método para resolver ecuaciones diferenciales exactas", "Una técnica para resolver ecuaciones algebraicas", "Una técnica para integrar productos de funciones", "Un método para derivar ecuaciones"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué representa la transformada de Laplace?",
+        "options": ["Una transformación para resolver ecuaciones diferenciales", "Un método para integrar ecuaciones exactas", "Una técnica para derivar funciones", "Una fórmula para calcular áreas"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué significa el término 'condiciones iniciales' en ecuaciones diferenciales?",
+        "options": ["Valores específicos de la solución en un punto dado", "El orden de la ecuación", "El grado del polinomio asociado", "El resultado final de la ecuación"],
+        "answer": 0
+      }
+    ],
+  
+    "Lenguajes de programación .NET": [
+      {
+        "question": "¿Cuál de los siguientes es un lenguaje compatible con .NET?",
+        "options": ["Java", "Python", "C#", "Ruby"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es el CLR en .NET?",
+        "options": ["Una herramienta de diseño", "El compilador de C++", "El entorno de ejecución de .NET", "Un framework para Java"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es el framework .NET?",
+        "options": ["Un IDE", "Un conjunto de herramientas para desarrollar aplicaciones", "Un lenguaje de programación", "Un sistema operativo"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué herramienta se usa para compilar aplicaciones en .NET?",
+        "options": ["MSBuild", "Visual Studio Code", "Eclipse", "NetBeans"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué tipo de aplicaciones se pueden desarrollar con .NET?",
+        "options": ["Aplicaciones web", "Aplicaciones de escritorio", "Aplicaciones móviles", "Todas las anteriores"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué significa ASP en ASP.NET?",
+        "options": ["Active Server Pages", "Application Server Platform", "Advanced Script Programming", "Active Script Pages"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es un ensamblado en .NET?",
+        "options": ["Un archivo ejecutable o de biblioteca que contiene código MSIL", "Un archivo de configuración", "Un componente de hardware", "Un sistema de bases de datos"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es LINQ en .NET?",
+        "options": ["Una herramienta para depuración", "Un lenguaje para consultas integradas", "Una biblioteca para gráficos", "Un tipo de base de datos"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es un delegado en .NET?",
+        "options": ["Una referencia a un método", "Un tipo de clase base", "Un componente visual", "Un archivo de configuración"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es el Garbage Collector en .NET?",
+        "options": ["Un proceso que elimina objetos no utilizados de la memoria", "Un compilador de código MSIL", "Un optimizador de código", "Un verificador de tipos"],
+        "answer": 0
+      }
+    ],
+  
+    "English for Computer and Information Science": [
+      {
+        "question": "What is the meaning of the word 'database'?",
+        "options": ["A collection of books", "A storage location for data", "A programming language", "A type of software bug"],
+        "answer": 1
+      },
+      {
+        "question": "What does 'input' refer to in computing?",
+        "options": ["The final result", "The error message", "Data given to a computer", "The screen output"],
+        "answer": 2
+      },
+      {
+        "question": "What does the term 'output' mean in technology?",
+        "options": ["The data processed by a computer", "Data provided by a computer", "Instructions given to a computer", "Errors in a system"],
+        "answer": 1
+      },
+      {
+        "question": "What is a 'network' in computer science?",
+        "options": ["A single computer system", "A group of interconnected devices", "An algorithm", "A type of processor"],
+        "answer": 1
+      },
+      {
+        "question": "What does 'hardware' refer to?",
+        "options": ["Computer programs", "The physical components of a computer", "The internet", "A type of software"],
+        "answer": 1
+      },
+      {
+        "question": "What is the meaning of the term 'algorithm'?",
+        "options": ["A step-by-step procedure for solving a problem", "A type of programming language", "A computer virus", "An internet protocol"],
+        "answer": 0
+      },
+      {
+        "question": "What does the word 'software' mean?",
+        "options": ["The physical parts of a computer", "Programs and operating systems", "Networking devices", "Data storage devices"],
+        "answer": 1
+      },
+      {
+        "question": "What is the purpose of a 'compiler'?",
+        "options": ["To execute code directly", "To convert source code into machine code", "To store data", "To generate algorithms"],
+        "answer": 1
+      },
+      {
+        "question": "What does the term 'cloud computing' refer to?",
+        "options": ["Using local servers for storage", "Accessing computing resources over the internet", "A method of programming", "A type of hardware"],
+        "answer": 1
+      },
+      {
+        "question": "What is 'artificial intelligence'?",
+        "options": ["A programming tool", "The simulation of human intelligence in machines", "A type of database", "A computer hardware component"],
+        "answer": 1
+      }
+    ],
+  
+    "Cálculo vectorial": [
+      {
+        "question": "¿Qué es un vector en cálculo?",
+        "options": ["Una cantidad con sólo magnitud", "Una cantidad con magnitud y dirección", "Una constante matemática", "Una variable dependiente"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué representa el producto punto entre dos vectores?",
+        "options": ["El área entre ellos", "Una multiplicación escalar que da un número", "Un nuevo vector perpendicular", "Una suma de componentes"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es el producto cruz entre dos vectores?",
+        "options": ["Un número escalar", "Un vector perpendicular a ambos vectores", "La suma de sus magnitudes", "La proyección de un vector sobre otro"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es una base ortonormal?",
+        "options": ["Un conjunto de vectores linealmente dependientes", "Un conjunto de vectores ortogonales y normalizados", "Un sistema de referencia no cartesiano", "Una transformación lineal"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es un campo vectorial?",
+        "options": ["Un conjunto de puntos en el espacio", "Una función que asigna un vector a cada punto en el espacio", "Una ecuación diferencial", "Una integral definida"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es la divergencia de un campo vectorial?",
+        "options": ["La cantidad total de rotación del campo", "Una medida de la tasa de cambio de densidad del flujo en un punto", "La suma de los vectores en el campo", "El área bajo la curva del campo"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué representa el rotacional de un campo vectorial?",
+        "options": ["La cantidad de flujo que sale de un punto", "La tendencia de los vectores a girar alrededor de un punto", "El área bajo la curva del campo", "La magnitud del campo en un punto"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es una parametrización en cálculo vectorial?",
+        "options": ["Una función que asigna coordenadas a un punto en el espacio", "Una representación de una curva mediante un vector", "Un método para calcular integrales múltiples", "Una ecuación diferencial"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es una integral de línea en cálculo vectorial?",
+        "options": ["Una integral sobre una curva en un campo vectorial", "Una integral sobre un área plana", "Una suma de vectores", "Una derivada direccional"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es el teorema de Stokes?",
+        "options": ["Un teorema que relaciona la integral de superficie con la integral de volumen", "Un teorema que relaciona la integral de línea con la integral de superficie", "Un teorema sobre derivadas parciales", "Un teorema sobre campos conservativos"],
+        "answer": 1
+      }
+    ]
+  }

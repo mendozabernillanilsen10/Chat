@@ -1,0 +1,539 @@
+{
+    "Calor y campo electrostático de los cuerpos": [
+      {
+        "question": "¿Qué es el calor específico?",
+        "options": [
+          "La cantidad de calor que un cuerpo emite",
+          "La energía total interna de un cuerpo",
+          "La cantidad de calor necesaria para elevar la temperatura de una unidad de masa en un grado",
+          "La temperatura promedio de las partículas de un cuerpo"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Cuál es la unidad del campo eléctrico en el Sistema Internacional?",
+        "options": ["N/C", "V", "J/s", "C"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué ley relaciona la fuerza entre cargas eléctricas?",
+        "options": [
+          "Ley de Ohm",
+          "Ley de Coulomb",
+          "Ley de Faraday",
+          "Ley de Gauss"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué fenómeno describe la transferencia de calor por movimiento de fluidos?",
+        "options": [
+          "Conducción",
+          "Convección",
+          "Radiación",
+          "Inducción"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué material es mejor conductor del calor?",
+        "options": ["Madera", "Aire", "Cobre", "Plástico"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué instrumento mide la diferencia de potencial eléctrico?",
+        "options": ["Amperímetro", "Voltímetro", "Ohmímetro", "Galvanómetro"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué tipo de energía se asocia al campo electrostático?",
+        "options": [
+          "Energía cinética",
+          "Energía potencial eléctrica",
+          "Energía térmica",
+          "Energía mecánica"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué principio explica que los cuerpos calientes emitan radiación?",
+        "options": [
+          "Principio de Arquímedes",
+          "Ley de Stefan-Boltzmann",
+          "Teorema de Pitágoras",
+          "Ley de Hooke"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué representa la constante dieléctrica?",
+        "options": [
+          "La resistencia de un material al flujo de corriente",
+          "La capacidad de un material para almacenar energía electrostática",
+          "La conductividad térmica",
+          "La densidad del material"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué efecto tiene aumentar la distancia entre dos cargas eléctricas?",
+        "options": [
+          "Aumenta la fuerza entre ellas",
+          "Disminuye la fuerza entre ellas",
+          "No afecta la fuerza",
+          "Invierte la polaridad"
+        ],
+        "answer": 1
+      }
+    ],
+    "Tópicos avanzados de programación": [
+      {
+        "question": "¿Qué es la recursión en programación?",
+        "options": [
+          "Una técnica para repetir código sin funciones",
+          "Una función que se llama a sí misma",
+          "Una forma de optimizar el código",
+          "Un tipo de algoritmo de ordenamiento"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué estructura de datos se usa comúnmente para implementar una pila (stack)?",
+        "options": ["Arreglo", "Árbol", "Lista enlazada", "Cola"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué patrón de diseño permite crear objetos sin especificar su clase exacta?",
+        "options": ["Singleton", "Factory Method", "Observer", "Decorator"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es un 'closure' en programación funcional?",
+        "options": [
+          "Una función que captura variables de su entorno léxico",
+          "Un error de sintaxis",
+          "Una estructura de control",
+          "Un tipo de bucle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué algoritmo de ordenamiento tiene complejidad O(n log n) en el peor caso?",
+        "options": ["Bubble Sort", "QuickSort", "Merge Sort", "Insertion Sort"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué estructura es ideal para buscar elementos en tiempo constante (O(1))?",
+        "options": ["Tabla hash", "Árbol binario", "Lista enlazada", "Pila"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué técnica evita el bloqueo en programación concurrente?",
+        "options": ["Deadlock", "Race condition", "Mutex", "Semáforo"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué paradigma usa 'inmutabilidad' como principio central?",
+        "options": [
+          "Programación orientada a objetos",
+          "Programación funcional",
+          "Programación estructurada",
+          "Programación procedural"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es la 'memoización'?",
+        "options": [
+          "Almacenar resultados de funciones para evitar recálculos",
+          "Un tipo de herencia múltiple",
+          "Una forma de compilar código",
+          "Un error de memoria"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué lenguaje es puramente funcional?",
+        "options": ["Python", "Haskell", "Java", "C++"],
+        "answer": 1
+      }
+    ],
+    "Desarrollo de sistemas": [
+      {
+        "question": "¿Cuál es la primera etapa del ciclo de vida del desarrollo de sistemas?",
+        "options": [
+          "Diseño",
+          "Implementación",
+          "Análisis de requerimientos",
+          "Pruebas"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es un diagrama de flujo?",
+        "options": [
+          "Un diseño gráfico de la base de datos",
+          "Un mapa de navegación web",
+          "Una representación visual de un proceso o algoritmo",
+          "Una lista de requerimientos funcionales"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué metodología ágil usa 'sprints'?",
+        "options": ["Scrum", "Waterfall", "Spiral", "XP"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué documento describe las funcionalidades de un sistema?",
+        "options": [
+          "Manual de usuario",
+          "Requerimientos no funcionales",
+          "Caso de uso",
+          "Diagrama de clases"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué herramienta se usa para control de versiones?",
+        "options": ["Git", "Docker", "Jenkins", "Selenium"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué modelo de desarrollo es secuencial y rígido?",
+        "options": ["Ágil", "Waterfall", "Iterativo", "Prototipado"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué diagrama UML muestra interacciones entre objetos?",
+        "options": [
+          "Diagrama de secuencia",
+          "Diagrama de casos de uso",
+          "Diagrama de entidad-relación",
+          "Diagrama de estados"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué prueba verifica componentes individuales?",
+        "options": [
+          "Prueba de integración",
+          "Prueba unitaria",
+          "Prueba de sistema",
+          "Prueba de aceptación"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es un 'stakeholder' en desarrollo de sistemas?",
+        "options": [
+          "Un componente técnico",
+          "Una persona o grupo con interés en el proyecto",
+          "Un lenguaje de programación",
+          "Un servidor de bases de datos"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué técnica prioriza requerimientos por importancia?",
+        "options": [
+          "MoSCoW (Must, Should, Could, Won't)",
+          "Diagrama de Gantt",
+          "Análisis FODA",
+          "Brainstorming"
+        ],
+        "answer": 0
+      }
+    ],
+    "English and the World of Technology": [
+      {
+        "question": "What does 'cloud computing' refer to?",
+        "options": [
+          "Using physical servers in your office",
+          "Using the internet to access computing services",
+          "A method of printing documents",
+          "A type of virus in computers"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is the meaning of the word 'download'?",
+        "options": [
+          "Send a file",
+          "Copy a file to the internet",
+          "Transfer a file from the internet to your device",
+          "Erase a file"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does 'API' stand for?",
+        "options": [
+          "Automated Programming Interface",
+          "Application Programming Interface",
+          "Advanced Program Integration",
+          "Artificial Processing Intelligence"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is a 'firewall' in computing?",
+        "options": [
+          "A physical server",
+          "A security system that controls network traffic",
+          "A type of malware",
+          "A programming language"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What does 'IoT' mean?",
+        "options": [
+          "Internet of Things",
+          "Input/Output Terminal",
+          "Integrated Online Technology",
+          "Internal Operating Test"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What is 'machine learning'?",
+        "options": [
+          "A method to build physical robots",
+          "A subset of AI that enables systems to learn from data",
+          "A type of hardware",
+          "A programming paradigm"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What does 'UX' stand for?",
+        "options": [
+          "User Experience",
+          "Universal Exchange",
+          "Unix Extension",
+          "User Example"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What is a 'bug' in software?",
+        "options": [
+          "A feature",
+          "An error or flaw in a program",
+          "A type of hardware",
+          "A programming language"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What does 'open source' mean?",
+        "options": [
+          "Software with source code available for modification",
+          "Software that costs money",
+          "A type of proprietary license",
+          "A cloud service"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What is 'agile methodology'?",
+        "options": [
+          "A rigid development process",
+          "An iterative approach to project management",
+          "A type of programming language",
+          "A hardware design principle"
+        ],
+        "answer": 1
+      }
+    ],
+    "Lenguajes y autómatas": [
+      {
+        "question": "¿Qué es un autómata finito determinista (AFD)?",
+        "options": [
+          "Un tipo de lenguaje regular",
+          "Un modelo matemático para reconocer patrones en cadenas",
+          "Una gramática libre de contexto",
+          "Una función recursiva"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué representa el alfabeto en teoría de lenguajes formales?",
+        "options": [
+          "Un conjunto de símbolos permitidos",
+          "Un tipo de autómata",
+          "Una regla de producción",
+          "Un conjunto de cadenas válidas"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué tipo de gramática genera lenguajes regulares?",
+        "options": [
+          "Gramática libre de contexto",
+          "Gramática regular",
+          "Gramática sensible al contexto",
+          "Gramática recursiva"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué autómata reconoce lenguajes libres de contexto?",
+        "options": [
+          "AFD",
+          "Autómata de pila",
+          "Máquina de Turing",
+          "Autómata linealmente acotado"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué propiedad tiene un lenguaje recursivo?",
+        "options": [
+          "No puede ser decidido por una Máquina de Turing",
+          "Es decidible (siempre para aceptar o rechazar)",
+          "Solo puede ser generado por gramáticas sensibles al contexto",
+          "Es infinito"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué operación entre lenguajes produce todas las concatenaciones posibles?",
+        "options": [
+          "Unión",
+          "Intersección",
+          "Concatenación",
+          "Cerradura de Kleene"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es la 'jerarquía de Chomsky'?",
+        "options": [
+          "Una clasificación de lenguajes por complejidad gramatical",
+          "Un algoritmo de parsing",
+          "Un tipo de autómata",
+          "Una técnica de optimización"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué problema es indecidible para lenguajes formales?",
+        "options": [
+          "Verificar si una cadena pertenece a un lenguaje regular",
+          "El problema de la parada (Halting Problem)",
+          "Convertir un AFN a un AFD",
+          "Generar un lenguaje libre de contexto"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué símbolo se usa para derivaciones en gramáticas?",
+        "options": ["→", "∈", "∪", "∩"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué autómata puede reconocer lenguajes recursivamente enumerables?",
+        "options": [
+          "Autómata de pila",
+          "Máquina de Turing",
+          "AFD",
+          "Autómata linealmente acotado"
+        ],
+        "answer": 1
+      }
+    ],
+    "Cálculo Integral": [
+      {
+        "question": "¿Qué representa la integral definida?",
+        "options": [
+          "El área bajo la curva de una función entre dos puntos",
+          "El límite de una sucesión",
+          "La pendiente de una recta",
+          "El volumen de una esfera"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué método se utiliza comúnmente para integrar funciones racionales?",
+        "options": [
+          "Sustitución trigonométrica",
+          "Partes",
+          "Fracciones parciales",
+          "Límites"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Cuál es la integral de ∫(2x + 3) dx?",
+        "options": ["x² + 3x + C", "2x² + 3x + C", "x² + C", "3x + C"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué teorema relaciona derivadas e integrales definidas?",
+        "options": [
+          "Teorema de Pitágoras",
+          "Teorema Fundamental del Cálculo",
+          "Teorema de Rolle",
+          "Teorema del Valor Medio"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué técnica se usa para integrar ∫x·e^x dx?",
+        "options": [
+          "Sustitución",
+          "Integración por partes",
+          "Fracciones parciales",
+          "Identidades trigonométricas"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué representa ∫[a, b] f(x) dx si f(x) es negativa en [a, b]?",
+        "options": [
+          "El área positiva bajo la curva",
+          "El valor negativo del área",
+          "La pendiente media",
+          "La derivada en x = a"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuál es la integral de ∫cos(x) dx?",
+        "options": ["sin(x) + C", "-cos(x) + C", "tan(x) + C", "sec(x) + C"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué método aplica para ∫√(1 - x²) dx?",
+        "options": [
+          "Sustitución trigonométrica (x = sinθ)",
+          "Integración por partes",
+          "Fracciones parciales",
+          "División polinomial"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es una integral impropia?",
+        "options": [
+          "Una integral con límites finitos",
+          "Una integral con discontinuidades o límites infinitos",
+          "Una integral de funciones polinomiales",
+          "Una integral indefinida"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué representa la integral doble ∬f(x, y) dA?",
+        "options": [
+          "El volumen bajo una superficie",
+          "La longitud de una curva",
+          "El área de un rectángulo",
+          "La derivada parcial"
+        ],
+        "answer": 0
+      }
+    ]
+  }

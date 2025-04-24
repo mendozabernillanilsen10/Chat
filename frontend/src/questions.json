@@ -1,0 +1,368 @@
+{
+    "Herramientas computacionales": [
+      {
+        "question": "¿Qué programa se utiliza comúnmente para crear hojas de cálculo?",
+        "options": ["Word", "PowerPoint", "Excel", "Photoshop"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué dispositivo sirve para ingresar texto al computador?",
+        "options": ["Mouse", "Teclado", "Monitor", "Escáner"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué software es de código abierto?",
+        "options": ["Windows", "macOS", "Linux", "iOS"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué extensión tienen los archivos ejecutables en Windows?",
+        "options": [".txt", ".exe", ".jpg", ".mp3"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué comando se usa para listar archivos en la terminal?",
+        "options": ["cd", "ls", "mkdir", "rm"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué herramienta se usa para gestionar bases de datos?",
+        "options": ["Excel", "MySQL", "Photoshop", "Word"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué lenguaje se usa para estilizar páginas web?",
+        "options": ["HTML", "CSS", "Python", "Java"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué tecla abre el menú contextual en Windows?",
+        "options": ["F1", "Ctrl", "Alt", "Menú"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué protocolo se usa para páginas web seguras?",
+        "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué programa edita imágenes vectoriales?",
+        "options": ["Excel", "Illustrator", "Word", "PowerPoint"],
+        "answer": 1
+      }
+    ],
+    "Principios de programación": [
+      {
+        "question": "¿Cuál es el propósito de un bucle (loop) en programación?",
+        "options": ["Finalizar el programa", "Repetir acciones", "Detener el código", "Ejecutar una sola vez"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué estructura se usa para tomar decisiones?",
+        "options": ["While", "For", "If", "Return"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué tipo de lenguaje es Python?",
+        "options": ["Compilado", "Interpretado", "De bajo nivel", "De marcado"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es una variable?",
+        "options": ["Un valor fijo", "Un contenedor de datos", "Una función", "Un operador"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué operador compara igualdad estricta en JavaScript?",
+        "options": ["==", "===", "=", "!="],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué estructura almacena datos en pares clave-valor?",
+        "options": ["Array", "Objeto", "String", "Boolean"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué método añade un elemento al final de un array?",
+        "options": ["push()", "pop()", "shift()", "unshift()"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es un IDE?",
+        "options": ["Un lenguaje", "Un framework", "Un editor de código", "Un sistema operativo"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué paradigma usa clases y objetos?",
+        "options": ["Funcional", "Orientado a objetos", "Procedural", "Lógico"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué función imprime texto en la consola?",
+        "options": ["console.log()", "print()", "log()", "write()"],
+        "answer": 0
+      }
+    ],
+    "Perspectiva de género": [
+      {
+        "question": "¿Qué busca la perspectiva de género?",
+        "options": ["Eliminar la historia", "Promover estereotipos", "Lograr igualdad entre géneros", "Ignorar las diferencias"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es un estereotipo de género?",
+        "options": ["Una ley de igualdad", "Una percepción limitada sobre roles de género", "Una política pública", "Un tipo de derecho humano"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué promueve la equidad de género?",
+        "options": ["Desigualdad salarial", "Acceso igualitario a oportunidades", "Roles rígidos", "Discriminación"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué documento internacional protege los derechos de las mujeres?",
+        "options": ["Declaración de los Derechos Humanos", "Convención sobre la Eliminación de la Discriminación contra la Mujer (CEDAW)", "Protocolo de Kyoto", "Constitución Política"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es la interseccionalidad?",
+        "options": ["Un método estadístico", "Un enfoque que considera múltiples formas de discriminación", "Una ley laboral", "Un término económico"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué implica el techo de cristal?",
+        "options": ["Barreras invisibles para el ascenso laboral de mujeres", "Un tipo de arquitectura", "Una política de contratación", "Un sistema de seguridad"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es la sororidad?",
+        "options": ["Competencia entre mujeres", "Solidaridad entre mujeres", "Una teoría económica", "Un movimiento político"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué sector tiene mayor brecha salarial por género?",
+        "options": ["Tecnología", "Educación", "Salud", "Agricultura"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué país fue pionero en otorgar el voto femenino?",
+        "options": ["Estados Unidos", "Nueva Zelanda", "Francia", "México"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué artículo de la Constitución Mexicana garantiza igualdad de género?",
+        "options": ["Artículo 1", "Artículo 3", "Artículo 4", "Artículo 5"],
+        "answer": 2
+      }
+    ],
+    "Sustentabilidad ecológica": [
+      {
+        "question": "¿Qué recurso es renovable?",
+        "options": ["Petróleo", "Carbón", "Agua de lluvia", "Gas natural"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué práctica ayuda a la sustentabilidad?",
+        "options": ["Tirar basura en la calle", "Consumir sin control", "Reciclar materiales", "Desperdiciar agua"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es la huella ecológica?",
+        "options": ["Un indicador de impacto ambiental", "Un tipo de contaminación", "Una especie en peligro", "Un tratado internacional"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué energía es limpia?",
+        "options": ["Carbón", "Solar", "Nuclear", "Diesel"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué gas contribuye al efecto invernadero?",
+        "options": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Helio"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué país es líder en energías renovables?",
+        "options": ["China", "India", "Alemania", "Rusia"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué material tarda más en degradarse?",
+        "options": ["Papel", "Vidrio", "Orgánico", "Cartón"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué acción reduce el consumo energético?",
+        "options": ["Usar lámparas incandescentes", "Dejar aparatos en standby", "Instalar paneles solares", "Abrir ventanas con calefacción"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué tratado internacional aborda el cambio climático?",
+        "options": ["Protocolo de Kyoto", "Declaración Universal de Derechos Humanos", "Convención de Ginebra", "Acuerdo de París"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué es la economía circular?",
+        "options": ["Producción lineal", "Reutilización de recursos", "Extracción ilimitada", "Consumo desechable"],
+        "answer": 1
+      }
+    ],
+    "Redacción técnica": [
+      {
+        "question": "¿Cuál es el objetivo de la redacción técnica?",
+        "options": ["Divertir al lector", "Expresar emociones", "Transmitir información clara y precisa", "Hacer poesía"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué se evita en la redacción técnica?",
+        "options": ["Lenguaje claro", "Términos específicos", "Ambigüedad", "Datos verificables"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué elemento NO es parte de un informe técnico?",
+        "options": ["Introducción", "Bibliografía", "Opiniones personales", "Resultados"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué tiempo verbal predomina en la redacción técnica?",
+        "options": ["Presente", "Pasado", "Futuro", "Condicional"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es un resumen ejecutivo?",
+        "options": ["Una lista de referencias", "Una síntesis del documento", "Un apéndice", "Un glosario"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué tipo de gráfico es ideal para comparar datos?",
+        "options": ["Gráfico de barras", "Diagrama de flujo", "Mapa conceptual", "Tabla cronológica"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué norma se usa para citas bibliográficas?",
+        "options": ["APA", "ISO", "IEEE", "Todas las anteriores"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué caracteriza al lenguaje técnico?",
+        "options": ["Subjetividad", "Ambigüedad", "Precisión", "Metáforas"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué sección describe la metodología?",
+        "options": ["Resultados", "Discusión", "Materiales y métodos", "Conclusión"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué evita la redundancia en un texto?",
+        "options": ["Claridad", "Coherencia", "Concisión", "Creatividad"],
+        "answer": 2
+      }
+    ],
+    "Sistemas numéricos computacionales": [
+      {
+        "question": "¿Qué base usa el sistema binario?",
+        "options": ["Base 10", "Base 8", "Base 2", "Base 16"],
+        "answer": 2
+      },
+      {
+        "question": "¿Cuáles son los dígitos del sistema binario?",
+        "options": ["0 y 1", "0 al 9", "A al F", "1 al 8"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué sistema usa letras de la A a la F?",
+        "options": ["Binario", "Octal", "Hexadecimal", "Decimal"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué valor tiene el bit más a la izquierda en un byte?",
+        "options": ["1", "128", "255", "0"],
+        "answer": 1
+      },
+      {
+        "question": "¿Cómo se representa el número 10 en hexadecimal?",
+        "options": ["10", "A", "F", "16"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué operación realiza un desplazamiento de bits a la izquierda?",
+        "options": ["División", "Multiplicación", "Resta", "Suma"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué codificación representa caracteres alfanuméricos?",
+        "options": ["ASCII", "Unicode", "Binario", "Hexadecimal"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué sistema numérico usa la computadora internamente?",
+        "options": ["Decimal", "Binario", "Octal", "Hexadecimal"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué número decimal equivale al binario 1010?",
+        "options": ["8", "10", "12", "14"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué base tiene el sistema octal?",
+        "options": ["2", "8", "10", "16"],
+        "answer": 1
+      }
+    ],
+    "Metodología de la investigación": [
+      {
+        "question": "¿Qué es una hipótesis?",
+        "options": ["Una conclusión", "Una suposición que se prueba", "Una estadística", "Una bibliografía"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué paso sigue después del planteamiento del problema?",
+        "options": ["Hipótesis", "Resultados", "Objetivos", "Análisis de datos"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué tipo de investigación describe fenómenos?",
+        "options": ["Experimental", "Descriptiva", "Correlacional", "Cualitativa"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es una variable independiente?",
+        "options": ["El resultado medido", "El factor que se manipula", "Un dato constante", "Un error aleatorio"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué método usa entrevistas abiertas?",
+        "options": ["Cuantitativo", "Mixto", "Experimental", "Cualitativo"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué sección incluye gráficos y tablas?",
+        "options": ["Introducción", "Resultados", "Discusión", "Agradecimientos"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué validez asegura que un instrumento mide lo que debe?",
+        "options": ["Validez de constructo", "Validez interna", "Validez externa", "Confiabilidad"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué muestra es representativa de una población?",
+        "options": ["Muestra aleatoria", "Muestra sesgada", "Muestra voluntaria", "Muestra teórica"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué ética protege a los participantes en investigación?",
+        "options": ["Ética normativa", "Bioética", "Ética aplicada", "Ética deontológica"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué software se usa para análisis estadístico?",
+        "options": ["Photoshop", "SPSS", "AutoCAD", "Word"],
+        "answer": 1
+      }
+    ]
+  }
+  
+  

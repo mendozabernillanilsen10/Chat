@@ -1,0 +1,614 @@
+{
+    "Análisis y Argumento": [
+      {
+        "question": "¿Qué es un argumento en un texto?",
+        "options": [
+          "Una razón que respalda una idea",
+          "Una anécdota irrelevante",
+          "Un dato sin evidencia",
+          "Una repetición del tema"
+        ],
+        "answer": "Una razón que respalda una idea"
+      },
+      {
+        "question": "¿Qué es un contraargumento?",
+        "options": [
+          "Una refutación a un argumento",
+          "Una afirmación sin pruebas",
+          "Un error en el razonamiento",
+          "Una idea central del texto"
+        ],
+        "answer": "Una refutación a un argumento"
+      },
+      {
+        "question": "¿Qué elemento fortalece un argumento?",
+        "options": [
+          "Evidencia verificable",
+          "Opiniones personales",
+          "Generalizaciones",
+          "Falacias lógicas"
+        ],
+        "answer": "Evidencia verificable"
+      },
+      {
+        "question": "¿Qué tipo de falacia es 'Atacar a la persona en lugar del argumento'?",
+        "options": [
+          "Ad hominem",
+          "Falsa causa",
+          "Apelación a la autoridad",
+          "Generalización apresurada"
+        ],
+        "answer": "Ad hominem"
+      },
+      {
+        "question": "¿Qué estructura tiene un texto argumentativo?",
+        "options": [
+          "Introducción, desarrollo y conclusión",
+          "Solo ejemplos",
+          "Lista de datos sin conexión",
+          "Narración cronológica"
+        ],
+        "answer": "Introducción, desarrollo y conclusión"
+      },
+      {
+        "question": "¿Qué técnica ayuda a identificar argumentos débiles?",
+        "options": [
+          "Análisis crítico de premisas",
+          "Aceptar todas las opiniones",
+          "Ignorar contraargumentos",
+          "Usar lenguaje emocional"
+        ],
+        "answer": "Análisis crítico de premisas"
+      },
+      {
+        "question": "¿Qué caracteriza un buen contraejemplo?",
+        "options": [
+          "Refuta eficazmente la afirmación original",
+          "Repite el mismo argumento",
+          "Usa lenguaje confuso",
+          "Ignora el contexto"
+        ],
+        "answer": "Refuta eficazmente la afirmación original"
+      },
+      {
+        "question": "¿Qué porcentaje de un ensayo debe dedicarse a refutar contraargumentos?",
+        "options": [
+          "10-20%",
+          "50%",
+          "80%",
+          "0%"
+        ],
+        "answer": "10-20%"
+      },
+      {
+        "question": "¿Qué error común debilita un argumento?",
+        "options": [
+          "Falacia del hombre de paja",
+          "Citas de expertos",
+          "Datos estadísticos",
+          "Ejemplos relevantes"
+        ],
+        "answer": "Falacia del hombre de paja"
+      },
+      {
+        "question": "¿Qué recurso es válido para sustentar argumentos?",
+        "options": [
+          "Estudios científicos revisados por pares",
+          "Rumores no verificados",
+          "Creencias personales",
+          "Medias verdades"
+        ],
+        "answer": "Estudios científicos revisados por pares"
+      }
+    ],
+    "Lengua Extranjera 3": [
+      {
+        "question": "¿Cómo se traduce 'Can you help me?' al español?",
+        "options": [
+          "¿Puedes ayudarme?",
+          "¿Puedes hablar?",
+          "¿Qué haces?",
+          "¿Dónde estás?"
+        ],
+        "answer": "¿Puedes ayudarme?"
+      },
+      {
+        "question": "¿Qué significa 'I would like a coffee, please' en español?",
+        "options": [
+          "Quiero un café, por favor",
+          "Necesito agua, por favor",
+          "Dame un café",
+          "Voy a tomar agua"
+        ],
+        "answer": "Quiero un café, por favor"
+      },
+      {
+        "question": "¿Cómo se forma el pasado perfecto en inglés?",
+        "options": [
+          "Had + participio pasado",
+          "Have + infinitivo",
+          "Did + verbo base",
+          "Will + verbo base"
+        ],
+        "answer": "Had + participio pasado"
+      },
+      {
+        "question": "¿Qué significa 'However' en español?",
+        "options": [
+          "Sin embargo",
+          "Por lo tanto",
+          "Además",
+          "Aunque"
+        ],
+        "answer": "Sin embargo"
+      },
+      {
+        "question": "¿Qué tiempo verbal expresa planes futuros en inglés?",
+        "options": [
+          "Present Continuous",
+          "Past Simple",
+          "Present Perfect",
+          "Future Perfect"
+        ],
+        "answer": "Present Continuous"
+      },
+      {
+        "question": "¿Cómo se dice 'Lo siento, no entiendo' en inglés?",
+        "options": [
+          "I'm sorry, I don't understand",
+          "I'm happy, I know",
+          "I agree with you",
+          "Please repeat"
+        ],
+        "answer": "I'm sorry, I don't understand"
+      },
+      {
+        "question": "¿Qué preposición se usa con ciudades?",
+        "options": [
+          "In",
+          "On",
+          "At",
+          "Under"
+        ],
+        "answer": "In"
+      },
+      {
+        "question": "¿Qué palabra es un adverbio de frecuencia?",
+        "options": [
+          "Always",
+          "Big",
+          "Run",
+          "Beautiful"
+        ],
+        "answer": "Always"
+      },
+      {
+        "question": "¿Cómo se pregunta la hora en inglés formal?",
+        "options": [
+          "What time is it?",
+          "Do you have the hour?",
+          "Could you tell me the time, please?",
+          "When is now?"
+        ],
+        "answer": "Could you tell me the time, please?"
+      },
+      {
+        "question": "¿Qué expresión indica acuerdo total?",
+        "options": [
+          "I completely agree",
+          "I'm not sure",
+          "I disagree",
+          "Maybe"
+        ],
+        "answer": "I completely agree"
+      }
+    ],
+    "Matemática y Ciencia 1": [
+      {
+        "question": "¿Qué es el método científico?",
+        "options": [
+          "Un proceso sistemático para investigar fenómenos",
+          "Una fórmula matemática",
+          "Un experimento sin orden",
+          "Un conjunto de reglas fijas"
+        ],
+        "answer": "Un proceso sistemático para investigar fenómenos"
+      },
+      {
+        "question": "¿Qué es una gráfica lineal?",
+        "options": [
+          "Una representación de datos en una línea recta",
+          "Un gráfico circular",
+          "Un diagrama de barras",
+          "Un gráfico tridimensional"
+        ],
+        "answer": "Una representación de datos en una línea recta"
+      },
+      {
+        "question": "¿Qué variable se manipula en un experimento?",
+        "options": [
+          "Variable independiente",
+          "Variable dependiente",
+          "Variable control",
+          "Variable aleatoria"
+        ],
+        "answer": "Variable independiente"
+      },
+      {
+        "question": "¿Qué instrumento mide la masa?",
+        "options": [
+          "Termómetro",
+          "Balanza",
+          "Barómetro",
+          "Dinamómetro"
+        ],
+        "answer": "Balanza"
+      },
+      {
+        "question": "¿Qué tipo de gráfico muestra proporciones?",
+        "options": [
+          "Gráfico de barras",
+          "Gráfico circular",
+          "Gráfico lineal",
+          "Histograma"
+        ],
+        "answer": "Gráfico circular"
+      },
+      {
+        "question": "¿Qué paso sigue a la hipótesis en el método científico?",
+        "options": [
+          "Experimentación",
+          "Conclusión",
+          "Publicación",
+          "Observación"
+        ],
+        "answer": "Experimentación"
+      },
+      {
+        "question": "¿Qué mide el eje Y en un gráfico?",
+        "options": [
+          "Variable dependiente",
+          "Variable independiente",
+          "Tiempo",
+          "Ninguna de las anteriores"
+        ],
+        "answer": "Variable dependiente"
+      },
+      {
+        "question": "¿Qué ciencia estudia la herencia biológica?",
+        "options": [
+          "Genética",
+          "Geología",
+          "Astronomía",
+          "Química"
+        ],
+        "answer": "Genética"
+      },
+      {
+        "question": "¿Qué representa la pendiente en una gráfica lineal?",
+        "options": [
+          "Tasa de cambio",
+          "Valor constante",
+          "Error experimental",
+          "Media aritmética"
+        ],
+        "answer": "Tasa de cambio"
+      },
+      {
+        "question": "¿Qué caracteriza a una teoría científica?",
+        "options": [
+          "Explicación ampliamente aceptada con evidencia",
+          "Suposición no comprobada",
+          "Creencia popular",
+          "Opinión personal"
+        ],
+        "answer": "Explicación ampliamente aceptada con evidencia"
+      }
+    ],
+    "Raíces Culturales": [
+      {
+        "question": "¿Qué es una tradición cultural?",
+        "options": [
+          "Una costumbre transmitida de generación en generación",
+          "Un evento casual",
+          "Una práctica moderna",
+          "Un hábito personal"
+        ],
+        "answer": "Una costumbre transmitida de generación en generación"
+      },
+      {
+        "question": "¿Qué es el patrimonio cultural?",
+        "options": [
+          "El conjunto de valores, tradiciones y bienes culturales de una comunidad",
+          "Un objeto sin valor histórico",
+          "Una moda pasajera",
+          "Un lugar turístico sin historia"
+        ],
+        "answer": "El conjunto de valores, tradiciones y bienes culturales de una comunidad"
+      },
+      {
+        "question": "¿Qué elemento es patrimonio cultural inmaterial?",
+        "options": [
+          "Un edificio histórico",
+          "Una danza tradicional",
+          "Una pintura antigua",
+          "Una escultura"
+        ],
+        "answer": "Una danza tradicional"
+      },
+      {
+        "question": "¿Qué institución protege el patrimonio mundial?",
+        "options": [
+          "UNESCO",
+          "ONU",
+          "OMS",
+          "FMI"
+        ],
+        "answer": "UNESCO"
+      },
+      {
+        "question": "¿Qué caracteriza a la aculturación?",
+        "options": [
+          "Adopción de elementos culturales externos",
+          "Aislamiento cultural absoluto",
+          "Rechazo a toda influencia externa",
+          "Imposición cultural violenta"
+        ],
+        "answer": "Adopción de elementos culturales externos"
+      },
+      {
+        "question": "¿Qué ejemplo es folclore?",
+        "options": [
+          "Leyendas populares",
+          "Tecnología moderna",
+          "Redes sociales",
+          "Deportes extremos"
+        ],
+        "answer": "Leyendas populares"
+      },
+      {
+        "question": "¿Qué factor amenaza tradiciones culturales?",
+        "options": [
+          "Globalización homogenizadora",
+          "Transmisión intergeneracional",
+          "Documentación escrita",
+          "Festivales culturales"
+        ],
+        "answer": "Globalización homogenizadora"
+      },
+      {
+        "question": "¿Qué práctica preserva culturas indígenas?",
+        "options": [
+          "Enseñanza de lenguas originarias",
+          "Prohibición de rituales",
+          "Destrucción de artesanías",
+          "Urbanización forzada"
+        ],
+        "answer": "Enseñanza de lenguas originarias"
+      },
+      {
+        "question": "¿Qué elemento es tangible del patrimonio?",
+        "options": [
+          "Técnica de tejido ancestral",
+          "Catedral colonial",
+          "Canción tradicional",
+          "Rito ceremonial"
+        ],
+        "answer": "Catedral colonial"
+      },
+      {
+        "question": "¿Qué porcentaje aproximado de lenguas está en peligro de extinción?",
+        "options": [
+          "10%",
+          "30%",
+          "50%",
+          "70%"
+        ],
+        "answer": "50%"
+      }
+    ],
+    "Química 2": [
+      {
+        "question": "¿Qué son los enlaces covalentes?",
+        "options": [
+          "Unión de átomos que comparten electrones",
+          "Unión de átomos por transferencia de electrones",
+          "Enlaces débiles entre moléculas",
+          "Interacciones de fuerzas de Van der Waals"
+        ],
+        "answer": "Unión de átomos que comparten electrones"
+      },
+      {
+        "question": "¿Qué es una reacción química endotérmica?",
+        "options": [
+          "Una reacción que absorbe energía",
+          "Una reacción que libera energía",
+          "Una reacción sin intercambio de energía",
+          "Una reacción que ocurre espontáneamente"
+        ],
+        "answer": "Una reacción que absorbe energía"
+      },
+      {
+        "question": "¿Qué modelo explica el enlace covalente?",
+        "options": [
+          "Modelo de Lewis",
+          "Modelo de Bohr",
+          "Modelo de Dalton",
+          "Modelo cuántico"
+        ],
+        "answer": "Modelo de Lewis"
+      },
+      {
+        "question": "¿Qué compuesto tiene enlace covalente?",
+        "options": [
+          "NaCl",
+          "H₂O",
+          "MgO",
+          "KBr"
+        ],
+        "answer": "H₂O"
+      },
+      {
+        "question": "¿Qué propiedad tienen los compuestos covalentes?",
+        "options": [
+          "Altos puntos de fusión",
+          "Conductividad eléctrica en solución",
+          "Bajas temperaturas de fusión",
+          "Sólidos cristalinos siempre"
+        ],
+        "answer": "Bajas temperaturas de fusión"
+      },
+      {
+        "question": "¿Qué tipo de enlace es el más fuerte?",
+        "options": [
+          "Covalente",
+          "Iónico",
+          "Metálico",
+          "Puente de hidrógeno"
+        ],
+        "answer": "Covalente"
+      },
+      {
+        "question": "¿Qué molécula es polar?",
+        "options": [
+          "CH₄",
+          "CO₂",
+          "H₂O",
+          "CCl₄"
+        ],
+        "answer": "H₂O"
+      },
+      {
+        "question": "¿Qué instrumento mide el calor en reacciones?",
+        "options": [
+          "Calorímetro",
+          "Barómetro",
+          "Termómetro",
+          "pH-metro"
+        ],
+        "answer": "Calorímetro"
+      },
+      {
+        "question": "¿Qué ley conserva la energía en química?",
+        "options": [
+          "Ley de Hess",
+          "Ley de Boyle",
+          "Ley de Charles",
+          "Ley de Dalton"
+        ],
+        "answer": "Ley de Hess"
+      },
+      {
+        "question": "¿Qué factor afecta la velocidad de reacción?",
+        "options": [
+          "Temperatura",
+          "Color de reactivos",
+          "Estado físico del producto",
+          "Nombre de los compuestos"
+        ],
+        "answer": "Temperatura"
+      }
+    ],
+    "Recreación y Aprovechamiento del Tiempo Libre": [
+      {
+        "question": "¿Qué es el tiempo libre?",
+        "options": [
+          "El tiempo disponible fuera de las obligaciones laborales o escolares",
+          "El tiempo dedicado únicamente a dormir",
+          "El tiempo invertido en obligaciones familiares",
+          "El tiempo que no tiene ningún propósito"
+        ],
+        "answer": "El tiempo disponible fuera de las obligaciones laborales o escolares"
+      },
+      {
+        "question": "¿Qué es una actividad recreativa?",
+        "options": [
+          "Una actividad realizada para disfrutar y relajarse",
+          "Una tarea obligatoria",
+          "Un trabajo académico",
+          "Una práctica profesional"
+        ],
+        "answer": "Una actividad realizada para disfrutar y relajarse"
+      },
+      {
+        "question": "¿Qué beneficio tiene el ocio creativo?",
+        "options": [
+          "Desarrollo de habilidades artísticas",
+          "Aumento del estrés",
+          "Aislamiento social",
+          "Pérdida de tiempo"
+        ],
+        "answer": "Desarrollo de habilidades artísticas"
+      },
+      {
+        "question": "¿Qué actividad es recreación pasiva?",
+        "options": [
+          "Ver una película",
+          "Jugar fútbol",
+          "Pintar un cuadro",
+          "Bailar"
+        ],
+        "answer": "Ver una película"
+      },
+      {
+        "question": "¿Qué porcentaje del día recomiendan para ocio?",
+        "options": [
+          "5-10%",
+          "20-25%",
+          "50%",
+          "80%"
+        ],
+        "answer": "20-25%"
+      },
+      {
+        "question": "¿Qué caracteriza el turismo recreativo?",
+        "options": [
+          "Enfoque en descanso y diversión",
+          "Viajes de negocios",
+          "Trabajo remoto",
+          "Reuniones formales"
+        ],
+        "answer": "Enfoque en descanso y diversión"
+      },
+      {
+        "question": "¿Qué técnica combate el aburrimiento?",
+        "options": [
+          "Explorar nuevos hobbies",
+          "Quedarse en casa sin hacer nada",
+          "Dormir en exceso",
+          "Quejarse constantemente"
+        ],
+        "answer": "Explorar nuevos hobbies"
+      },
+      {
+        "question": "¿Qué juego de mesa desarrolla estrategia?",
+        "options": [
+          "Ajedrez",
+          "Lotería",
+          "Dados",
+          "Memorama"
+        ],
+        "answer": "Ajedrez"
+      },
+      {
+        "question": "¿Qué actividad al aire libre reduce el estrés?",
+        "options": [
+          "Senderismo",
+          "Uso excesivo de redes sociales",
+          "Juegos violentos",
+          "Trabajo continuo"
+        ],
+        "answer": "Senderismo"
+      },
+      {
+        "question": "¿Qué principio recomienda equilibrio entre trabajo y ocio?",
+        "options": [
+          "Balance vida-trabajo",
+          "Productividad constante",
+          "Trabajo sin descanso",
+          "Ocio permanente"
+        ],
+        "answer": "Balance vida-trabajo"
+      }
+    ]
+  }

@@ -1,0 +1,257 @@
+/* Importación de fuente (debe coincidir con el login) */
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+/* Misma paleta de colores que el login */
+:root {
+  --red: #E41B17;
+  --yellow: #FFC107;
+  --blue: #1E88E5;
+  --paper: #FFF9F0;
+  --ink: #3E2723;
+  --border: #5D4037;
+}
+
+/* Estructura principal idéntica al login */
+.register-container {
+  background-color: #F5F5F5;
+  background-image: url('data:image/svg+xml;utf8,<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><path d="M0 50 Q25 40 50 50 T100 50" fill="none" stroke="rgba(0,0,0,0.03)" stroke-width="1"/></svg>');
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.sign-frame {
+  background: var(--paper);
+  border: 3px solid var(--border);
+  border-radius: 2px;
+  box-shadow: 8px 8px 0 rgba(0,0,0,0.1);
+  overflow: hidden;
+  width: 100%;
+  max-width: 480px;
+  position: relative;
+}
+
+/* Encabezado idéntico al login */
+.sign-header {
+  background: var(--red);
+  padding: 1.5rem;
+  text-align: center;
+  border-bottom: 3px solid var(--border);
+}
+
+.sign-title {
+  font-family: 'Dela Gothic One', sans-serif;
+  font-size: 2.5rem;
+  color: white;
+  letter-spacing: 1px;
+  text-shadow: 3px 3px 0 rgba(0,0,0,0.2);
+  margin-bottom: 0.5rem;
+}
+
+.sign-subtitle {
+  font-family: 'Dela Gothic One', sans-serif;
+  font-size: 1rem;
+  color: var(--yellow);
+  letter-spacing: 2px;
+}
+
+/* Cuerpo del formulario con mismo estilo */
+.sign-body {
+  padding: 2rem;
+}
+
+.order-form-field {
+  margin-bottom: 1.8rem;
+}
+
+.order-form-field label {
+  display: block;
+  font-family: 'Dela Gothic One', sans-serif;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+
+.input-area {
+  position: relative;
+}
+
+.form-icon {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--blue);
+  font-size: 1.2rem;
+}
+
+.order-form-field input {
+  width: 100%;
+  padding: 1.2rem 1.2rem 1.2rem 3.5rem;
+  border: 2px solid var(--border);
+  background: rgba(255,255,255,0.7);
+  font-family: 'Dela Gothic One', sans-serif;
+  font-size: 1rem;
+}
+
+.input-decoration {
+  height: 3px;
+  background: var(--yellow);
+  width: 0;
+  transition: width 0.3s;
+  margin-top: 5px;
+}
+
+.order-form-field input:focus + .input-decoration {
+  width: 100%;
+}
+
+/* Estilo para el input de archivo que coincida con el diseño */
+.file-input-container {
+  margin-bottom: 1.8rem;
+}
+
+.file-input-container label {
+  display: block;
+  font-family: 'Dela Gothic One', sans-serif;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+
+.file-input-wrapper {
+  border: 2px dashed var(--border);
+  padding: 1.5rem;
+  text-align: center;
+  background: rgba(255,255,255,0.7);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.file-input-wrapper:hover {
+  background: rgba(255,255,255,0.9);
+}
+
+.file-input-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.file-input-icon {
+  color: var(--blue);
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.file-input-text {
+  font-family: 'Dela Gothic One', sans-serif;
+  color: var(--ink);
+  font-size: 0.9rem;
+}
+
+.file-input-wrapper input[type="file"] {
+  display: none;
+}
+
+/* Botón idéntico al login */
+.submit-button {
+  width: 100%;
+  padding: 1.2rem;
+  background: var(--blue);
+  color: white;
+  border: none;
+  font-family: 'Dela Gothic One', sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  margin-top: 1rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  border: 2px solid var(--border);
+}
+
+.submit-button:hover {
+  background: #1565C0;
+  transform: translateY(-2px);
+}
+
+.button-arrow {
+  margin-left: 10px;
+  font-size: 1.4rem;
+}
+
+/* Pie de letrero idéntico al login */
+.sign-footer {
+  background: var(--yellow);
+  padding: 1rem;
+  text-align: center;
+  border-top: 3px dashed var(--border);
+}
+
+.promo-sticker {
+  font-family: 'Dela Gothic One', sans-serif;
+  font-weight: normal;
+  color: var(--ink);
+  letter-spacing: 1px;
+}
+
+.promo-sticker a {
+  color: var(--red);
+  text-decoration: none;
+  margin-left: 5px;
+}
+
+.promo-sticker a:hover {
+  text-decoration: underline;
+}
+
+/* Decoraciones iguales al login */
+.shop-stamp {
+  position: absolute;
+  top: -15px;
+  right: -15px;
+  background: var(--red);
+  color: white;
+  padding: 0.5rem 1rem;
+  font-family: 'Dela Gothic One', sans-serif;
+  transform: rotate(15deg);
+  border: 2px solid var(--border);
+}
+
+.price-tag {
+  position: absolute;
+  bottom: -10px;
+  left: -10px;
+  background: white;
+  padding: 0.3rem 0.8rem;
+  border: 2px solid var(--border);
+  font-family: 'Dela Gothic One', sans-serif;
+}
+
+.corner-decoration {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  background: radial-gradient(circle, var(--yellow) 0%, transparent 70%);
+  opacity: 0.3;
+}
+
+/* Mensaje de error idéntico al login */
+.error-notice {
+  background: rgba(228, 27, 23, 0.1);
+  border-left: 4px solid var(--red);
+  padding: 1rem;
+  margin: 1rem 0;
+  font-family: 'Dela Gothic One', sans-serif;
+  color: var(--red);
+}
+
+.error-notice i {
+  margin-right: 10px;
+}

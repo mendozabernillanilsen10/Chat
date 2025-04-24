@@ -1,0 +1,614 @@
+{
+    "Biomecánica del Cuerpo Humano": [
+      {
+        "question": "¿Qué es la biomecánica?",
+        "options": [
+          "El estudio del movimiento y las fuerzas del cuerpo humano",
+          "El análisis de enfermedades genéticas",
+          "La observación de microorganismos",
+          "El diseño de prótesis robóticas"
+        ],
+        "answer": "El estudio del movimiento y las fuerzas del cuerpo humano"
+      },
+      {
+        "question": "¿Qué analiza la cinemática en biomecánica?",
+        "options": [
+          "El movimiento del cuerpo sin considerar las fuerzas",
+          "El equilibrio químico del organismo",
+          "La interacción entre el entorno y el cuerpo",
+          "El gasto energético durante el ejercicio"
+        ],
+        "answer": "El movimiento del cuerpo sin considerar las fuerzas"
+      },
+      {
+        "question": "¿Qué ley física explica la acción muscular?",
+        "options": [
+          "Ley de Ohm",
+          "Ley de la palanca",
+          "Ley de gravitación universal",
+          "Ley de conservación de la energía"
+        ],
+        "answer": "Ley de la palanca"
+      },
+      {
+        "question": "¿Qué tipo de fuerza generan los músculos?",
+        "options": [
+          "Fuerza centrífuga",
+          "Fuerza de tensión",
+          "Fuerza electromagnética",
+          "Fuerza nuclear"
+        ],
+        "answer": "Fuerza de tensión"
+      },
+      {
+        "question": "¿Qué estructura corporal actúa como fulcro en las palancas óseas?",
+        "options": [
+          "Músculos",
+          "Articulaciones",
+          "Tendones",
+          "Ligamentos"
+        ],
+        "answer": "Articulaciones"
+      },
+      {
+        "question": "¿Qué parámetro mide la eficiencia mecánica del cuerpo?",
+        "options": [
+          "Consumo de oxígeno",
+          "Relación trabajo energético/ trabajo mecánico",
+          "Frecuencia cardíaca",
+          "Temperatura corporal"
+        ],
+        "answer": "Relación trabajo energético/ trabajo mecánico"
+      },
+      {
+        "question": "¿Qué tipo de palanca predomina en el sistema musculoesquelético?",
+        "options": [
+          "Palanca de primer género",
+          "Palanca de segundo género",
+          "Palanca de tercer género",
+          "Palanca compuesta"
+        ],
+        "answer": "Palanca de tercer género"
+      },
+      {
+        "question": "¿Qué tecnología se usa para análisis biomecánicos avanzados?",
+        "options": [
+          "Termografía",
+          "Cámaras de captura de movimiento",
+          "Estetoscopios",
+          "Electrocardiógrafos"
+        ],
+        "answer": "Cámaras de captura de movimiento"
+      },
+      {
+        "question": "¿Qué disciplina complementa a la biomecánica en rehabilitación?",
+        "options": [
+          "Kinesiología",
+          "Nutrición",
+          "Genética",
+          "Dermatología"
+        ],
+        "answer": "Kinesiología"
+      },
+      {
+        "question": "¿Qué factor afecta la estabilidad corporal según la biomecánica?",
+        "options": [
+          "Centro de gravedad",
+          "Color de ojos",
+          "Grupo sanguíneo",
+          "Longitud del cabello"
+        ],
+        "answer": "Centro de gravedad"
+      }
+    ],
+    "Deontología": [
+      {
+        "question": "¿Qué es la deontología?",
+        "options": [
+          "La disciplina que estudia los deberes y principios éticos de una profesión",
+          "El análisis de leyes internacionales",
+          "El enfoque en el bienestar económico",
+          "La observación de fenómenos sociales"
+        ],
+        "answer": "La disciplina que estudia los deberes y principios éticos de una profesión"
+      },
+      {
+        "question": "¿Qué principio rige la deontología profesional?",
+        "options": [
+          "Cumplir con normas éticas y legales",
+          "Priorizar beneficios económicos",
+          "Evitar responsabilidades",
+          "Ignorar el impacto social"
+        ],
+        "answer": "Cumplir con normas éticas y legales"
+      },
+      {
+        "question": "¿Qué documento recoge los principios deontológicos de una profesión?",
+        "options": [
+          "Código de ética profesional",
+          "Contrato laboral",
+          "Estatutos sociales",
+          "Manual de procedimientos"
+        ],
+        "answer": "Código de ética profesional"
+      },
+      {
+        "question": "¿Qué conflicto ético es común en deontología?",
+        "options": [
+          "Interés personal vs. deber profesional",
+          "Elección de vestimenta",
+          "Preferencias alimentarias",
+          "Hábitos de sueño"
+        ],
+        "answer": "Interés personal vs. deber profesional"
+      },
+      {
+        "question": "¿Qué filósofo sentó bases de la deontología?",
+        "options": [
+          "Immanuel Kant",
+          "Karl Marx",
+          "Friedrich Nietzsche",
+          "Jean-Paul Sartre"
+        ],
+        "answer": "Immanuel Kant"
+      },
+      {
+        "question": "¿Qué elemento NO pertenece a la deontología médica?",
+        "options": [
+          "Secreto profesional",
+          "Beneficencia",
+          "Publicidad engañosa",
+          "No maleficencia"
+        ],
+        "answer": "Publicidad engañosa"
+      },
+      {
+        "question": "¿Qué sanción aplica el incumplimiento deontológico?",
+        "options": [
+          "Multa económica",
+          "Expulsión del colegio profesional",
+          "Prisión inmediata",
+          "Ninguna consecuencia"
+        ],
+        "answer": "Expulsión del colegio profesional"
+      },
+      {
+        "question": "¿Qué principio implica tratar a todos por igual?",
+        "options": [
+          "Justicia",
+          "Autonomía",
+          "Confidencialidad",
+          "Veracidad"
+        ],
+        "answer": "Justicia"
+      },
+      {
+        "question": "¿Qué situación viola la deontología periodística?",
+        "options": [
+          "Publicar fuentes verificadas",
+          "Manipulación informativa",
+          "Citación correcta de autores",
+          "Uso de lenguaje claro"
+        ],
+        "answer": "Manipulación informativa"
+      },
+      {
+        "question": "¿Qué aspecto cubre la deontología en diseño?",
+        "options": [
+          "Responsabilidad social del diseñador",
+          "Velocidad de producción",
+          "Costos de materiales",
+          "Tendencias estéticas"
+        ],
+        "answer": "Responsabilidad social del diseñador"
+      }
+    ],
+    "Representación Gráfica de Productos": [
+      {
+        "question": "¿Qué es un boceto técnico?",
+        "options": [
+          "Un dibujo preliminar para representar un producto",
+          "Un modelo tridimensional",
+          "Un informe escrito",
+          "Un esquema sin medidas"
+        ],
+        "answer": "Un dibujo preliminar para representar un producto"
+      },
+      {
+        "question": "¿Qué herramienta se utiliza comúnmente en la representación gráfica digital?",
+        "options": [
+          "Software CAD",
+          "Calculadora científica",
+          "Tijeras",
+          "Compás tradicional"
+        ],
+        "answer": "Software CAD"
+      },
+      {
+        "question": "¿Qué vista muestra la profundidad en un dibujo técnico?",
+        "options": [
+          "Alzado",
+          "Planta",
+          "Perfil",
+          "Perspectiva"
+        ],
+        "answer": "Perspectiva"
+      },
+      {
+        "question": "¿Qué norma regula los dibujos técnicos?",
+        "options": [
+          "ISO 128",
+          "APA",
+          "IEEE 802",
+          "OSHA"
+        ],
+        "answer": "ISO 128"
+      },
+      {
+        "question": "¿Qué línea indica dimensiones ocultas?",
+        "options": [
+          "Continua gruesa",
+          "De trazos",
+          "De puntos y rayas",
+          "Ondulada"
+        ],
+        "answer": "De trazos"
+      },
+      {
+        "question": "¿Qué técnica muestra texturas realistas?",
+        "options": [
+          "Renderizado",
+          "Croquis",
+          "Doodle",
+          "Wireframe"
+        ],
+        "answer": "Renderizado"
+      },
+      {
+        "question": "¿Qué escala mantiene proporciones exactas?",
+        "options": [
+          "Escala natural 1:1",
+          "Escala de reducción",
+          "Escala de ampliación",
+          "Todas las anteriores"
+        ],
+        "answer": "Todas las anteriores"
+      },
+      {
+        "question": "¿Qué elemento NO pertenece a un plano técnico?",
+        "options": [
+          "Acotaciones",
+          "Leyenda",
+          "Memes",
+          "Cuadro de rotulación"
+        ],
+        "answer": "Memes"
+      },
+      {
+        "question": "¿Qué proyección usa tres ejes a 120°?",
+        "options": [
+          "Caballera",
+          "Isométrica",
+          "Cónica",
+          "Militar"
+        ],
+        "answer": "Isométrica"
+      },
+      {
+        "question": "¿Qué software es líder en modelado 3D?",
+        "options": [
+          "AutoCAD",
+          "Photoshop",
+          "Excel",
+          "PowerPoint"
+        ],
+        "answer": "AutoCAD"
+      }
+    ],
+    "Sistemas y Costos de Producción": [
+      {
+        "question": "¿Qué es el costo variable en producción?",
+        "options": [
+          "Un costo que cambia según el nivel de producción",
+          "Un costo fijo que permanece constante",
+          "Un gasto no relacionado con la producción",
+          "El costo total de la maquinaria"
+        ],
+        "answer": "Un costo que cambia según el nivel de producción"
+      },
+      {
+        "question": "¿Qué es un sistema de producción en serie?",
+        "options": [
+          "Un método de fabricación que produce grandes volúmenes de productos idénticos",
+          "Un sistema artesanal de producción",
+          "Un modelo de producción para piezas únicas",
+          "Una técnica para reciclar productos"
+        ],
+        "answer": "Un método de fabricación que produce grandes volúmenes de productos idénticos"
+      },
+      {
+        "question": "¿Qué sistema prioriza reducir desperdicios?",
+        "options": [
+          "Producción en masa",
+          "Lean Manufacturing",
+          "Producción por lotes",
+          "Producción artesanal"
+        ],
+        "answer": "Lean Manufacturing"
+      },
+      {
+        "question": "¿Qué costo incluye salarios administrativos?",
+        "options": [
+          "Costo directo",
+          "Costo indirecto",
+          "Costo marginal",
+          "Costo hundido"
+        ],
+        "answer": "Costo indirecto"
+      },
+      {
+        "question": "¿Qué técnica optimiza procesos productivos?",
+        "options": [
+          "Diagrama de Gantt",
+          "Estudio de métodos y tiempos",
+          "Balanceo de línea",
+          "Todas las anteriores"
+        ],
+        "answer": "Todas las anteriores"
+      },
+      {
+        "question": "¿Qué sistema usa tarjetas Kanban?",
+        "options": [
+          "Just in Time",
+          "MRP",
+          "Six Sigma",
+          "TQM"
+        ],
+        "answer": "Just in Time"
+      },
+      {
+        "question": "¿Qué fórmula calcula el punto de equilibrio?",
+        "options": [
+          "Costos fijos / (Precio - Costo variable unitario)",
+          "Ingresos - Gastos",
+          "Activos / Pasivos",
+          "Ventas netas / Inventario promedio"
+        ],
+        "answer": "Costos fijos / (Precio - Costo variable unitario)"
+      },
+      {
+        "question": "¿Qué indicador mide la eficiencia productiva?",
+        "options": [
+          "ROI",
+          "OEE (Overall Equipment Effectiveness)",
+          "Tasa de interés",
+          "Inflación anual"
+        ],
+        "answer": "OEE (Overall Equipment Effectiveness)"
+      },
+      {
+        "question": "¿Qué sistema automatiza procesos con robots?",
+        "options": [
+          "Industria 4.0",
+          "Producción en cadena",
+          "Manufactura flexible",
+          "Artesanía digital"
+        ],
+        "answer": "Industria 4.0"
+      },
+      {
+        "question": "¿Qué costo NO se considera en producción?",
+        "options": [
+          "Materias primas",
+          "Mano de obra",
+          "Gastos de publicidad",
+          "Depreciación de equipos"
+        ],
+        "answer": "Gastos de publicidad"
+      }
+    ],
+    "Utilidad y Valor de los Objetos": [
+      {
+        "question": "¿Qué es el valor de uso de un objeto?",
+        "options": [
+          "La capacidad para satisfacer necesidades específicas",
+          "El precio del objeto en el mercado",
+          "El costo de producción",
+          "La percepción estética del objeto"
+        ],
+        "answer": "La capacidad para satisfacer necesidades específicas"
+      },
+      {
+        "question": "¿Qué es el diseño funcional?",
+        "options": [
+          "El enfoque en que un objeto cumpla su propósito de manera eficiente",
+          "Un diseño enfocado en aspectos decorativos",
+          "La creación de objetos únicos",
+          "El diseño que ignora la ergonomía"
+        ],
+        "answer": "El enfoque en que un objeto cumpla su propósito de manera eficiente"
+      },
+      {
+        "question": "¿Qué teoría relaciona forma y función?",
+        "options": [
+          "Form follows function (Sullivan)",
+          "Less is more (Mies van der Rohe)",
+          "Ornament is crime (Loos)",
+          "God is in the details (Wright)"
+        ],
+        "answer": "Form follows function (Sullivan)"
+      },
+      {
+        "question": "¿Qué factor aumenta el valor percibido?",
+        "options": [
+          "Materiales premium",
+          "Producción masiva",
+          "Falta de innovación",
+          "Diseño obsoleto"
+        ],
+        "answer": "Materiales premium"
+      },
+      {
+        "question": "¿Qué principio une estética y utilidad?",
+        "options": [
+          "Diseño sustentable",
+          "Diseño ergonómico",
+          "Diseño universal",
+          "Todas las anteriores"
+        ],
+        "answer": "Todas las anteriores"
+      },
+      {
+        "question": "¿Qué objeto tiene alto valor simbólico?",
+        "options": [
+          "Un martillo",
+          "Un anillo de compromiso",
+          "Un tornillo",
+          "Un clip"
+        ],
+        "answer": "Un anillo de compromiso"
+      },
+      {
+        "question": "¿Qué enfoque prioriza la experiencia del usuario?",
+        "options": [
+          "UX Design",
+          "Diseño gráfico",
+          "Diseño editorial",
+          "Diseño tipográfico"
+        ],
+        "answer": "UX Design"
+      },
+      {
+        "question": "¿Qué caracteriza a los objetos de valor emocional?",
+        "options": [
+          "Conexión personal",
+          "Bajo costo",
+          "Producción industrial",
+          "Materiales reciclados"
+        ],
+        "answer": "Conexión personal"
+      },
+      {
+        "question": "¿Qué método evalúa la utilidad de productos?",
+        "options": [
+          "Test de usabilidad",
+          "Análisis de mercado",
+          "Estudio de costos",
+          "Encuestas de satisfacción"
+        ],
+        "answer": "Test de usabilidad"
+      },
+      {
+        "question": "¿Qué diseño considera necesidades de personas con discapacidad?",
+        "options": [
+          "Diseño inclusivo",
+          "Diseño minimalista",
+          "Diseño vintage",
+          "Diseño retro"
+        ],
+        "answer": "Diseño inclusivo"
+      }
+    ],
+    "Materiales y Herramientas de Modelado": [
+      {
+        "question": "¿Qué material es comúnmente utilizado para modelado en diseño?",
+        "options": [
+          "Arcilla",
+          "Vidrio templado",
+          "Acero inoxidable",
+          "Fibra óptica"
+        ],
+        "answer": "Arcilla"
+      },
+      {
+        "question": "¿Qué herramienta se utiliza para esculpir detalles finos en modelado?",
+        "options": [
+          "Espátula",
+          "Martillo",
+          "Lijadora industrial",
+          "Destornillador"
+        ],
+        "answer": "Espátula"
+      },
+      {
+        "question": "¿Qué material permite prototipado rápido?",
+        "options": [
+          "Poliuretano",
+          "Yeso",
+          "Filamento PLA (impresión 3D)",
+          "Mármol"
+        ],
+        "answer": "Filamento PLA (impresión 3D)"
+      },
+      {
+        "question": "¿Qué herramienta mide proporciones en maquetas?",
+        "options": [
+          "Calibrador",
+          "Compás de puntas",
+          "Escuadra",
+          "Regla graduada"
+        ],
+        "answer": "Calibrador"
+      },
+      {
+        "question": "¿Qué material es ideal para moldes temporales?",
+        "options": [
+          "Silicona",
+          "Acero",
+          "Granito",
+          "Cerámica"
+        ],
+        "answer": "Silicona"
+      },
+      {
+        "question": "¿Qué máquina corta láminas con precisión?",
+        "options": [
+          "Torno",
+          "Cortadora láser",
+          "Fresadora",
+          "Sierra circular"
+        ],
+        "answer": "Cortadora láser"
+      },
+      {
+        "question": "¿Qué material es termoplástico?",
+        "options": [
+          "Poliestireno",
+          "Arcilla polimérica",
+          "Resina epóxica",
+          "Todos los anteriores"
+        ],
+        "answer": "Todos los anteriores"
+      },
+      {
+        "question": "¿Qué herramienta alisa superficies en madera?",
+        "options": [
+          "Gubia",
+          "Lija",
+          "Formón",
+          "Taladro"
+        ],
+        "answer": "Lija"
+      },
+      {
+        "question": "¿Qué equipo protege al modelar materiales tóxicos?",
+        "options": [
+          "Guantes y mascarilla",
+          "Gafas de sol",
+          "Audífonos",
+          "Zapatos formales"
+        ],
+        "answer": "Guantes y mascarilla"
+      },
+      {
+        "question": "¿Qué técnica une piezas de metal en maquetas?",
+        "options": [
+          "Soldadura",
+          "Pegamento termofusible",
+          "Cinta adhesiva",
+          "Grapas"
+        ],
+        "answer": "Soldadura"
+      }
+    ]
+  }

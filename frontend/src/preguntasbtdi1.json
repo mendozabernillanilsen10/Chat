@@ -1,0 +1,418 @@
+{
+    "Aplicación y uso de energía": [
+      {
+        "question": "¿Cuál es una fuente de energía renovable?",
+        "options": ["Carbón", "Petróleo", "Energía solar", "Gas natural"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué tipo de energía se almacena en una batería?",
+        "options": ["Cinética", "Eléctrica", "Química", "Térmica"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué dispositivo convierte la energía solar en eléctrica?",
+        "options": ["Generador eólico", "Panel fotovoltaico", "Turbina hidráulica", "Central nuclear"],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuál es la principal desventaja de los combustibles fósiles?",
+        "options": ["Son renovables", "Producen emisiones contaminantes", "Son difíciles de extraer", "No generan mucha energía"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué energía aprovecha el movimiento del viento?",
+        "options": ["Geotérmica", "Hidroeléctrica", "Eólica", "Biomasa"],
+        "answer": 2
+      },
+      {
+        "question": "¿Cuál es un ejemplo de energía no renovable?",
+        "options": ["Energía mareomotriz", "Energía nuclear", "Energía eólica", "Energía hidroeléctrica"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué unidad se usa para medir la energía eléctrica?",
+        "options": ["Vatio", "Amperio", "Kilovatio-hora", "Ohmio"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué principio describe que la energía no se crea ni destruye?",
+        "options": ["Ley de Ohm", "Primera ley de la termodinámica", "Ley de Coulomb", "Principio de Pascal"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué aparato transforma energía eléctrica en luz?",
+        "options": ["Motor", "Bombilla", "Ventilador", "Horno"],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuál es la fuente de energía más usada en el mundo actualmente?",
+        "options": ["Energía nuclear", "Combustibles fósiles", "Energía eólica", "Energía solar"],
+        "answer": 1
+      }
+    ],
+    "Características del comportamiento humano": [
+      {
+        "question": "¿Cuál de los siguientes es un factor que influye en el comportamiento humano?",
+        "options": ["El clima", "La cultura", "La altitud", "La edad del planeta"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué se entiende por motivación en psicología?",
+        "options": ["Una emoción", "Un impulso que dirige la conducta", "Una respuesta fisiológica", "Un comportamiento repetitivo"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué teoría explica el comportamiento mediante estímulos y respuestas?",
+        "options": ["Psicoanálisis", "Conductismo", "Gestalt", "Humanismo"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué hormona está asociada al estrés?",
+        "options": ["Insulina", "Cortisol", "Serotonina", "Dopamina"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué término describe el cambio de comportamiento en grupo?",
+        "options": ["Conformidad", "Individualismo", "Perseverancia", "Resistencia"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué área del cerebro controla las emociones?",
+        "options": ["Cerebelo", "Amígdala", "Hipocampo", "Tálamo"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué tipo de aprendizaje implica asociaciones entre estímulos?",
+        "options": ["Observacional", "Cognitivo", "Condicionamiento clásico", "Ensayo y error"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué psicólogo propuso la jerarquía de necesidades?",
+        "options": ["Freud", "Maslow", "Pavlov", "Skinner"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué trastorno se caracteriza por cambios extremos de humor?",
+        "options": ["Esquizofrenia", "Trastorno bipolar", "Depresión", "TOC"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué término describe la capacidad de entender las emociones de otros?",
+        "options": ["Empatía", "Altruismo", "Asertividad", "Resiliencia"],
+        "answer": 0
+      }
+    ],
+    "Síntesis y descripción de información": [
+      {
+        "question": "¿Qué es una síntesis?",
+        "options": ["Una copia textual", "Un resumen crítico con ideas propias", "Un listado de ideas", "Una definición exacta"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué debe contener una buena descripción?",
+        "options": ["Detalles específicos", "Opiniones personales", "Lenguaje complejo", "Citas textuales"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué técnica ayuda a organizar ideas para una síntesis?",
+        "options": ["Mapa conceptual", "Dictado", "Traducción", "Escaneo"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué elemento NO es parte de una descripción objetiva?",
+        "options": ["Datos verificables", "Adjetivos subjetivos", "Características medibles", "Hechos concretos"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué tipo de texto resume obras literarias manteniendo la esencia?",
+        "options": ["Paráfrasis", "Síntesis", "Ensayo", "Crítica"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué palabra define la capacidad de explicar con pocas palabras?",
+        "options": ["Concisión", "Redundancia", "Ambigüedad", "Digresión"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué se debe evitar en una síntesis?",
+        "options": ["Ideas principales", "Opiniones del autor original", "Interpretaciones personales", "Repetición innecesaria"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué técnica describe 'partir de lo general a lo específico'?",
+        "options": ["Inducción", "Deducción", "Abstracción", "Analogía"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué porcentaje aproximado suele reducirse en una síntesis respecto al original?",
+        "options": ["10%", "30%", "70%", "90%"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué verbo es clave al describir procesos?",
+        "options": ["Ser", "Pensar", "Hacer", "Sentir"],
+        "answer": 2
+      }
+    ],
+    "Tecnologías de la información": [
+      {
+        "question": "¿Qué es un sistema operativo?",
+        "options": ["Un software de diseño", "Un programa para hacer cálculos", "El software que gestiona el hardware", "Un tipo de red"],
+        "answer": 2
+      },
+      {
+        "question": "¿Cuál es una función básica de la nube?",
+        "options": ["Reparar computadoras", "Guardar información en línea", "Diseñar videojuegos", "Editar imágenes"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué protocolo se usa para páginas web seguras?",
+        "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué lenguaje se usa para estructurar páginas web?",
+        "options": ["Python", "HTML", "Java", "C++"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué dispositivo conecta redes diferentes?",
+        "options": ["Hub", "Switch", "Router", "Modem"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué término describe programas maliciosos?",
+        "options": ["Spyware", "Malware", "Adware", "Todos los anteriores"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué tecnología permite llamadas por internet?",
+        "options": ["VoIP", "LAN", "DNS", "URL"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué estructura almacena datos en TI?",
+        "options": ["Array", "Loop", "Firewall", "Pixel"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué significa IA?",
+        "options": ["Interfaz artificial", "Inteligencia artificial", "Internet avanzado", "Información automatizada"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué compañía creó el sistema operativo Windows?",
+        "options": ["Apple", "Microsoft", "Google", "IBM"],
+        "answer": 1
+      }
+    ],
+    "Sistemas de medición espacial y temporal": [
+      {
+        "question": "¿Qué instrumento se usa para medir el tiempo?",
+        "options": ["Compás", "Reloj", "Regla", "Balanza"],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuál es la unidad básica de longitud en el Sistema Internacional?",
+        "options": ["Metro", "Litro", "Segundo", "Gramo"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué instrumento mide ángulos?",
+        "options": ["Termómetro", "Transportador", "Cronómetro", "Barómetro"],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuántos segundos tiene una hora?",
+        "options": ["360", "3600", "60", "6000"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué unidad mide la superficie?",
+        "options": ["Kilogramo", "Metro cúbico", "Metro cuadrado", "Kelvin"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué sistema usa grados Celsius?",
+        "options": ["Medición de tiempo", "Medición de temperatura", "Medición de masa", "Medición de ángulos"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué prefijo significa 'mil'?",
+        "options": ["Centi-", "Kilo-", "Mega-", "Milli-"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué instrumento mide la presión atmosférica?",
+        "options": ["Barómetro", "Termómetro", "Velocímetro", "Hidrómetro"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué unidad mide la intensidad luminosa?",
+        "options": ["Candela", "Amperio", "Mol", "Watts"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué sistema de medición usa pies y pulgadas?",
+        "options": ["Sistema métrico", "Sistema imperial", "Sistema internacional", "Sistema decimal"],
+        "answer": 1
+      }
+    ],
+    "Propiedades de la materia": [
+      {
+        "question": "¿Cuál es una propiedad extensiva de la materia?",
+        "options": ["Masa", "Densidad", "Temperatura", "Color"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué estado de la materia tiene forma y volumen definidos?",
+        "options": ["Gas", "Líquido", "Sólido", "Plasma"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué propiedad mide la cantidad de materia?",
+        "options": ["Volumen", "Peso", "Masa", "Densidad"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué cambio de estado pasa de sólido a gas?",
+        "options": ["Fusión", "Sublimación", "Condensación", "Evaporación"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué ley dice 'la materia no se crea ni destruye'?",
+        "options": ["Ley de Boyle", "Ley de Lavoisier", "Ley de Charles", "Ley de Dalton"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué propiedad es común a sólidos, líquidos y gases?",
+        "options": ["Forma definida", "Volumen definido", "Compresibilidad", "Tienen masa"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué instrumento mide la densidad?",
+        "options": ["Termómetro", "Barómetro", "Dinamómetro", "Densímetro"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué estado tiene mayor energía cinética?",
+        "options": ["Sólido", "Líquido", "Gas", "Plasma"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué propiedad depende de la cantidad de muestra?",
+        "options": ["Punto de ebullición", "Maleabilidad", "Peso", "Ductilidad"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué cambio es reversible?",
+        "options": ["Quemar papel", "Cortar madera", "Derretir hielo", "Oxidar hierro"],
+        "answer": 2
+      }
+    ],
+    "Dimensiones espaciales": [
+      {
+        "question": "¿Cuántas dimensiones tiene un plano?",
+        "options": ["1", "2", "3", "4"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué figura representa tres dimensiones?",
+        "options": ["Cuadro", "Círculo", "Cubo", "Triángulo"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué objeto es unidimensional?",
+        "options": ["Hoja de papel", "Línea recta", "Esfera", "Cilindro"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué teoría física trabaja con 4 dimensiones?",
+        "options": ["Teoría cuántica", "Relatividad", "Mecánica clásica", "Termodinámica"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué letra griega representa el cambio espacial?",
+        "options": ["Alpha", "Delta", "Omega", "Pi"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué forma tiene 0 dimensiones?",
+        "options": ["Punto", "Línea", "Plano", "Cubo"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué herramienta mide ángulos en 2D?",
+        "options": ["Regla", "Compás", "Transportador", "Escuadra"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué concepto incluye ancho, alto y profundidad?",
+        "options": ["Perímetro", "Área", "Volumen", "Superficie"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué dimensión añade la perspectiva?",
+        "options": ["Tiempo", "Profundidad", "Altura", "Ancho"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué arte usa ilusiones 3D en 2D?",
+        "options": ["Puntillismo", "Surrealismo", "Impresionismo", "Trampantojo"],
+        "answer": 3
+      }
+    ],
+    "Teoría de la comunicación": [
+      {
+        "question": "¿Cuál es un elemento del proceso de comunicación?",
+        "options": ["Altavoz", "Canal", "Escenario", "Micrófono"],
+        "answer": 1
+      },
+      {
+        "question": "¿Quién propuso el modelo emisor-mensaje-receptor?",
+        "options": ["Shannon y Weaver", "Aristóteles", "Chomsky", "Piaget"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué es la retroalimentación en comunicación?",
+        "options": ["Interferencia", "Respuesta del receptor", "Código secreto", "Medio tecnológico"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué modelo incluye el contexto cultural?",
+        "options": ["Modelo lineal", "Modelo interactivo", "Modelo transaccional", "Modelo matemático"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué elemento distorsiona el mensaje?",
+        "options": ["Ruido", "Código", "Feedback", "Receptor"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué tipo de comunicación no usa palabras?",
+        "options": ["Verbal", "Escrita", "No verbal", "Digital"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué teoría estudia los efectos de los medios?",
+        "options": ["Agenda Setting", "Usos y gratificaciones", "Cultivación", "Todas las anteriores"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué significa 'EMI' en comunicación?",
+        "options": ["Estímulo Mediato Indirecto", "Esquema Mental Integrado", "Efecto Mediático Inmediato", "Espiral del Silencio"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué barrera es psicológica?",
+        "options": ["Prejuicios", "Distancia", "Tecnología", "Idioma"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué porcentaje de la comunicación es no verbal según Mehrabian?",
+        "options": ["30%", "55%", "70%", "93%"],
+        "answer": 3
+      }
+    ]
+  }

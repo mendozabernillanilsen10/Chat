@@ -1,0 +1,314 @@
+{
+    "interpretacion de la realidad social": [
+      {
+        "question": "¿Cuál es el concepto de realidad social según Durkheim?",
+        "options": ["Normas individuales", "Percepción subjetiva", "Interacción física", "Relaciones estructuradas"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué autor propuso la teoría de la acción social?",
+        "options": ["Karl Marx", "Max Weber", "Durkheim", "Spencer"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es la conciencia colectiva según Durkheim?",
+        "options": ["Opinión pública", "Experiencia personal", "Creencias compartidas", "Decisión política"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué estudia la sociología?",
+        "options": ["Átomos", "Cultura", "Relaciones sociales", "Genes"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué caracteriza a un hecho social?",
+        "options": ["Voluntariedad", "Subjetividad", "Coerción externa", "Neutralidad"],
+        "answer": 2
+      },
+      {
+        "question": "¿Cuál es el enfoque de Marx para analizar la sociedad?",
+        "options": ["Idealismo", "Funcionalismo", "Estructuralismo", "Materialismo histórico"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué papel tiene la economía en el análisis social marxista?",
+        "options": ["Nulo", "Secundario", "Central", "Estético"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué característica tiene la modernidad líquida según Bauman?",
+        "options": ["Estabilidad", "Cambio constante", "Rigidez", "Permanencia"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es la estructura social?",
+        "options": ["Gobierno", "Jerarquía de relaciones", "Tradición cultural", "Religión"],
+        "answer": 1
+      },
+      {
+        "question": "¿Para qué sirve interpretar la realidad social?",
+        "options": ["Controlar masas", "Entender relaciones humanas", "Reforzar leyes", "Divertir"],
+        "answer": 1
+      }
+    ],
+    "metodos numericos": [
+      {
+        "question": "¿Qué es el método de Euler?",
+        "options": ["Exacto", "Iterativo", "Geométrico", "Estadístico"],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuál se usa para integración numérica?",
+        "options": ["Monte Carlo", "Euler", "Gauss-Seidel", "Runge-Kutta"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué es un método iterativo?",
+        "options": ["Exacto", "Gráfico", "Aproximado por pasos", "Analítico"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué método se usa en sistemas lineales?",
+        "options": ["Simpson", "Runge-Kutta", "Newton", "Gauss-Seidel"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué es un error absoluto?",
+        "options": ["Diferencia real-aproximado", "Valor medido", "Cifra exacta", "Cálculo por fórmula"],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué hace el método de bisección?",
+        "options": ["Multiplica raíces", "Divide intervalos", "Aproxima integrales", "Calcula matrices"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es una raíz de una función?",
+        "options": ["Máximo", "Mínimo", "Donde se anula", "Derivada"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué método mejora a Euler?",
+        "options": ["Secante", "Trapezoidal", "Taylor", "Runge-Kutta"],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué es un método numérico?",
+        "options": ["Teoría exacta", "Solución aproximada", "Experimento", "Ley física"],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuál se usa en derivación numérica?",
+        "options": ["Punto medio", "Diferencias finitas", "Bisección", "Newton-Raphson"],
+        "answer": 1
+      }
+    ],
+    "comunication with technical english": [
+      {
+        "question": "What is a technical report for?",
+        "options": ["Express opinions", "Share structured info", "Tell stories", "Market research"],
+        "answer": 1
+      },
+      {
+        "question": "What is a common section in a technical paper?",
+        "options": ["Introduction", "Plot", "Poem", "Storyline"],
+        "answer": 0
+      },
+      {
+        "question": "Which tense is common in technical writing?",
+        "options": ["Past simple", "Future", "Present simple", "Past perfect"],
+        "answer": 2
+      },
+      {
+        "question": "What is an abstract?",
+        "options": ["Opinion", "Summary", "Table", "Diagram"],
+        "answer": 1
+      },
+      {
+        "question": "What does 'accurate' mean?",
+        "options": ["Wrong", "Precise", "Creative", "Vague"],
+        "answer": 1
+      },
+      {
+        "question": "Which is a technical verb?",
+        "options": ["Run", "Install", "Laugh", "Guess"],
+        "answer": 1
+      },
+      {
+        "question": "Which is a technical document?",
+        "options": ["Email", "Memo", "User manual", "Novel"],
+        "answer": 2
+      },
+      {
+        "question": "What's the function of a glossary?",
+        "options": ["Tell stories", "List terms", "Show pictures", "Summarize"],
+        "answer": 1
+      },
+      {
+        "question": "What is a 'draft'?",
+        "options": ["Final version", "Initial version", "Printed copy", "Diagram"],
+        "answer": 1
+      },
+      {
+        "question": "What is the audience in technical writing?",
+        "options": ["Experts", "General public", "Students", "Target readers"],
+        "answer": 3
+      }
+    ],
+    "lenguaje de programacion web": [
+      {
+        "question": "Which is NOT a web language?",
+        "options": ["JS", "HTML", "CSS", "Python"],
+        "answer": 3
+      },
+      {
+        "question": "What does 'class' in HTML do?",
+        "options": ["ID", "Style", "Group elements", "Content"],
+        "answer": 2
+      },
+      {
+        "question": "What is JavaScript used for?",
+        "options": ["Styling", "Structure", "Behavior", "Database"],
+        "answer": 2
+      },
+      {
+        "question": "What is CSS for?",
+        "options": ["Design", "Function", "Logic", "Data"],
+        "answer": 0
+      },
+      {
+        "question": "What is HTML?",
+        "options": ["Logic", "Design", "Structure", "Database"],
+        "answer": 2
+      },
+      {
+        "question": "What does 'href' specify in HTML?",
+        "options": ["Color", "Link", "Font", "Image"],
+        "answer": 1
+      },
+      {
+        "question": "Which tag defines a paragraph?",
+        "options": ["<p>", "<h1>", "<div>", "<br>"],
+        "answer": 0
+      },
+      {
+        "question": "What is Bootstrap?",
+        "options": ["Language", "Framework", "Database", "API"],
+        "answer": 1
+      },
+      {
+        "question": "What is the DOM?",
+        "options": ["Design", "Document Object Model", "Download", "Drawing"],
+        "answer": 1
+      },
+      {
+        "question": "Which HTML tag creates a link?",
+        "options": ["<a>", "<link>", "<url>", "<href>"],
+        "answer": 0
+      }
+    ],
+    "reacciones quimicas": [
+      {
+        "question": "¿Qué dice la ley de conservación de la masa?",
+        "options": ["Se crea masa", "Productos = Reactivos", "Se destruye masa", "No aplica"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué tipo de reacción forma un producto?",
+        "options": ["Descomposición", "Síntesis", "Desplazamiento", "Redox"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es una reacción endotérmica?",
+        "options": ["Libera calor", "Absorbe calor", "No cambia", "Es nuclear"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es un catalizador?",
+        "options": ["Reactivo", "Producto", "Acelera sin consumirse", "Inhibe reacción"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué indica el subíndice en una fórmula?",
+        "options": ["Cantidad de moléculas", "Cantidad de átomos", "Carga", "Peso"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es un reactivo limitante?",
+        "options": ["Se agrega extra", "No participa", "Se consume primero", "Es el más pesado"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es una reacción redox?",
+        "options": ["Intercambio de protones", "Intercambio de electrones", "Neutralización", "Precipitación"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué ocurre en una reacción de doble sustitución?",
+        "options": ["Un elemento se reemplaza", "Dos compuestos intercambian iones", "Se forma un gas", "Es reversible"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué tipo de reacción es la combustión?",
+        "options": ["Endotérmica", "Redox", "Síntesis", "Ácido-base"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué significa balancear una ecuación?",
+        "options": ["Reordenar productos", "Cambiar compuestos", "Igualar número de átomos", "Eliminar moléculas"],
+        "answer": 2
+      }
+    ],
+    "arquitectura de computadoras": [
+      {
+        "question": "¿Cuál es la función principal de la ALU?",
+        "options": ["Almacenar datos", "Realizar operaciones lógicas y aritméticas", "Gestionar memoria", "Controlar periféricos"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué componente controla el flujo de instrucciones dentro del CPU?",
+        "options": ["RAM", "Unidad Aritmética", "Unidad de Control", "Cache"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es un bus en arquitectura de computadoras?",
+        "options": ["Disco duro", "Canal de comunicación entre componentes", "Tipo de procesador", "Software del sistema"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué hace la memoria caché?",
+        "options": ["Almacena datos permanentes", "Contiene el sistema operativo", "Guarda instrucciones usadas frecuentemente", "Gestiona discos duros"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué es un registro?",
+        "options": ["Zona de RAM", "Área de almacenamiento interno del CPU", "Archivo en disco", "Periférico de salida"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué tipo de memoria pierde los datos al apagar el sistema?",
+        "options": ["ROM", "RAM", "SSD", "Flash"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué significa CPU?",
+        "options": ["Unidad de Control de Programas", "Unidad Central de Procesamiento", "Procesador Secundario", "Unidad de Cálculo Gráfico"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué es el ciclo de instrucción?",
+        "options": ["Conjunto de señales eléctricas", "Serie de pasos para ejecutar una instrucción", "Sistema operativo", "Ruta de datos"],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué parte de la computadora realiza operaciones de entrada/salida?",
+        "options": ["CPU", "RAM", "Periféricos", "Sistema operativo"],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué arquitectura define instrucciones que usan registros para operar?",
+        "options": ["Harvard", "Von Neumann", "RISC", "SISC"],
+        "answer": 2
+      }
+    ]
+}

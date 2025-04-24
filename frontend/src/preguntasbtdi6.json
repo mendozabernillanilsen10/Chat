@@ -1,0 +1,614 @@
+{
+    "Industrialización de Productos Agropecuarios": [
+      {
+        "question": "¿Qué es la industrialización de productos agropecuarios?",
+        "options": [
+          "El proceso de transformar materias primas agrícolas en productos elaborados",
+          "El cultivo exclusivo de cereales",
+          "La venta directa de productos frescos",
+          "El transporte de productos agrícolas al mercado"
+        ],
+        "answer": "El proceso de transformar materias primas agrícolas en productos elaborados"
+      },
+      {
+        "question": "¿Qué es la pasteurización en la industrialización de alimentos?",
+        "options": [
+          "Un proceso térmico para eliminar microorganismos patógenos",
+          "La adición de conservadores químicos",
+          "El almacenamiento a temperatura ambiente",
+          "La fermentación de productos lácteos"
+        ],
+        "answer": "Un proceso térmico para eliminar microorganismos patógenos"
+      },
+      {
+        "question": "¿Qué método prolonga la vida útil de frutas mediante frío?",
+        "options": [
+          "Congelación rápida (IQF)",
+          "Deshidratación solar",
+          "Salazón",
+          "Ahumado"
+        ],
+        "answer": "Congelación rápida (IQF)"
+      },
+      {
+        "question": "¿Qué norma regula los aditivos alimentarios?",
+        "options": [
+          "Codex Alimentarius",
+          "ISO 9001",
+          "NOM-001-SEMARNAT",
+          "FDA 21 CFR"
+        ],
+        "answer": "Codex Alimentarius"
+      },
+      {
+        "question": "¿Qué proceso convierte aceites en margarina?",
+        "options": [
+          "Hidrogenación",
+          "Pasteurización",
+          "Fermentación",
+          "Liofilización"
+        ],
+        "answer": "Hidrogenación"
+      },
+      {
+        "question": "¿Qué equipo separa crema de leche?",
+        "options": [
+          "Descremadora centrífuga",
+          "Prensas hidráulicas",
+          "Tamices vibratorios",
+          "Evaporadores al vacío"
+        ],
+        "answer": "Descremadora centrífuga"
+      },
+      {
+        "question": "¿Qué tecnología conserva alimentos sin calor?",
+        "options": [
+          "Altas presiones hidrostáticas (HPP)",
+          "Esterilización UHT",
+          "Enlatado tradicional",
+          "Cocción lenta"
+        ],
+        "answer": "Altas presiones hidrostáticas (HPP)"
+      },
+      {
+        "question": "¿Qué parámetro mide calidad en harinas?",
+        "options": [
+          "Contenido de proteína (gluten)",
+          "Color del empaque",
+          "Precio de mercado",
+          "Tamaño del molino"
+        ],
+        "answer": "Contenido de proteína (gluten)"
+      },
+      {
+        "question": "¿Qué proceso aumenta sólidos en leche?",
+        "options": [
+          "Evaporación",
+          "Homogeneización",
+          "Clarificación",
+          "Filtración"
+        ],
+        "answer": "Evaporación"
+      },
+      {
+        "question": "¿Qué envase prolonga vida útil de cárnicos?",
+        "options": [
+          "Atmósfera modificada (MAP)",
+          "Bolsas de papel",
+          "Vidrio transparente",
+          "Madera"
+        ],
+        "answer": "Atmósfera modificada (MAP)"
+      }
+    ],
+    "Plagas, Enfermedades y Métodos de Combate": [
+      {
+        "question": "¿Qué es una plaga en agricultura?",
+        "options": [
+          "Un conjunto de organismos que causan daños a los cultivos",
+          "Un fertilizante natural",
+          "Una técnica de cultivo intensivo",
+          "Un tipo de maleza beneficiosa"
+        ],
+        "answer": "Un conjunto de organismos que causan daños a los cultivos"
+      },
+      {
+        "question": "¿Qué es el control biológico de plagas?",
+        "options": [
+          "El uso de organismos vivos para controlar plagas",
+          "La aplicación de plaguicidas químicos",
+          "La quema de campos infestados",
+          "La eliminación manual de insectos"
+        ],
+        "answer": "El uso de organismos vivos para controlar plagas"
+      },
+      {
+        "question": "¿Qué insecto controla plagas de pulgones?",
+        "options": [
+          "Mariquita (Coccinella)",
+          "Mosca blanca",
+          "Gusano cogollero",
+          "Langosta"
+        ],
+        "answer": "Mariquita (Coccinella)"
+      },
+      {
+        "question": "¿Qué enfermedad causa el hongo Puccinia spp.?",
+        "options": [
+          "Roya del trigo",
+          "Marchitez bacteriana",
+          "Podredumbre negra",
+          "Mildiu velloso"
+        ],
+        "answer": "Roya del trigo"
+      },
+      {
+        "question": "¿Qué método previene resistencias a plaguicidas?",
+        "options": [
+          "Rotación de modos de acción",
+          "Uso continuo del mismo producto",
+          "Aplicaciones preventivas diarias",
+          "Mezcla aleatoria de químicos"
+        ],
+        "answer": "Rotación de modos de acción"
+      },
+      {
+        "question": "¿Qué técnica monitorea plagas con feromonas?",
+        "options": [
+          "Trampeo masivo",
+          "Pulverización aérea",
+          "Inundación de suelos",
+          "Podas drásticas"
+        ],
+        "answer": "Trampeo masivo"
+      },
+      {
+        "question": "¿Qué bacteria controla larvas de mosquitos?",
+        "options": [
+          "Bacillus thuringiensis israelensis",
+          "Escherichia coli",
+          "Salmonella spp.",
+          "Pseudomonas aeruginosa"
+        ],
+        "answer": "Bacillus thuringiensis israelensis"
+      },
+      {
+        "question": "¿Qué umbral justifica control químico?",
+        "options": [
+          "Nivel de daño económico",
+          "Presencia de un solo insecto",
+          "Temporada de lluvias",
+          "Fase lunar"
+        ],
+        "answer": "Nivel de daño económico"
+      },
+      {
+        "question": "¿Qué práctica reduce nematodos en suelos?",
+        "options": [
+          "Solarización",
+          "Riego por inundación",
+          "Arado profundo",
+          "Siembra directa"
+        ],
+        "answer": "Solarización"
+      },
+      {
+        "question": "¿Qué virus afecta cultivos de tomate?",
+        "options": [
+          "Virus del mosaico del tabaco (TMV)",
+          "Virus de la influenza aviar",
+          "Virus del dengue",
+          "Virus de la rabia"
+        ],
+        "answer": "Virus del mosaico del tabaco (TMV)"
+      }
+    ],
+    "Propedéutica Animal y Patología General": [
+      {
+        "question": "¿Qué es la propedéutica animal?",
+        "options": [
+          "El conjunto de métodos para evaluar el estado de salud de los animales",
+          "La reproducción asistida en animales",
+          "El manejo de alimentos para animales",
+          "La cría intensiva de animales domésticos"
+        ],
+        "answer": "El conjunto de métodos para evaluar el estado de salud de los animales"
+      },
+      {
+        "question": "¿Qué es la patología general?",
+        "options": [
+          "El estudio de las enfermedades y sus causas en los organismos vivos",
+          "La técnica de diagnóstico por imágenes",
+          "El análisis genético de animales",
+          "El cuidado diario de los animales"
+        ],
+        "answer": "El estudio de las enfermedades y sus causas en los organismos vivos"
+      },
+      {
+        "question": "¿Qué signo vital evalúa frecuencia cardíaca?",
+        "options": [
+          "Pulso",
+          "Temperatura rectal",
+          "Color de mucosas",
+          "Tiempo de llenado capilar"
+        ],
+        "answer": "Pulso"
+      },
+      {
+        "question": "¿Qué método diagnostica parásitos internos?",
+        "options": [
+          "Coprológico",
+          "Hematocrito",
+          "Biopsia hepática",
+          "Radiografía"
+        ],
+        "answer": "Coprológico"
+      },
+      {
+        "question": "¿Qué enfermedad causa Brucella abortus?",
+        "options": [
+          "Brucelosis bovina",
+          "Fiebre aftosa",
+          "Carbunco",
+          "Leptospirosis"
+        ],
+        "answer": "Brucelosis bovina"
+      },
+      {
+        "question": "¿Qué técnica recolecta muestras sanguíneas?",
+        "options": [
+          "Venopunción yugular",
+          "Aspiración ósea",
+          "Biopsia cutánea",
+          "Lavado gástrico"
+        ],
+        "answer": "Venopunción yugular"
+      },
+      {
+        "question": "¿Qué parámetro indica deshidratación?",
+        "options": [
+          "Tiempo de llenado capilar >2 segundos",
+          "Temperatura corporal normal",
+          "Pulso regular",
+          "Mucosas rosadas"
+        ],
+        "answer": "Tiempo de llenado capilar >2 segundos"
+      },
+      {
+        "question": "¿Qué virus causa enfermedad de Aujeszky?",
+        "options": [
+          "Herpesvirus porcino tipo 1",
+          "Parvovirus canino",
+          "Pestivirus bovino",
+          "Orthopoxvirus"
+        ],
+        "answer": "Herpesvirus porcino tipo 1"
+      },
+      {
+        "question": "¿Qué prueba detecta anticuerpos?",
+        "options": [
+          "ELISA",
+          "Hematocrito",
+          "Urianálisis",
+          "Coprología"
+        ],
+        "answer": "ELISA"
+      },
+      {
+        "question": "¿Qué bacteria causa mastitis bovina?",
+        "options": [
+          "Staphylococcus aureus",
+          "Mycobacterium bovis",
+          "Clostridium tetani",
+          "Salmonella Dublin"
+        ],
+        "answer": "Staphylococcus aureus"
+      }
+    ],
+    "Prácticas": [
+      {
+        "question": "¿Cuál es el objetivo principal de las prácticas profesionales?",
+        "options": [
+          "Aplicar conocimientos teóricos en contextos reales",
+          "Obtener un título académico",
+          "Evitar el trabajo práctico",
+          "Realizar tareas no relacionadas con el área de estudio"
+        ],
+        "answer": "Aplicar conocimientos teóricos en contextos reales"
+      },
+      {
+        "question": "¿Qué se requiere para realizar prácticas en una organización?",
+        "options": [
+          "Cumplir con los requisitos académicos establecidos",
+          "Tener un contrato laboral indefinido",
+          "Ser empleado permanente de la empresa",
+          "No contar con conocimientos previos"
+        ],
+        "answer": "Cumplir con los requisitos académicos establecidos"
+      },
+      {
+        "question": "¿Qué documento formaliza las prácticas?",
+        "options": [
+          "Convenio de colaboración",
+          "Contrato de compraventa",
+          "Póliza de seguros",
+          "Factura proforma"
+        ],
+        "answer": "Convenio de colaboración"
+      },
+      {
+        "question": "¿Qué habilidad desarrollan principalmente las prácticas?",
+        "options": [
+          "Competencias técnicas y blandas",
+          "Velocidad de escritura",
+          "Memorización de datos",
+          "Uso de redes sociales"
+        ],
+        "answer": "Competencias técnicas y blandas"
+      },
+      {
+        "question": "¿Qué beneficio obtienen las empresas con practicantes?",
+        "options": [
+          "Innovación y talento fresco",
+          "Reducción de plantilla fija",
+          "Aumento de costos operativos",
+          "Mayor rotación de personal"
+        ],
+        "answer": "Innovación y talento fresco"
+      },
+      {
+        "question": "¿Qué debe incluir un informe de prácticas?",
+        "options": [
+          "Actividades realizadas y aprendizajes",
+          "Opiniones políticas",
+          "Datos confidenciales de la empresa",
+          "Quejas personales"
+        ],
+        "answer": "Actividades realizadas y aprendizajes"
+      },
+      {
+        "question": "¿Qué porcentaje de prácticas suele ser remunerado?",
+        "options": [
+          "Depende del país y sector",
+          "100% obligatoriamente",
+          "0% en todos los casos",
+          "50% por ley"
+        ],
+        "answer": "Depende del país y sector"
+      },
+      {
+        "question": "¿Qué figura supervisa al practicante?",
+        "options": [
+          "Tutor académico y supervisor empresarial",
+          "Recursos humanos exclusivamente",
+          "Compañeros de trabajo",
+          "Clientes de la empresa"
+        ],
+        "answer": "Tutor académico y supervisor empresarial"
+      },
+      {
+        "question": "¿Qué tipo de práctica tiene enfoque social?",
+        "options": [
+          "Prácticas comunitarias",
+          "Pasantías industriales",
+          "Investigación de laboratorio",
+          "Trabajo remoto"
+        ],
+        "answer": "Prácticas comunitarias"
+      },
+      {
+        "question": "¿Qué competencia evalúan las prácticas?",
+        "options": [
+          "Aplicación de conocimientos en situaciones reales",
+          "Capacidad para evitar responsabilidades",
+          "Habilidad para eludir tareas",
+          "Conocimiento teórico exclusivamente"
+        ],
+        "answer": "Aplicación de conocimientos en situaciones reales"
+      }
+    ],
+    "Servicio Social": [
+      {
+        "question": "¿Qué es el servicio social en el ámbito académico?",
+        "options": [
+          "Una actividad obligatoria para retribuir a la sociedad los conocimientos adquiridos",
+          "Un empleo temporal con salario",
+          "Un proyecto de investigación científica",
+          "Una actividad recreativa voluntaria"
+        ],
+        "answer": "Una actividad obligatoria para retribuir a la sociedad los conocimientos adquiridos"
+      },
+      {
+        "question": "¿Cuál es uno de los objetivos del servicio social?",
+        "options": [
+          "Contribuir al desarrollo de comunidades vulnerables",
+          "Obtener ingresos económicos",
+          "Evitar tareas académicas",
+          "Cumplir con requisitos internacionales"
+        ],
+        "answer": "Contribuir al desarrollo de comunidades vulnerables"
+      },
+      {
+        "question": "¿Qué documento avala el servicio social?",
+        "options": [
+          "Carta de terminación y reporte final",
+          "Recibos de nómina",
+          "Contrato laboral",
+          "Diploma de participación"
+        ],
+        "answer": "Carta de terminación y reporte final"
+      },
+      {
+        "question": "¿Qué institución regula el servicio social en México?",
+        "options": [
+          "Dirección General de Profesiones",
+          "Secretaría de Turismo",
+          "Banco de México",
+          "INEGI"
+        ],
+        "answer": "Dirección General de Profesiones"
+      },
+      {
+        "question": "¿Qué área es común para servicio social en veterinaria?",
+        "options": [
+          "Brigadas de esterilización animal",
+          "Laboratorios farmacéuticos privados",
+          "Clínicas exclusivas para mascotas",
+          "Tiendas de alimentos para animales"
+        ],
+        "answer": "Brigadas de esterilización animal"
+      },
+      {
+        "question": "¿Qué beneficio obtiene el estudiante?",
+        "options": [
+          "Desarrollo de sensibilidad social",
+          "Salario mensual garantizado",
+          "Reducción de materias cursadas",
+          "Título profesional automático"
+        ],
+        "answer": "Desarrollo de sensibilidad social"
+      },
+      {
+        "question": "¿Qué caracteriza un proyecto de servicio social?",
+        "options": [
+          "Impacto comunitario medible",
+          "Beneficio económico personal",
+          "Requisito opcional académico",
+          "Duración indefinida"
+        ],
+        "answer": "Impacto comunitario medible"
+      },
+      {
+        "question": "¿Qué institución recibe comúnmente servicio social?",
+        "options": [
+          "Organizaciones sin fines de lucro",
+          "Empresas transnacionales",
+          "Consultorios privados",
+          "Franquicias comerciales"
+        ],
+        "answer": "Organizaciones sin fines de lucro"
+      },
+      {
+        "question": "¿Qué porcentaje de créditos suele requerirse para iniciarlo?",
+        "options": [
+          "70% aprobado",
+          "100% completado",
+          "50% en trámite",
+          "No requiere avance académico"
+        ],
+        "answer": "70% aprobado"
+      },
+      {
+        "question": "¿Qué actitud es esencial en servicio social?",
+        "options": [
+          "Compromiso ético y solidaridad",
+          "Competitividad individual",
+          "Aislamiento profesional",
+          "Interés exclusivo en currículum"
+        ],
+        "answer": "Compromiso ético y solidaridad"
+      }
+    ],
+    "Proyecto Aplicación e Innovación Tecnológica": [
+      {
+        "question": "¿Qué es un proyecto de innovación tecnológica?",
+        "options": [
+          "Un plan para desarrollar soluciones novedosas mediante tecnología",
+          "Un esquema de producción tradicional",
+          "Un método de enseñanza teórica",
+          "Un análisis económico sin tecnología"
+        ],
+        "answer": "Un plan para desarrollar soluciones novedosas mediante tecnología"
+      },
+      {
+        "question": "¿Qué se busca con la aplicación tecnológica en proyectos?",
+        "options": [
+          "Mejorar procesos y resolver problemas de manera eficiente",
+          "Incrementar costos de producción",
+          "Eliminar el uso de herramientas tecnológicas",
+          "Reducir la productividad"
+        ],
+        "answer": "Mejorar procesos y resolver problemas de manera eficiente"
+      },
+      {
+        "question": "¿Qué metodología estructura proyectos innovadores?",
+        "options": [
+          "Design Thinking",
+          "Método tradicional",
+          "Improvisación",
+          "Copia de proyectos existentes"
+        ],
+        "answer": "Design Thinking"
+      },
+      {
+        "question": "¿Qué herramienta evalúa viabilidad técnica?",
+        "options": [
+          "Análisis FODA",
+          "Estudio de mercado",
+          "Pruebas de prototipos",
+          "Encuestas de opinión"
+        ],
+        "answer": "Pruebas de prototipos"
+      },
+      {
+        "question": "¿Qué sector beneficia la innovación en agroindustria?",
+        "options": [
+          "Todos los anteriores",
+          "Producción sostenible",
+          "Reducción de desperdicios",
+          "Trazabilidad alimentaria"
+        ],
+        "answer": "Todos los anteriores"
+      },
+      {
+        "question": "¿Qué tecnología optimiza riego agrícola?",
+        "options": [
+          "Sensores de humedad IoT",
+          "Aspersores tradicionales",
+          "Canales de concreto",
+          "Regaderas manuales"
+        ],
+        "answer": "Sensores de humedad IoT"
+      },
+      {
+        "question": "¿Qué documento protege innovaciones tecnológicas?",
+        "options": [
+          "Patente",
+          "Factura comercial",
+          "Recibo de honorarios",
+          "Contrato de arrendamiento"
+        ],
+        "answer": "Patente"
+      },
+      {
+        "question": "¿Qué caracteriza un proyecto tecnológico exitoso?",
+        "options": [
+          "Solución escalable y reproducible",
+          "Alto costo sin beneficios",
+          "Uso exclusivo de tecnologías obsoletas",
+          "Impacto negativo ambiental"
+        ],
+        "answer": "Solución escalable y reproducible"
+      },
+      {
+        "question": "¿Qué institución financia proyectos innovadores en México?",
+        "options": [
+          "CONACYT",
+          "SAT",
+          "PEMEX",
+          "ISSSTE"
+        ],
+        "answer": "CONACYT"
+      },
+      {
+        "question": "¿Qué métrica evalúa impacto de innovaciones?",
+        "options": [
+          "ROI (Retorno de inversión)",
+          "Número de empleados",
+          "Tamaño de oficinas",
+          "Cantidad de reuniones"
+        ],
+        "answer": "ROI (Retorno de inversión)"
+      }
+    ]
+  }

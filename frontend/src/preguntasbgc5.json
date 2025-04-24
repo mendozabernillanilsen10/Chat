@@ -1,0 +1,366 @@
+{
+    "Estilo y Corrección": [
+      {
+        "question": "¿Qué es la concordancia en un texto?",
+        "options": ["La relación correcta entre sujeto y verbo", "La repetición de palabras", "El uso de sinónimos", "La extensión del texto"],
+        "answer": "La relación correcta entre sujeto y verbo"
+      },
+      {
+        "question": "¿Qué es un error de puntuación?",
+        "options": ["El uso incorrecto de signos como comas o puntos", "La falta de ideas en un texto", "El uso de palabras en otro idioma", "La falta de estructura en párrafos"],
+        "answer": "El uso incorrecto de signos como comas o puntos"
+      },
+      {
+        "question": "¿Qué es un anacoluto?",
+        "options": ["Una inconsistencia gramatical en la estructura de la oración", "Un tipo de metáfora", "Un recurso de repetición", "Un error de ortografía"],
+        "answer": "Una inconsistencia gramatical en la estructura de la oración"
+      },
+      {
+        "question": "¿Cuál es un ejemplo de dequeísmo?",
+        "options": ["Decir 'pienso de que' en lugar de 'pienso que'", "Usar mayúsculas incorrectamente", "Emplear palabras extranjeras", "Repetir la misma palabra"],
+        "answer": "Decir 'pienso de que' en lugar de 'pienso que'"
+      },
+      {
+        "question": "¿Qué es la cohesión textual?",
+        "options": ["La conexión lógica entre oraciones y párrafos", "La longitud del texto", "El uso de rimas", "La variedad de fuentes"],
+        "answer": "La conexión lógica entre oraciones y párrafos"
+      },
+      {
+        "question": "¿Qué error representa 'haber muchas personas'?",
+        "options": ["Confusión entre 'haber' y 'a ver'", "Falta de puntuación", "Uso incorrecto de extranjerismos", "Queísmo"],
+        "answer": "Confusión entre 'haber' y 'a ver'"
+      },
+      {
+        "question": "¿Qué es un pleonasmo?",
+        "options": ["Redundancia innecesaria (ej. 'subir arriba')", "Falta de claridad", "Uso de tecnicismos", "Error de sintaxis"],
+        "answer": "Redundancia innecesaria (ej. 'subir arriba')"
+      },
+      {
+        "question": "¿Qué elemento NO contribuye a la corrección de estilo?",
+        "options": ["Uso de jerga informal en textos académicos", "Concordancia gramatical", "Puntuación adecuada", "Coherencia temática"],
+        "answer": "Uso de jerga informal en textos académicos"
+      },
+      {
+        "question": "¿Qué es una cacofonía?",
+        "options": ["Sonido desagradable por combinación de palabras", "Falta de ritmo en el texto", "Uso excesivo de adjetivos", "Estructura pasiva"],
+        "answer": "Sonido desagradable por combinación de palabras"
+      },
+      {
+        "question": "¿Qué verbo concuerda correctamente con 'La mayoría'?",
+        "options": ["Puede usar singular o plural según el contexto", "Siempre singular", "Siempre plural", "Depende del tiempo verbal"],
+        "answer": "Puede usar singular o plural según el contexto"
+      }
+    ],
+    "Lengua Extranjera V": [
+      {
+        "question": "¿Cómo se traduce 'What time does the train leave?' al español?",
+        "options": ["¿A qué hora sale el tren?", "¿Dónde está el tren?", "¿Cuánto cuesta el tren?", "¿Cuánto tarda el tren?"],
+        "answer": "¿A qué hora sale el tren?"
+      },
+      {
+        "question": "¿Qué significa 'I need to book a flight' en español?",
+        "options": ["Necesito reservar un vuelo", "Necesito tomar un taxi", "Necesito hacer la maleta", "Necesito comprar un tren"],
+        "answer": "Necesito reservar un vuelo"
+      },
+      {
+        "question": "Traduce al inglés: '¿Aceptan tarjetas de crédito aquí?'",
+        "options": ["Do you accept credit cards here?", "Where is the bank?", "How much cash do you need?", "Can I pay later?"],
+        "answer": "Do you accept credit cards here?"
+      },
+      {
+        "question": "¿Qué significa 'No refunds' en español?",
+        "options": ["No hay reembolsos", "No hay descuentos", "No se aceptan quejas", "Compra mínima"],
+        "answer": "No hay reembolsos"
+      },
+      {
+        "question": "¿Cómo se dice 'Quisiera cancelar mi reservación' en inglés?",
+        "options": ["I would like to cancel my reservation", "I want to book a room", "I need a ticket", "Where is my luggage?"],
+        "answer": "I would like to cancel my reservation"
+      },
+      {
+        "question": "Traduce al español: 'The warranty covers two years'",
+        "options": ["La garantía cubre dos años", "El contrato vence en dos años", "Dos años de descuento", "Pago en dos cuotas"],
+        "answer": "La garantía cubre dos años"
+      },
+      {
+        "question": "¿Qué significa 'Keep left' en español?",
+        "options": ["Manténgase a la izquierda", "Gire a la derecha", "Alto total", "Ceda el paso"],
+        "answer": "Manténgase a la izquierda"
+      },
+      {
+        "question": "¿Cómo se pregunta '¿Tiene dieta vegetariana?' en inglés?",
+        "options": ["Do you have vegetarian options?", "Is this food fresh?", "How much protein does it have?", "Are you the chef?"],
+        "answer": "Do you have vegetarian options?"
+      },
+      {
+        "question": "Traduce al inglés: 'Necesito un recibo para mi declaración de impuestos'",
+        "options": ["I need a receipt for my tax return", "I want an invoice", "Where is the tax office?", "How much is the tax?"],
+        "answer": "I need a receipt for my tax return"
+      },
+      {
+        "question": "¿Qué significa 'Beware of pickpockets' en español?",
+        "options": ["Cuidado con los carteristas", "No estacionarse", "Prohibido fumar", "Zona de seguridad"],
+        "answer": "Cuidado con los carteristas"
+      }
+    ],
+    "Precálculo": [
+      {
+        "question": "¿Qué describe una función cuadrática?",
+        "options": ["Una parábola", "Una línea recta", "Un círculo", "Un polígono"],
+        "answer": "Una parábola"
+      },
+      {
+        "question": "¿Qué representa el dominio de una función?",
+        "options": ["El conjunto de valores de entrada", "El conjunto de valores de salida", "El máximo valor de la función", "El área bajo la curva"],
+        "answer": "El conjunto de valores de entrada"
+      },
+      {
+        "question": "¿Qué es una asíntota vertical?",
+        "options": ["Una línea a la que la función se acerca infinitamente sin tocarla", "El punto máximo de la función", "La raíz de la ecuación", "El corte con el eje Y"],
+        "answer": "Una línea a la que la función se acerca infinitamente sin tocarla"
+      },
+      {
+        "question": "¿Qué fórmula resuelve ecuaciones cuadráticas?",
+        "options": ["Fórmula general (x = [-b ± √(b²-4ac)]/2a)", "Teorema de Pitágoras", "Ley de cosenos", "Identidad trigonométrica"],
+        "answer": "Fórmula general (x = [-b ± √(b²-4ac)]/2a)"
+      },
+      {
+        "question": "¿Qué es una función inyectiva?",
+        "options": ["Donde cada elemento del dominio tiene una imagen única", "Una función con asíntotas", "Una función periódica", "Una función con valor absoluto"],
+        "answer": "Donde cada elemento del dominio tiene una imagen única"
+      },
+      {
+        "question": "¿Qué transformación aplica f(x) → f(x) + 3?",
+        "options": ["Desplazamiento vertical hacia arriba", "Desplazamiento horizontal a la izquierda", "Reflexión sobre el eje X", "Compresión vertical"],
+        "answer": "Desplazamiento vertical hacia arriba"
+      },
+      {
+        "question": "¿Qué representa log₁₀100?",
+        "options": ["2", "10", "1", "0"],
+        "answer": "2"
+      },
+      {
+        "question": "¿Qué es el rango de una función?",
+        "options": ["El conjunto de valores de salida", "Los valores que no puede tomar la función", "El intervalo de crecimiento", "La pendiente de la recta"],
+        "answer": "El conjunto de valores de salida"
+      },
+      {
+        "question": "¿Qué tipo de función es f(x) = |x|?",
+        "options": ["Valor absoluto", "Exponencial", "Logarítmica", "Racional"],
+        "answer": "Valor absoluto"
+      },
+      {
+        "question": "¿Qué propiedad cumple (aⁿ)ᵐ = aⁿᵐ?",
+        "options": ["Potencia de potencia", "Producto de potencias", "Cociente de potencias", "Raíz de potencia"],
+        "answer": "Potencia de potencia"
+      }
+    ],
+    "Ciudadanía Mundial": [
+      {
+        "question": "¿Qué es la globalización?",
+        "options": ["El proceso de interacción e integración entre países", "La exclusión de culturas extranjeras", "La independencia total de un país", "La eliminación de fronteras naturales"],
+        "answer": "El proceso de interacción e integración entre países"
+      },
+      {
+        "question": "¿Qué es el desarrollo sostenible?",
+        "options": ["El uso de recursos sin comprometer a futuras generaciones", "El consumo masivo de recursos", "La eliminación de energías renovables", "El enfoque exclusivo en el crecimiento económico"],
+        "answer": "El uso de recursos sin comprometer a futuras generaciones"
+      },
+      {
+        "question": "¿Qué organización promueve la cooperación internacional?",
+        "options": ["ONU (Naciones Unidas)", "FMI (Fondo Monetario Internacional)", "OMC (Organización Mundial del Comercio)", "Todas las anteriores"],
+        "answer": "Todas las anteriores"
+      },
+      {
+        "question": "¿Qué es la interculturalidad?",
+        "options": ["El diálogo respetuoso entre culturas", "La imposición de una cultura dominante", "La desaparición de identidades locales", "La migración forzada"],
+        "answer": "El diálogo respetuoso entre culturas"
+      },
+      {
+        "question": "¿Qué problema global aborda el Acuerdo de París?",
+        "options": ["Cambio climático", "Pobreza extrema", "Guerras comerciales", "Desigualdad de género"],
+        "answer": "Cambio climático"
+      },
+      {
+        "question": "¿Qué significa 'Objetivos de Desarrollo Sostenible' (ODS)?",
+        "options": ["Metas globales para mejorar el planeta al 2030", "Tratados militares", "Políticas económicas nacionales", "Requisitos académicos"],
+        "answer": "Metas globales para mejorar el planeta al 2030"
+      },
+      {
+        "question": "¿Qué es la huella ecológica mundial?",
+        "options": ["El impacto ambiental colectivo de la humanidad", "Un mapa de migraciones", "Un índice de crecimiento económico", "Un tratado ambiental"],
+        "answer": "El impacto ambiental colectivo de la humanidad"
+      },
+      {
+        "question": "¿Qué principio promueve la ciudadanía mundial?",
+        "options": ["Responsabilidad compartida ante problemas globales", "Nacionalismo extremo", "Aislamiento cultural", "Desinterés por conflictos ajenos"],
+        "answer": "Responsabilidad compartida ante problemas globales"
+      },
+      {
+        "question": "¿Qué documento establece derechos humanos universales?",
+        "options": ["Declaración Universal de Derechos Humanos (1948)", "Constitución de EE.UU.", "Carta Magna", "Pacto de Varsovia"],
+        "answer": "Declaración Universal de Derechos Humanos (1948)"
+      },
+      {
+        "question": "¿Qué acción refleja conciencia global?",
+        "options": ["Reducir el consumo de plásticos de un solo uso", "Ignorar noticias internacionales", "Comprar solo productos importados", "Desconocer otras culturas"],
+        "answer": "Reducir el consumo de plásticos de un solo uso"
+      }
+    ],
+    "Identidad y Filosofía de Vida": [
+      {
+        "question": "¿Qué es la identidad personal?",
+        "options": ["El conjunto de características que definen a una persona", "La percepción de los demás sobre alguien", "Un rol impuesto por la sociedad", "Un título académico"],
+        "answer": "El conjunto de características que definen a una persona"
+      },
+      {
+        "question": "¿Qué es una filosofía de vida?",
+        "options": ["Un conjunto de valores y principios que guían decisiones", "Un código legal", "Una teoría científica", "Una opinión pasajera"],
+        "answer": "Un conjunto de valores y principios que guían decisiones"
+      },
+      {
+        "question": "¿Qué influye en la formación de la identidad?",
+        "options": ["Experiencias, cultura y relaciones sociales", "Solo factores genéticos", "Exclusivamente la educación formal", "Las posesiones materiales"],
+        "answer": "Experiencias, cultura y relaciones sociales"
+      },
+      {
+        "question": "¿Qué es la autorrealización según Maslow?",
+        "options": ["Alcanzar el máximo potencial personal", "Tener éxito económico", "Seguir modas sociales", "Cumplir expectativas ajenas"],
+        "answer": "Alcanzar el máximo potencial personal"
+      },
+      {
+        "question": "¿Qué ayuda a definir un proyecto de vida?",
+        "options": ["Autoconocimiento y metas claras", "Imitar a otras personas", "Evitar la reflexión personal", "Depender de opiniones externas"],
+        "answer": "Autoconocimiento y metas claras"
+      },
+      {
+        "question": "¿Qué filósofo propuso 'conócete a ti mismo'?",
+        "options": ["Sócrates", "Aristóteles", "Platón", "Descartes"],
+        "answer": "Sócrates"
+      },
+      {
+        "question": "¿Qué es la resiliencia en desarrollo personal?",
+        "options": ["La capacidad de superar adversidades", "La inteligencia académica", "La popularidad social", "La habilidad artística"],
+        "answer": "La capacidad de superar adversidades"
+      },
+      {
+        "question": "¿Qué pregunta fomenta la reflexión existencial?",
+        "options": ["¿Qué sentido quiero dar a mi vida?", "¿Cuánto dinero necesito?", "Qué piensan los demás de mí?", "¿Cómo seguir tendencias?"],
+        "answer": "¿Qué sentido quiero dar a mi vida?"
+      },
+      {
+        "question": "¿Qué caracteriza a una persona auténtica?",
+        "options": ["Actúa según sus valores reales", "Sigue modas sin cuestionar", "Ignora sus emociones", "Copia modelos ajenos"],
+        "answer": "Actúa según sus valores reales"
+      },
+      {
+        "question": "¿Qué es el propósito vital?",
+        "options": ["Un objetivo significativo que da dirección a la vida", "Una meta a corto plazo", "Un sueño imposible", "Una obligación impuesta"],
+        "answer": "Un objetivo significativo que da dirección a la vida"
+      }
+    ],
+    "Biología II": [
+      {
+        "question": "¿Qué es la mitosis?",
+        "options": ["El proceso de división celular que produce células idénticas", "La formación de células reproductivas", "La replicación del ADN sin división celular", "La fusión de dos células"],
+        "answer": "El proceso de división celular que produce células idénticas"
+      },
+      {
+        "question": "¿Qué es un ecosistema?",
+        "options": ["El conjunto de seres vivos e interacciones con su entorno", "Un lugar sin vida", "Un organismo individual", "Un hábitat artificial"],
+        "answer": "El conjunto de seres vivos e interacciones con su entorno"
+      },
+      {
+        "question": "¿Qué organelo realiza la fotosíntesis?",
+        "options": ["Cloroplasto", "Mitocondria", "Núcleo", "Ribosoma"],
+        "answer": "Cloroplasto"
+      },
+      {
+        "question": "¿Qué es la cadena alimenticia?",
+        "options": ["El flujo de energía entre organismos según quién se alimenta de quién", "Un listado de alimentos", "La cantidad de nutrientes en el suelo", "Un ciclo de agua"],
+        "answer": "El flujo de energía entre organismos según quién se alimenta de quién"
+      },
+      {
+        "question": "¿Qué proceso produce células sexuales?",
+        "options": ["Meiosis", "Mitosis", "Fotosíntesis", "Ósmosis"],
+        "answer": "Meiosis"
+      },
+      {
+        "question": "¿Qué científico propuso la teoría de la evolución?",
+        "options": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "Isaac Newton"],
+        "answer": "Charles Darwin"
+      },
+      {
+        "question": "¿Qué es un bioma?",
+        "options": ["Una gran comunidad ecológica con clima característico", "Un órgano del cuerpo", "Una molécula de ADN", "Una célula especializada"],
+        "answer": "Una gran comunidad ecológica con clima característico"
+      },
+      {
+        "question": "¿Qué gas liberan las plantas en la fotosíntesis?",
+        "options": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Metano"],
+        "answer": "Oxígeno"
+      },
+      {
+        "question": "¿Qué es la biodiversidad?",
+        "options": ["La variedad de vida en un ecosistema", "El estudio de los fósiles", "La reproducción celular", "El clima de una región"],
+        "answer": "La variedad de vida en un ecosistema"
+      },
+      {
+        "question": "¿Qué reino incluye a las bacterias?",
+        "options": ["Monera", "Fungi", "Plantae", "Animalia"],
+        "answer": "Monera"
+      }
+    ],
+    "Diseño de Plan de Vida": [
+      {
+        "question": "¿Qué es un plan de vida?",
+        "options": ["Una guía personal con metas y estrategias para el futuro", "Un documento financiero", "Un conjunto de reglas impuestas por otros", "Un proyecto empresarial"],
+        "answer": "Una guía personal con metas y estrategias para el futuro"
+      },
+      {
+        "question": "¿Qué implica establecer metas SMART?",
+        "options": ["Definir metas específicas, medibles, alcanzables, relevantes y con límite de tiempo", "Establecer metas difíciles de medir", "Crear objetivos sin plazo definido", "Fijar metas generales y ambiguas"],
+        "answer": "Definir metas específicas, medibles, alcanzables, relevantes y con límite de tiempo"
+      },
+      {
+        "question": "¿Qué área NO es clave en un plan de vida integral?",
+        "options": ["Imitar la vida de otras personas", "Desarrollo profesional", "Salud física y mental", "Relaciones significativas"],
+        "answer": "Imitar la vida de otras personas"
+      },
+      {
+        "question": "¿Qué herramienta ayuda a priorizar metas?",
+        "options": ["Matriz de Eisenhower (urgente/importante)", "Cálculo de impuestos", "Lista de compras", "Horóscopo"],
+        "answer": "Matriz de Eisenhower (urgente/importante)"
+      },
+      {
+        "question": "¿Qué es la visualización en planificación de vida?",
+        "options": ["Imaginar detalladamente el logro de metas", "Copiar modelos ajenos", "Evitar la reflexión", "Depender de la suerte"],
+        "answer": "Imaginar detalladamente el logro de metas"
+      },
+      {
+        "question": "¿Qué pregunta es esencial al diseñar un plan de vida?",
+        "options": ["¿Qué quiero lograr en 5 o 10 años?", "¿Qué piensan mis vecinos?", "¿Cuál es el color de moda?", "¿Qué horóscopo tengo?"],
+        "answer": "¿Qué quiero lograr en 5 o 10 años?"
+      },
+      {
+        "question": "¿Qué caracteriza una meta alcanzable?",
+        "options": ["Considerar recursos y limitaciones reales", "Ser imposible de lograr", "Depender exclusivamente de otros", "No tener pasos concretos"],
+        "answer": "Considerar recursos y limitaciones reales"
+      },
+      {
+        "question": "¿Qué hábito favorece el cumplimiento de un plan de vida?",
+        "options": ["Revisar y ajustar metas periódicamente", "Evitar toda evaluación", "Seguir solo impulsos momentáneos", "Ignorar obstáculos"],
+        "answer": "Revisar y ajustar metas periódicamente"
+      },
+      {
+        "question": "¿Qué elemento incluye un plan de vida bien estructurado?",
+        "options": ["Estrategias para superar obstáculos", "Sueños vagos sin acción", "Quejas sobre circunstancias", "Dependencia de terceros"],
+        "answer": "Estrategias para superar obstáculos"
+      },
+      {
+        "question": "¿Qué significa 'medible' en metas SMART?",
+        "options": ["Que pueda cuantificarse o verificarse", "Que sea abstracto", "Que dependa de opiniones", "Que cambie diariamente"],
+        "answer": "Que pueda cuantificarse o verificarse"
+      }
+    ]
+  }

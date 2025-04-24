@@ -1,0 +1,716 @@
+{
+    "Sistemas de proyección": [
+      {
+        "question": "¿Qué es un sistema de proyección ortogonal?",
+        "options": [
+          "Un método para mostrar objetos en 3D",
+          "Un sistema para medir ángulos",
+          "Un tipo de proyección fotográfica",
+          "Un sistema para la animación digital"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué vista se utiliza comúnmente en un plano arquitectónico?",
+        "options": [
+          "Vista isométrica",
+          "Vista lateral",
+          "Vista superior",
+          "Vista artística"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué tipo de proyección distorsiona las dimensiones?",
+        "options": [
+          "Ortogonal",
+          "Isométrica",
+          "Caballera",
+          "Perspectiva"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "¿Cuántas vistas principales hay en proyección ortogonal?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "6"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué línea se usa para ejes en proyección axonométrica?",
+        "options": [
+          "Continua gruesa",
+          "Discontinua",
+          "De trazo y punto",
+          "Fina"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué ángulo forman los ejes en proyección isométrica?",
+        "options": [
+          "90°",
+          "120°",
+          "45°",
+          "180°"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué proyección usa puntos de fuga?",
+        "options": [
+          "Caballera",
+          "Militar",
+          "Perspectiva cónica",
+          "Diédrica"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué instrumento se usa para dibujar proyecciones?",
+        "options": [
+          "Compás",
+          "Escuadra y cartabón",
+          "Transportador",
+          "Todos los anteriores"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué proyección mantiene paralelas las líneas paralelas?",
+        "options": [
+          "Perspectiva",
+          "Axonométrica",
+          "Oblícua",
+          "Central"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué vista muestra la profundidad en proyección ortogonal?",
+        "options": [
+          "Alzado",
+          "Planta",
+          "Perfil",
+          "Ninguna, es 2D"
+        ],
+        "answer": 3
+      }
+    ],
+    "Estimación de datos": [
+      {
+        "question": "¿Qué se busca al hacer una estimación de datos?",
+        "options": [
+          "Obtener un número exacto",
+          "Reducir la precisión",
+          "Aproximar un valor",
+          "Eliminar valores atípicos"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Cuál es una técnica común para estimar datos?",
+        "options": [
+          "Interpolación",
+          "Multiplicación directa",
+          "Descomposición factorial",
+          "Distribución binomial"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué método usa puntos conocidos para estimar valores intermedios?",
+        "options": [
+          "Extrapolación",
+          "Regresión lineal",
+          "Promedio simple",
+          "Muestreo aleatorio"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué símbolo matemático indica aproximación?",
+        "options": [
+          "=",
+          "≈",
+          ">",
+          "≡"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué error ocurre al redondear números?",
+        "options": [
+          "Error sistemático",
+          "Error de truncamiento",
+          "Error aleatorio",
+          "Error absoluto"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué técnica estima tendencias futuras?",
+        "options": [
+          "Interpolación",
+          "Extrapolación",
+          "Normalización",
+          "Discretización"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué valor estima la 'media móvil'?",
+        "options": [
+          "La moda",
+          "Tendencias suavizadas",
+          "La mediana",
+          "Valores extremos"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué porcentaje de error es aceptable en estimaciones técnicas?",
+        "options": [
+          "0%",
+          "1-5%",
+          "10-20%",
+          "Depende del contexto"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué herramienta gráfica ayuda en estimaciones?",
+        "options": [
+          "Diagrama de Venn",
+          "Histograma",
+          "Mapa conceptual",
+          "Diagrama de flujo"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué ley matemática fundamenta muchas estimaciones?",
+        "options": [
+          "Ley de Ohm",
+          "Teorema de Pitágoras",
+          "Ley de los grandes números",
+          "Principio de Pascal"
+        ],
+        "answer": 2
+      }
+    ],
+    "Educación ambiental y sustentabilidad": [
+      {
+        "question": "¿Qué busca promover la educación ambiental?",
+        "options": [
+          "El desarrollo tecnológico",
+          "La conciencia ecológica",
+          "La globalización",
+          "El consumo masivo"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué significa sustentabilidad?",
+        "options": [
+          "Uso ilimitado de recursos",
+          "Desarrollo sin responsabilidad",
+          "Satisfacer necesidades actuales sin comprometer futuras",
+          "Crecimiento económico acelerado"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué documento internacional promueve la sustentabilidad?",
+        "options": [
+          "Protocolo de Kyoto",
+          "Declaración Universal de Derechos Humanos",
+          "Convención de Ginebra",
+          "Tratado de Versalles"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué acción es sostenible?",
+        "options": [
+          "Deforestación",
+          "Reciclaje",
+          "Uso de carbón",
+          "Sobreexplotación pesquera"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué concepto está relacionado con la huella ecológica?",
+        "options": [
+          "Impacto ambiental individual",
+          "Velocidad de internet",
+          "Crecimiento poblacional",
+          "Producción industrial"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué energía es más sustentable?",
+        "options": [
+          "Carbón",
+          "Petróleo",
+          "Eólica",
+          "Gas natural"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué principio sigue la economía circular?",
+        "options": [
+          "Usar y tirar",
+          "Reducir, reusar, reciclar",
+          "Extraer sin límites",
+          "Producción lineal"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué organismo internacional promueve la sustentabilidad?",
+        "options": [
+          "FMI",
+          "ONU",
+          "OTAN",
+          "FIFA"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué Objetivo de Desarrollo Sostenible (ODS) trata el agua limpia?",
+        "options": [
+          "ODS 3",
+          "ODS 6",
+          "ODS 12",
+          "ODS 15"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué práctica reduce la huella de carbono?",
+        "options": [
+          "Viajar en avión",
+          "Usar transporte público",
+          "Comprar productos desechables",
+          "Consumir carne diariamente"
+        ],
+        "answer": 1
+      }
+    ],
+    "Redacción de documentos": [
+      {
+        "question": "¿Cuál es el objetivo principal de un documento formal?",
+        "options": [
+          "Entretener al lector",
+          "Generar ingresos",
+          "Comunicar información clara y precisa",
+          "Causar impacto emocional"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué se debe evitar en la redacción formal?",
+        "options": [
+          "Lenguaje técnico",
+          "Errores ortográficos",
+          "Párrafos organizados",
+          "Uso de conectores"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué elemento NO lleva un informe técnico?",
+        "options": [
+          "Portada",
+          "Índice",
+          "Memes",
+          "Conclusiones"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué tipo de lenguaje se usa en documentos académicos?",
+        "options": [
+          "Coloquial",
+          "Objetivo y preciso",
+          "Poético",
+          "Publicitario"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué conectores indican contraste?",
+        "options": [
+          "Además, igualmente",
+          "Sin embargo, no obstante",
+          "Por ejemplo, en particular",
+          "Finalmente, en conclusión"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué norma se usa para citas académicas?",
+        "options": [
+          "APA",
+          "ISO 9001",
+          "HTML",
+          "RGB"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué parte resume un documento extenso?",
+        "options": [
+          "Bibliografía",
+          "Abstract",
+          "Anexos",
+          "Glosario"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué error es común en redacción?",
+        "options": [
+          "Uso de voz pasiva",
+          "Párrafos cortos",
+          "Oraciones subordinadas",
+          "Falta de cohesión"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué debe incluir una buena introducción?",
+        "options": [
+          "Conclusiones",
+          "Objetivos y justificación",
+          "Datos anecdóticos",
+          "Publicidad"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué caracteriza un texto coherente?",
+        "options": [
+          "Ideas desconectadas",
+          "Uso de jerga",
+          "Secuencia lógica",
+          "Repetición constante"
+        ],
+        "answer": 2
+      }
+    ],
+    "Principios de estética": [
+      {
+        "question": "¿Qué estudia la estética?",
+        "options": [
+          "La historia del arte",
+          "La percepción de la belleza",
+          "Las técnicas de diseño gráfico",
+          "El proceso de producción"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuál es un principio básico de la estética?",
+        "options": [
+          "Desorden",
+          "Proporción",
+          "Ruido visual",
+          "Repetición aleatoria"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué teoría relaciona matemáticas y belleza?",
+        "options": [
+          "Teoría del color",
+          "Proporción áurea",
+          "Perspectiva cónica",
+          "Gestalt"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué elemento crea armonía visual?",
+        "options": [
+          "Contraste excesivo",
+          "Equilibrio",
+          "Saturación",
+          "Textura rugosa"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué psicólogo estudió la percepción estética?",
+        "options": [
+          "Freud",
+          "Kandinsky",
+          "Fechner",
+          "Pavlov"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué principio organiza elementos similares?",
+        "options": [
+          "Semejanza (Gestalt)",
+          "Proximidad",
+          "Continuidad",
+          "Clausura"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué color transmite calma en diseño?",
+        "options": [
+          "Rojo",
+          "Azul",
+          "Amarillo",
+          "Negro"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué composición usa el 'punto de interés'?",
+        "options": [
+          "Simétrica",
+          "Rule of thirds",
+          "Caótica",
+          "Monocromática"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué estilo valora la simplicidad?",
+        "options": [
+          "Barroco",
+          "Minimalismo",
+          "Surrealismo",
+          "Expresionismo"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué factor influye en la percepción estética?",
+        "options": [
+          "Cultura",
+          "Clima",
+          "Edad geológica",
+          "Gravedad"
+        ],
+        "answer": 0
+      }
+    ],
+    "Transformación de la materia": [
+      {
+        "question": "¿Qué ocurre durante un cambio químico?",
+        "options": [
+          "La materia cambia de estado",
+          "Se forma una nueva sustancia",
+          "La materia desaparece",
+          "La sustancia se evapora"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuál es un ejemplo de cambio físico?",
+        "options": [
+          "Combustión",
+          "Oxidación",
+          "Fusión del hielo",
+          "Fermentación"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué ley conserva la masa en reacciones químicas?",
+        "options": [
+          "Ley de Boyle",
+          "Ley de Lavoisier",
+          "Ley de Charles",
+          "Ley de Dalton"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué proceso separa mezclas por punto de ebullición?",
+        "options": [
+          "Filtración",
+          "Destilación",
+          "Decantación",
+          "Cromatografía"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué indicador señala un cambio químico?",
+        "options": [
+          "Cambio de color",
+          "Aumento de volumen",
+          "Disminución de temperatura",
+          "Formación de mezcla"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué transformación es irreversible?",
+        "options": [
+          "Derretir cera",
+          "Quemar papel",
+          "Disolver azúcar",
+          "Doblar alambre"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué energía interviene en cambios químicos?",
+        "options": [
+          "Energía cinética",
+          "Energía térmica",
+          "Energía potencial",
+          "Todas las anteriores"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "¿Qué método preserva alimentos usando cambios químicos?",
+        "options": [
+          "Refrigeración",
+          "Salazón",
+          "Cortar en trozos",
+          "Mezclar"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué cambio produce gas al mezclar vinagre y bicarbonato?",
+        "options": [
+          "Físico",
+          "Químico",
+          "Nuclear",
+          "Magnético"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué propiedad NO cambia en transformaciones físicas?",
+        "options": [
+          "Forma",
+          "Composición",
+          "Volumen",
+          "Estado"
+        ],
+        "answer": 1
+      }
+    ],
+    "Psicología de la percepción": [
+      {
+        "question": "¿Qué estudia la psicología de la percepción?",
+        "options": [
+          "El aprendizaje de idiomas",
+          "La conducta animal",
+          "Cómo interpretamos los estímulos sensoriales",
+          "El desarrollo cognitivo"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Cuál es un ejemplo de ilusión perceptiva?",
+        "options": [
+          "Recordar un evento",
+          "Oír un sonido",
+          "Ver una figura ambigua",
+          "Sentir dolor"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué teoría explica la organización perceptual?",
+        "options": [
+          "Psicoanálisis",
+          "Gestalt",
+          "Conductismo",
+          "Humanismo"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué ilusión involucra líneas paralelas que parecen curvas?",
+        "options": [
+          "Müller-Lyer",
+          "Ponzo",
+          "Hering",
+          "Rubin"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué factor afecta la percepción del color?",
+        "options": [
+          "Iluminación",
+          "Gravedad",
+          "Sonido ambiente",
+          "Olor"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué principio gestáltico agrupa elementos cercanos?",
+        "options": [
+          "Semejanza",
+          "Proximidad",
+          "Continuidad",
+          "Clausura"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué trastorno afecta la percepción visual?",
+        "options": [
+          "Prosopagnosia",
+          "Afasia",
+          "Amnesia",
+          "Dislexia"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué fenómeno explica no ver cambios obvios?",
+        "options": [
+          "Ceguera al cambio",
+          "Memoria eidética",
+          "Sinestesia",
+          "Déjà vu"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué sentido tiene mayor influencia en la percepción?",
+        "options": [
+          "Olfato",
+          "Vista",
+          "Gusto",
+          "Tacto"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué ilusión hace ver movimiento en imágenes estáticas?",
+        "options": [
+          "Espejismo",
+          "Ilusión óptica cinética",
+          "Persistencia retiniana",
+          "Efecto Stroop"
+        ],
+        "answer": 1
+      }
+    ]
+  }

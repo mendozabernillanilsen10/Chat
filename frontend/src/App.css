@@ -1,0 +1,217 @@
+/* Importar la fuente Dela Gothic One */
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #FFF5F5; /* Fondo rosado claro */
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.app-container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+/* Barra de navegación */
+.ui.menu {
+  background: #fdf5e6; /* Fondo beige */
+  border: 2px solid #d1c7b7; /* Borde beige oscuro */
+  border-radius: 12px;
+  position: relative;
+  padding: 10px;
+}
+
+.ui.menu:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 10px;
+  background: repeating-linear-gradient(
+    45deg,
+    #FFC107,
+    #FFC107 10px,
+    #000000 10px,
+    #000000 20px
+  ); /* Rayas negras y amarillas */
+  border-radius: 12px 12px 0 0;
+  z-index: 1;
+}
+
+.ui.menu .item {
+  color: #cc0000; /* Texto rojo */
+  font-family: 'Dela Gothic One', sans-serif; /* Fuente personalizada */
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.ui.menu .item:hover {
+  background-color: rgba(255, 204, 0, 0.2);
+}
+
+/* Título "Salas de Chat" */
+h3 {
+  color: #cc0000;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  border: 2px solid #d1c7b7;
+  border-radius: 12px;
+  background: #fdf5e6; /* Fondo beige */
+  position: relative;
+  font-family: 'Dela Gothic One', sans-serif; /* Fuente personalizada */
+}
+
+h3:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 10px;
+  background: repeating-linear-gradient(
+    45deg,
+    #FFC107,
+    #FFC107 10px,
+    #000000 10px,
+    #000000 20px
+  ); /* Rayas negras y amarillas */
+  border-radius: 12px 12px 0 0;
+  z-index: -1;
+}
+
+/* Botón de crear sala */
+.create-room-button {
+  display: block;
+  background-color: #cc0000; /* Botón rojo */
+  color: white; /* Letras blancas */
+  font-weight: bold;
+  font-family: 'Dela Gothic One', sans-serif; /* Fuente personalizada */
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid #d1c7b7; /* Borde beige oscuro */
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 14px;
+  text-align: center;
+  margin: 10px auto 20px auto;
+  width: 200px;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.create-room-button:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 10px;
+  background: repeating-linear-gradient(
+    45deg,
+    #FFC107,
+    #FFC107 10px,
+    #000000 10px,
+    #000000 20px
+  ); /* Rayas negras y amarillas */
+  border-radius: 8px 8px 0 0;
+  z-index: -1;
+}
+
+.create-room-button:hover {
+  background-color: #b30000; /* Rojo más oscuro */
+}
+
+/* Encabezado de tarjeta con rayas */
+.card-header-bar {
+  background: repeating-linear-gradient(
+    45deg,
+    #FFC107,
+    #FFC107 10px,
+    #000000 10px,
+    #000000 20px
+  ); /* Rayas negras y amarillas */
+  height: 10px;
+  border-radius: 12px 12px 0 0;
+}
+
+.card-header-title {
+  font-family: 'Dela Gothic One', sans-serif;
+  color: #cc0000; /* Texto rojo */
+  font-size: 18px;
+  margin: 15px 0 10px 0;
+  text-align: center;
+}
+
+/* Tarjetas de salas */
+.room-card {
+  width: 350px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border: 2px solid #d1c7b7;
+  background-color: #fdf5e6; /* Fondo beige */
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.room-card .content {
+  padding: 20px;
+}
+
+.room-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.room-card .card-meta {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* Botón de unirse a la sala */
+.join-room-button {
+  display: block;
+  background-color: #cc0000; /* Botón rojo */
+  color: white; /* Letras blancas */
+  font-weight: bold;
+  font-family: 'Dela Gothic One', sans-serif; /* Fuente personalizada */
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid #d1c7b7; /* Borde beige oscuro */
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 14px;
+  text-align: center;
+  margin: 10px auto 0 auto;
+  width: 90%;
+  transition: all 0.3s ease;
+}
+
+.join-room-button:hover {
+  background-color: #b30000; /* Rojo más oscuro */
+}
+
+/* Responsive */
+.rooms-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+@media (max-width: 768px) {
+  .room-card {
+    width: 100%;
+  }
+}

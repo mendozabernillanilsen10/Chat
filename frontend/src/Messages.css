@@ -1,0 +1,136 @@
+/* Mantenemos la paleta de colores consistente */
+:root {
+    --red: #E41B17;
+    --yellow: #FFC107;
+    --blue: #1E88E5;
+    --paper: #FFF9F0;
+    --ink: #3E2723;
+    --border: #5D4037;
+  }
+  
+  .messages-container {
+    background: var(--paper);
+    border: 3px solid var(--border);
+    border-radius: 2px;
+    box-shadow: 8px 8px 0 rgba(0,0,0,0.1);
+    padding: 1.5rem;
+    font-family: 'Dela Gothic One', sans-serif;
+    max-width: 350px;
+    position: relative;
+  }
+  
+  .messages-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px dashed var(--border);
+    padding-bottom: 0.8rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .messages-title {
+    font-size: 1.2rem;
+    color: var(--ink);
+    margin: 0;
+    letter-spacing: 1px;
+  }
+  
+  .messages-title .icon {
+    color: var(--red);
+    margin-right: 0.5rem;
+  }
+  
+  .messages-count {
+    background: var(--red);
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 50%;
+    font-size: 0.9rem;
+    border: 2px solid var(--border);
+  }
+  
+  .rooms-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .room-item {
+    display: flex;
+    align-items: center;
+    padding: 0.8rem;
+    background: rgba(255,255,255,0.7);
+    border: 2px solid var(--border);
+    cursor: pointer;
+    transition: all 0.2s;
+    position: relative;
+  }
+  
+  .room-item:hover {
+    background: white;
+    transform: translateY(-2px);
+    box-shadow: 3px 3px 0 var(--border);
+  }
+  
+  .room-image-container {
+    width: 50px;
+    height: 50px;
+    margin-right: 1rem;
+  }
+  
+  .room-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: 2px solid var(--border);
+  }
+  
+  .room-info {
+    flex-grow: 1;
+  }
+  
+  .room-name {
+    font-size: 1rem;
+    margin: 0;
+    color: var(--ink);
+    letter-spacing: 0.5px;
+  }
+  
+  .private-tag {
+    display: inline-block;
+    background: var(--yellow);
+    color: var(--ink);
+    padding: 0.2rem 0.5rem;
+    font-size: 0.7rem;
+    margin-top: 0.3rem;
+    border-radius: 3px;
+  }
+  
+  .room-arrow {
+    color: var(--blue);
+  }
+  
+  .loading-message, .empty-message {
+    text-align: center;
+    padding: 1.5rem;
+    color: var(--ink);
+    font-size: 0.9rem;
+  }
+  
+  .loading-message .icon, .empty-message .icon {
+    display: block;
+    margin: 0 auto 0.5rem;
+    font-size: 1.5rem;
+  }
+  
+  /* Decoraciones estilo vintage */
+  .messages-container::after {
+    content: "";
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    background: radial-gradient(circle, var(--yellow) 0%, transparent 70%);
+    opacity: 0.2;
+  }

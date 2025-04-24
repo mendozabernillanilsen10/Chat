@@ -1,0 +1,366 @@
+{
+    "Crítica y Propuesta": [
+      {
+        "question": "¿Qué implica realizar una crítica constructiva?",
+        "options": ["Proponer mejoras con respeto", "Solo señalar errores", "Evitar cualquier comentario", "Hacer sugerencias sin fundamento"],
+        "answer": "Proponer mejoras con respeto"
+      },
+      {
+        "question": "¿Qué es una propuesta efectiva?",
+        "options": ["Una solución viable y bien fundamentada", "Una idea sin considerar recursos", "Un cambio sin análisis previo", "Una crítica sin alternativas"],
+        "answer": "Una solución viable y bien fundamentada"
+      },
+      {
+        "question": "¿Qué elemento NO debe faltar en una crítica constructiva?",
+        "options": ["Argumentos basados en evidencias", "Ataques personales", "Generalizaciones sin contexto", "Opiniones sin sustento"],
+        "answer": "Argumentos basados en evidencias"
+      },
+      {
+        "question": "¿Qué caracteriza una propuesta innovadora?",
+        "options": ["Introducir soluciones no exploradas previamente", "Copiar ideas existentes sin adaptación", "Ignorar limitaciones prácticas", "No considerar al público objetivo"],
+        "answer": "Introducir soluciones no exploradas previamente"
+      },
+      {
+        "question": "¿Qué técnica ayuda a estructurar una crítica constructiva?",
+        "options": ["Método sándwich (elogio-crítica-elogio)", "Solo mencionar aspectos negativos", "Usar lenguaje ambiguo", "Evitar ejemplos concretos"],
+        "answer": "Método sándwich (elogio-crítica-elogio)"
+      },
+      {
+        "question": "En una propuesta, ¿qué es el 'marco teórico'?",
+        "options": ["La base de investigaciones previas que sustentan la idea", "La lista de gastos económicos", "El cronograma de actividades", "Los nombres de los participantes"],
+        "answer": "La base de investigaciones previas que sustentan la idea"
+      },
+      {
+        "question": "¿Qué hace relevante una crítica en el ámbito académico?",
+        "options": ["Su fundamentación en teorías o datos verificables", "Su extensión en páginas", "El uso de lenguaje técnico complejo", "La opinión personal del autor"],
+        "answer": "Su fundamentación en teorías o datos verificables"
+      },
+      {
+        "question": "¿Qué es un 'antecedente' en una propuesta?",
+        "options": ["Experiencias previas relacionadas al tema", "Las consecuencias futuras", "Los recursos humanos disponibles", "El presupuesto detallado"],
+        "answer": "Experiencias previas relacionadas al tema"
+      },
+      {
+        "question": "¿Qué error debe evitarse al hacer una crítica?",
+        "options": ["Sesgos personales no declarados", "Citar fuentes confiables", "Usar ejemplos específicos", "Ofrecer alternativas"],
+        "answer": "Sesgos personales no declarados"
+      },
+      {
+        "question": "¿Qué pregunta ayuda a evaluar la viabilidad de una propuesta?",
+        "options": ["¿Existen los recursos necesarios para implementarla?", "¿Suena bien teóricamente?", "¿Es similar a otras ideas?", "¿Agrada a la mayoría?"],
+        "answer": "¿Existen los recursos necesarios para implementarla?"
+      }
+    ],
+    "Lengua Extranjera IV": [
+      {
+        "question": "¿Cómo se dice '¿Dónde está la estación de tren?' en inglés?",
+        "options": ["Where is the train station?", "How is the bus?", "What time is it?", "Where is my car?"],
+        "answer": "Where is the train station?"
+      },
+      {
+        "question": "¿Qué significa 'I will call you later' en español?",
+        "options": ["Te llamaré más tarde", "Te veré mañana", "Te enviaré un mensaje", "Estoy ocupado ahora"],
+        "answer": "Te llamaré más tarde"
+      },
+      {
+        "question": "Traduce al inglés: 'Necesito ayuda con mi equipaje'.",
+        "options": ["I need help with my luggage", "I want to buy a ticket", "Where is the airport?", "This is my passport"],
+        "answer": "I need help with my luggage"
+      },
+      {
+        "question": "¿Cómo se pregunta '¿Cuánto cuesta esto?' en inglés?",
+        "options": ["How much is this?", "What is your name?", "When does it open?", "Can I pay by card?"],
+        "answer": "How much is this?"
+      },
+      {
+        "question": "¿Qué significa 'No smoking' en español?",
+        "options": ["Prohibido fumar", "No correr", "Salida de emergencia", "Zona silenciosa"],
+        "answer": "Prohibido fumar"
+      },
+      {
+        "question": "Traduce al español: 'The meeting starts at 3 PM'.",
+        "options": ["La reunión comienza a las 3 PM", "El vuelo sale a las 3 PM", "La tienda cierra a las 3 PM", "El tren llega a las 3 PM"],
+        "answer": "La reunión comienza a las 3 PM"
+      },
+      {
+        "question": "¿Cómo se dice 'Me gustaría reservar una mesa para dos' en inglés?",
+        "options": ["I would like to book a table for two", "I want to order food", "The bill, please", "Do you have vegetarian options?"],
+        "answer": "I would like to book a table for two"
+      },
+      {
+        "question": "¿Qué significa 'Beware of the dog' en español?",
+        "options": ["Cuidado con el perro", "El perro está perdido", "Perro en adopción", "Perro amigable"],
+        "answer": "Cuidado con el perro"
+      },
+      {
+        "question": "Traduce al inglés: 'El museo cierra los lunes'.",
+        "options": ["The museum is closed on Mondays", "The museum is open today", "Where is the museum?", "I love museums"],
+        "answer": "The museum is closed on Mondays"
+      },
+      {
+        "question": "¿Cómo se pregunta '¿Hablas español?' en inglés?",
+        "options": ["Do you speak Spanish?", "Where are you from?", "What is this?", "How old are you?"],
+        "answer": "Do you speak Spanish?"
+      }
+    ],
+    "Matemática y Ciencia II": [
+      {
+        "question": "¿Qué es un vector en física?",
+        "options": ["Una magnitud con dirección y sentido", "Un número entero", "Una unidad de medida", "Un escalar sin dirección"],
+        "answer": "Una magnitud con dirección y sentido"
+      },
+      {
+        "question": "¿Qué es una fuerza resultante?",
+        "options": ["La suma vectorial de todas las fuerzas aplicadas", "Una fuerza sin dirección", "Una fuerza aplicada en reposo", "Una fuerza que no genera movimiento"],
+        "answer": "La suma vectorial de todas las fuerzas aplicadas"
+      },
+      {
+        "question": "¿Qué mide la aceleración?",
+        "options": ["El cambio de velocidad en el tiempo", "La distancia recorrida", "La masa de un objeto", "La energía potencial"],
+        "answer": "El cambio de velocidad en el tiempo"
+      },
+      {
+        "question": "Segunda Ley de Newton: Fuerza = ___ x aceleración.",
+        "options": ["Masa", "Peso", "Volumen", "Densidad"],
+        "answer": "Masa"
+      },
+      {
+        "question": "¿Qué es la energía cinética?",
+        "options": ["La energía del movimiento", "La energía almacenada", "La energía térmica", "La energía eléctrica"],
+        "answer": "La energía del movimiento"
+      },
+      {
+        "question": "En matemáticas, ¿qué es una función cuadrática?",
+        "options": ["Una función polinómica de grado 2", "Una función lineal", "Una función exponencial", "Una función trigonométrica"],
+        "answer": "Una función polinómica de grado 2"
+      },
+      {
+        "question": "¿Qué representa la pendiente en una ecuación lineal (y = mx + b)?",
+        "options": ["La inclinación de la recta", "El punto de corte con el eje Y", "El área bajo la curva", "El valor máximo de la función"],
+        "answer": "La inclinación de la recta"
+      },
+      {
+        "question": "¿Qué ley explica que 'la energía no se crea ni se destruye, solo se transforma'?",
+        "options": ["Primera Ley de la Termodinámica", "Ley de Gravitación Universal", "Ley de Ohm", "Ley de Coulomb"],
+        "answer": "Primera Ley de la Termodinámica"
+      },
+      {
+        "question": "¿Qué es un isótopo?",
+        "options": ["Átomos de un mismo elemento con diferente número de neutrones", "Moléculas idénticas", "Partículas subatómicas sin carga", "Enlaces químicos fuertes"],
+        "answer": "Átomos de un mismo elemento con diferente número de neutrones"
+      },
+      {
+        "question": "En la tabla periódica, ¿qué grupo son los gases nobles?",
+        "options": ["Grupo 18", "Grupo 1", "Grupo 2", "Grupo 17"],
+        "answer": "Grupo 18"
+      }
+    ],
+    "Democracia y Soberanía Nacional": [
+      {
+        "question": "¿Qué es la soberanía nacional?",
+        "options": ["El poder de un Estado para autogobernarse", "La influencia de un país extranjero", "La intervención de otros Estados", "La dependencia económica"],
+        "answer": "El poder de un Estado para autogobernarse"
+      },
+      {
+        "question": "¿Qué caracteriza a una democracia participativa?",
+        "options": ["La involucración directa de los ciudadanos en la toma de decisiones", "El poder absoluto de una autoridad", "La exclusión de opiniones minoritarias", "La falta de elecciones periódicas"],
+        "answer": "La involucración directa de los ciudadanos en la toma de decisiones"
+      },
+      {
+        "question": "¿Qué es el sufragio universal?",
+        "options": ["El derecho a votar de todos los ciudadanos adultos", "El voto exclusivo para ciertos grupos", "Un sistema de elección indirecta", "La abolición de elecciones"],
+        "answer": "El derecho a votar de todos los ciudadanos adultos"
+      },
+      {
+        "question": "¿Qué principio democrático protege la libertad de expresión?",
+        "options": ["Estado de derecho", "División de poderes", "Pluralismo político", "Igualdad ante la ley"],
+        "answer": "Pluralismo político"
+      },
+      {
+        "question": "¿Qué es un plebiscito?",
+        "options": ["Una consulta popular sobre decisiones importantes", "Una elección parlamentaria", "Un tratado internacional", "Una ley propuesta por el ejecutivo"],
+        "answer": "Una consulta popular sobre decisiones importantes"
+      },
+      {
+        "question": "¿Qué organismo internacional promueve la democracia y los derechos humanos?",
+        "options": ["Naciones Unidas (ONU)", "Fondo Monetario Internacional (FMI)", "Organización Mundial del Comercio (OMC)", "Banco Mundial"],
+        "answer": "Naciones Unidas (ONU)"
+      },
+      {
+        "question": "¿Qué es la separación de poderes?",
+        "options": ["División entre ejecutivo, legislativo y judicial", "Centralización del gobierno", "Fusión de poderes en una sola entidad", "Ausencia de controles institucionales"],
+        "answer": "División entre ejecutivo, legislativo y judicial"
+      },
+      {
+        "question": "¿Qué documento garantiza los derechos ciudadanos en un Estado democrático?",
+        "options": ["La Constitución Política", "Un decreto presidencial", "Un acuerdo partidario", "Una ley temporal"],
+        "answer": "La Constitución Política"
+      },
+      {
+        "question": "¿Qué es la soberanía popular?",
+        "options": ["Que el poder reside en el pueblo", "Que el gobierno decide sin consultar", "La imposición de una minoría", "La autoridad divina de los gobernantes"],
+        "answer": "Que el poder reside en el pueblo"
+      },
+      {
+        "question": "¿Qué caracteriza a un gobierno autoritario?",
+        "options": ["Concentración de poder sin participación ciudadana", "Elecciones libres y periódicas", "Respeto a la oposición política", "División de poderes efectiva"],
+        "answer": "Concentración de poder sin participación ciudadana"
+      }
+    ],
+    "Formación Ciudadana": [
+      {
+        "question": "¿Qué es un derecho humano?",
+        "options": ["Un derecho inherente a todas las personas", "Un privilegio otorgado por un gobierno", "Un permiso temporal", "Una obligación de los ciudadanos"],
+        "answer": "Un derecho inherente a todas las personas"
+      },
+      {
+        "question": "¿Qué es la ciudadanía activa?",
+        "options": ["La participación responsable en asuntos sociales y políticos", "La indiferencia hacia problemas sociales", "El cumplimiento mínimo de las leyes", "La exclusión de actividades comunitarias"],
+        "answer": "La participación responsable en asuntos sociales y políticos"
+      },
+      {
+        "question": "¿Qué es el civismo?",
+        "options": ["El comportamiento respetuoso con las normas y la comunidad", "La desobediencia civil", "El individualismo extremo", "La crítica destructiva"],
+        "answer": "El comportamiento respetuoso con las normas y la comunidad"
+      },
+      {
+        "question": "¿Qué promueve la tolerancia en una sociedad?",
+        "options": ["Respetar diferencias culturales, religiosas o ideológicas", "Imponer una sola forma de pensar", "Ignorar conflictos sociales", "Evitar el diálogo"],
+        "answer": "Respetar diferencias culturales, religiosas o ideológicas"
+      },
+      {
+        "question": "¿Qué es un deber ciudadano?",
+        "options": ["Votar en elecciones (donde es obligatorio)", "Recibir beneficios sociales", "Exigir derechos sin contrapartidas", "Ignorar las leyes"],
+        "answer": "Votar en elecciones (donde es obligatorio)"
+      },
+      {
+        "question": "¿Qué organismo defiende los derechos humanos en América?",
+        "options": ["CIDH (Corte Interamericana de Derechos Humanos)", "FMI (Fondo Monetario Internacional)", "OMC (Organización Mundial del Comercio)", "UNESCO"],
+        "answer": "CIDH (Corte Interamericana de Derechos Humanos)"
+      },
+      {
+        "question": "¿Qué es la justicia social?",
+        "options": ["La distribución equitativa de oportunidades y recursos", "El privilegio para grupos selectos", "La ausencia de políticas públicas", "La imposición de ideologías"],
+        "answer": "La distribución equitativa de oportunidades y recursos"
+      },
+      {
+        "question": "¿Qué documento reconoce los derechos humanos universalmente?",
+        "options": ["Declaración Universal de Derechos Humanos (1948)", "Constitución de Estados Unidos", "Carta Magna", "Pacto de Varsovia"],
+        "answer": "Declaración Universal de Derechos Humanos (1948)"
+      },
+      {
+        "question": "¿Qué es la ética cívica?",
+        "options": ["Principios morales que guían la convivencia social", "Normas religiosas específicas", "Leyes penales", "Reglas de etiqueta"],
+        "answer": "Principios morales que guían la convivencia social"
+      },
+      {
+        "question": "¿Qué acción refleja responsabilidad ambiental como ciudadano?",
+        "options": ["Reciclar y reducir el consumo de plásticos", "Contaminar espacios públicos", "Desperdiciar recursos naturales", "Ignorar campañas ecológicas"],
+        "answer": "Reciclar y reducir el consumo de plásticos"
+      }
+    ],
+    "Biología I": [
+      {
+        "question": "¿Qué es una célula?",
+        "options": ["La unidad básica de la vida", "Un organismo multicelular", "Un tejido especializado", "Una molécula de ADN"],
+        "answer": "La unidad básica de la vida"
+      },
+      {
+        "question": "¿Qué es la fotosíntesis?",
+        "options": ["El proceso mediante el cual las plantas producen su alimento", "La respiración celular de los animales", "La absorción de nutrientes del suelo", "La eliminación de desechos en los organismos"],
+        "answer": "El proceso mediante el cual las plantas producen su alimento"
+      },
+      {
+        "question": "¿Qué organelo es 'la central energética' de la célula?",
+        "options": ["Mitocondria", "Núcleo", "Cloroplasto", "Ribosoma"],
+        "answer": "Mitocondria"
+      },
+      {
+        "question": "¿Qué molécula almacena la información genética?",
+        "options": ["ADN", "ARN mensajero", "Proteína", "Lípido"],
+        "answer": "ADN"
+      },
+      {
+        "question": "¿Qué reacción química libera energía en las células?",
+        "options": ["Respiración celular", "Fotosíntesis", "Ósmosis", "Difusión"],
+        "answer": "Respiración celular"
+      },
+      {
+        "question": "¿Qué científicos propusieron la teoría celular?",
+        "options": ["Schleiden y Schwann", "Darwin y Mendel", "Watson y Crick", "Pasteur y Koch"],
+        "answer": "Schleiden y Schwann"
+      },
+      {
+        "question": "¿Qué proceso permite a las células dividirse y multiplicarse?",
+        "options": ["Mitosis", "Meiosis", "Fotosíntesis", "Ósmosis"],
+        "answer": "Mitosis"
+      },
+      {
+        "question": "¿Qué estructura permite el movimiento en algunas células?",
+        "options": ["Flagelos", "Pared celular", "Membrana nuclear", "Vacuolas"],
+        "answer": "Flagelos"
+      },
+      {
+        "question": "¿Qué reino incluye organismos como los hongos?",
+        "options": ["Fungi", "Plantae", "Animalia", "Protista"],
+        "answer": "Fungi"
+      },
+      {
+        "question": "¿Qué vitamina se sintetiza con la exposición al sol?",
+        "options": ["Vitamina D", "Vitamina C", "Vitamina B12", "Vitamina K"],
+        "answer": "Vitamina D"
+      }
+    ],
+    "Actividad Física y Desarrollo Personal": [
+      {
+        "question": "¿Qué es el calentamiento físico?",
+        "options": ["Una serie de ejercicios previos para preparar el cuerpo", "El inicio inmediato de una actividad intensa", "Una técnica para descansar", "Un estiramiento pasivo"],
+        "answer": "Una serie de ejercicios previos para preparar el cuerpo"
+      },
+      {
+        "question": "¿Qué es la flexibilidad?",
+        "options": ["La capacidad de los músculos y articulaciones para moverse en todo su rango", "La resistencia aeróbica", "La fuerza máxima ejercida", "La velocidad de movimiento"],
+        "answer": "La capacidad de los músculos y articulaciones para moverse en todo su rango"
+      },
+      {
+        "question": "¿Qué mide el Índice de Masa Corporal (IMC)?",
+        "options": ["La relación entre peso y altura", "El porcentaje de grasa corporal", "La resistencia cardiovascular", "La fuerza muscular"],
+        "answer": "La relación entre peso y altura"
+      },
+      {
+        "question": "¿Qué tipo de ejercicio mejora la salud cardiovascular?",
+        "options": ["Aeróbico (correr, nadar)", "Anaeróbico (pesas)", "Flexibilidad (yoga)", "Isométrico (plancha)"],
+        "answer": "Aeróbico (correr, nadar)"
+      },
+      {
+        "question": "¿Qué beneficio aporta el trabajo en equipo en el deporte?",
+        "options": ["Desarrolla habilidades sociales y cooperación", "Aumenta la competitividad individual", "Reduce la necesidad de comunicación", "Limita la responsabilidad personal"],
+        "answer": "Desarrolla habilidades sociales y cooperación"
+      },
+      {
+        "question": "¿Qué principio del entrenamiento sugiere aumentar gradualmente la intensidad?",
+        "options": ["Sobrecarga progresiva", "Especificidad", "Reversibilidad", "Individualidad"],
+        "answer": "Sobrecarga progresiva"
+      },
+      {
+        "question": "¿Qué es la autoconfianza en el desarrollo personal?",
+        "options": ["Creer en las propias capacidades", "Depender de la validación externa", "Ignorar las limitaciones", "Evitar nuevos retos"],
+        "answer": "Creer en las propias capacidades"
+      },
+      {
+        "question": "¿Qué hábito NO es saludable para el bienestar integral?",
+        "options": ["Dormir menos de 5 horas diarias", "Hidratarse adecuadamente", "Alimentación balanceada", "Manejo del estrés"],
+        "answer": "Dormir menos de 5 horas diarias"
+      },
+      {
+        "question": "¿Qué actividad promueve el equilibrio mente-cuerpo?",
+        "options": ["Meditación y yoga", "Levantamiento de pesas extremo", "Competencias agresivas", "Aislamiento social"],
+        "answer": "Meditación y yoga"
+      },
+      {
+        "question": "¿Qué mineral es esencial para la contracción muscular?",
+        "options": ["Potasio", "Hierro", "Calcio", "Sodio"],
+        "answer": "Potasio"
+      }
+    ]
+  }

@@ -1,0 +1,308 @@
+{
+    "Producción Agrícola": [
+      {
+        "question": "¿Qué es la rotación de cultivos?",
+        "options": [
+          "La práctica de cultivar diferentes tipos de plantas en la misma área en distintas temporadas",
+          "El uso exclusivo de fertilizantes químicos",
+          "La tala de bosques para crear campos agrícolas",
+          "El cultivo continuo de una sola planta"
+        ],
+        "answer": "La práctica de cultivar diferentes tipos de plantas en la misma área en distintas temporadas"
+      },
+      {
+        "question": "¿Qué es el riego por goteo?",
+        "options": [
+          "Un sistema de riego que suministra agua directamente a las raíces en pequeñas cantidades",
+          "Un método para inundar completamente los campos",
+          "Una técnica para recolectar agua de lluvia",
+          "Un sistema de bombeo de agua a grandes distancias"
+        ],
+        "answer": "Un sistema de riego que suministra agua directamente a las raíces en pequeñas cantidades"
+      },
+      {
+        "question": "¿Qué beneficio tiene la agricultura orgánica?",
+        "options": [
+          "Reduce el uso de pesticidas sintéticos",
+          "Aumenta el rendimiento a corto plazo",
+          "Requiere menos mano de obra",
+          "Utiliza semillas transgénicas exclusivamente"
+        ],
+        "answer": "Reduce el uso de pesticidas sintéticos"
+      },
+      {
+        "question": "¿Qué es el barbecho?",
+        "options": [
+          "Dejar descansar la tierra entre cultivos",
+          "Un tipo de arado pesado",
+          "Fertilización con estiércol",
+          "Cultivo intensivo sin pausa"
+        ],
+        "answer": "Dejar descansar la tierra entre cultivos"
+      },
+      {
+        "question": "¿Qué técnica previene la erosión del suelo?",
+        "options": [
+          "Terrazas de cultivo",
+          "Monocultivo extensivo",
+          "Deforestación",
+          "Riego por aspersión"
+        ],
+        "answer": "Terrazas de cultivo"
+      },
+      {
+        "question": "¿Qué mide el pH del suelo?",
+        "options": [
+          "Acidez o alcalinidad",
+          "Contenido de nitrógeno",
+          "Capacidad de retención de agua",
+          "Profundidad de las raíces"
+        ],
+        "answer": "Acidez o alcalinidad"
+      },
+      {
+        "question": "¿Qué cultivo fija nitrógeno en el suelo?",
+        "options": [
+          "Maíz",
+          "Trigo",
+          "Leguminosas (como alfalfa)",
+          "Arroz"
+        ],
+        "answer": "Leguminosas (como alfalfa)"
+      },
+      {
+        "question": "¿Qué es la hidroponía?",
+        "options": [
+          "Cultivo sin suelo usando soluciones nutritivas",
+          "Riego con aguas subterráneas",
+          "Agricultura en terrenos inclinados",
+          "Uso exclusivo de agua de lluvia"
+        ],
+        "answer": "Cultivo sin suelo usando soluciones nutritivas"
+      },
+      {
+        "question": "¿Qué plaga controlan las mariquitas?",
+        "options": [
+          "Pulgones",
+          "Caracoles",
+          "Hormigas",
+          "Gusanos cortadores"
+        ],
+        "answer": "Pulgones"
+      },
+      {
+        "question": "¿Qué implemento se usa para labranza mínima?",
+        "options": [
+          "Arado de vertedera",
+          "Subsolador",
+          "Rotocultor",
+          "Azadón"
+        ],
+        "answer": "Rotocultor"
+      }
+    ],
+    "Zootecnia General y Prácticas": [
+      {
+        "question": "¿Qué es la zootecnia?",
+        "options": [
+          "La ciencia que se encarga de la cría, manejo y mejora de los animales domésticos",
+          "El estudio de las plantas medicinales",
+          "La producción de alimentos en invernaderos",
+          "El análisis de ecosistemas marinos"
+        ],
+        "answer": "La ciencia que se encarga de la cría, manejo y mejora de los animales domésticos"
+      },
+      {
+        "question": "¿Qué es la selección genética en zootecnia?",
+        "options": [
+          "Elegir animales con características deseables para reproducirse",
+          "Criar animales sin considerar sus cualidades",
+          "Mejorar el suelo para cultivos agrícolas",
+          "Entrenamiento físico de los animales"
+        ],
+        "answer": "Elegir animales con características deseables para reproducirse"
+      },
+      {
+        "question": "¿Qué parámetro mide la eficiencia alimenticia?",
+        "options": [
+          "Conversión alimenticia (kg alimento/kg ganancia)",
+          "Peso al nacimiento",
+          "Color del pelaje",
+          "Edad al destete"
+        ],
+        "answer": "Conversión alimenticia (kg alimento/kg ganancia)"
+      },
+      {
+        "question": "¿Qué raza bovina es lechera?",
+        "options": [
+          "Holstein",
+          "Brahman",
+          "Hereford",
+          "Angus"
+        ],
+        "answer": "Holstein"
+      },
+      {
+        "question": "¿Qué práctica previene enfermedades en granjas?",
+        "options": [
+          "Cuarentena de animales nuevos",
+          "Hacinamiento",
+          "Uso indiscriminado de antibióticos",
+          "Mezcla de especies"
+        ],
+        "answer": "Cuarentena de animales nuevos"
+      },
+      {
+        "question": "¿Qué mineral previene la anemia en rumiantes?",
+        "options": [
+          "Hierro",
+          "Cobre",
+          "Cobalto",
+          "Zinc"
+        ],
+        "answer": "Cobalto"
+      },
+      {
+        "question": "¿Qué instalación es clave en avicultura?",
+        "options": [
+          "Gallinero con nidales",
+          "Estanque para peces",
+          "Corral para caballos",
+          "Colmenar"
+        ],
+        "answer": "Gallinero con nidales"
+      },
+      {
+        "question": "¿Qué registro es esencial en zootecnia?",
+        "options": [
+          "Genealógico y productivo",
+          "Climático diario",
+          "De visitas turísticas",
+          "De colores de animales"
+        ],
+        "answer": "Genealógico y productivo"
+      },
+      {
+        "question": "¿Qué técnica mejora pasturas?",
+        "options": [
+          "Siembra de variedades mejoradas",
+          "Sobrepastoreo",
+          "Quema controlada",
+          "Uso exclusivo de henos"
+        ],
+        "answer": "Siembra de variedades mejoradas"
+      },
+      {
+        "question": "¿Qué vitamina previene el raquitismo?",
+        "options": [
+          "Vitamina D",
+          "Vitamina C",
+          "Vitamina K",
+          "Vitamina B12"
+        ],
+        "answer": "Vitamina D"
+      }
+    ],
+    "Reproducción Animal": [
+      {
+        "question": "¿Qué es la inseminación artificial?",
+        "options": [
+          "El método de introducir esperma en el aparato reproductor de un animal hembra sin apareamiento natural",
+          "La fertilización natural entre animales",
+          "El cruce de diferentes especies sin control",
+          "Un método para evitar la reproducción"
+        ],
+        "answer": "El método de introducir esperma en el aparato reproductor de un animal hembra sin apareamiento natural"
+      },
+      {
+        "question": "¿Qué son los períodos de celo en animales?",
+        "options": [
+          "Fases durante las cuales las hembras están receptivas para la reproducción",
+          "El tiempo de descanso de los animales",
+          "El período de crecimiento de los machos",
+          "El tiempo de gestación en las hembras"
+        ],
+        "answer": "Fases durante las cuales las hembras están receptivas para la reproducción"
+      },
+      {
+        "question": "¿Qué hormona induce el celo en vacas?",
+        "options": [
+          "Progesterona",
+          "Estradiol",
+          "Oxitocina",
+          "Insulina"
+        ],
+        "answer": "Estradiol"
+      },
+      {
+        "question": "¿Qué técnica permite sexado de embriones?",
+        "options": [
+          "Transferencia de embriones",
+          "Biopsia embrionaria",
+          "Inseminación intracitoplasmática",
+          "Clonación"
+        ],
+        "answer": "Biopsia embrionaria"
+      },
+      {
+        "question": "¿Qué método diagnostica preñez en ovejas?",
+        "options": [
+          "Ultrasonografía",
+          "Análisis de leche",
+          "Control de peso",
+          "Observación visual"
+        ],
+        "answer": "Ultrasonografía"
+      },
+      {
+        "question": "¿Qué factor afecta la fertilidad en toros?",
+        "options": [
+          "Calidad espermática",
+          "Color del pelaje",
+          "Edad de la madre",
+          "Tipo de alimentación en cría"
+        ],
+        "answer": "Calidad espermática"
+      },
+      {
+        "question": "¿Qué práctica sincroniza celos?",
+        "options": [
+          "Uso de implantes hormonales",
+          "Cambio de alimentación",
+          "Aislamiento de machos",
+          "Rotación de potreros"
+        ],
+        "answer": "Uso de implantes hormonales"
+      },
+      {
+        "question": "¿Qué término describe el parto en cerdas?",
+        "options": [
+          "Parición",
+          "Gestación",
+          "Destete",
+          "Servicio"
+        ],
+        "answer": "Parición"
+      },
+      {
+        "question": "¿Qué tecnología permite conservar semen?",
+        "options": [
+          "Criopreservación",
+          "Liofilización",
+          "Fermentación",
+          "Pasteurización"
+        ],
+        "answer": "Criopreservación"
+      },
+      {
+        "question": "¿Qué raza porcina tiene mayor prolificidad?",
+        "options": [
+          "Duroc",
+          "Landrace",
+          "Pietrain",
+          "Hampshire"
+        ],
+        "answer": "Landrace"
+      }
+    ]
+  }
