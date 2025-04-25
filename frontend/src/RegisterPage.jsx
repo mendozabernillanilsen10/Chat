@@ -1,7 +1,9 @@
-import React, { useState } from "react";
-import { useNavigate } from "react-router-dom";
-import { Icon } from "semantic-ui-react";
-import "./RegisterPage.css";
+import './RegisterPage.css';
+
+import React, { useState } from 'react';
+
+import { useNavigate } from 'react-router-dom';
+import { Icon } from 'semantic-ui-react';
 
 const RegisterPage = () => {
   const navigate = useNavigate();
@@ -48,7 +50,7 @@ const RegisterPage = () => {
     form.append("fotoPerfil", formData.foto);
 
     try {
-      const response = await fetch("http://localhost:4000/api/register", {
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/api/register`, {
         method: "POST",
         body: form,
       });

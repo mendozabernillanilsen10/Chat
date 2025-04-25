@@ -1,6 +1,11 @@
-import React, { useState, useEffect } from "react";
-import { Icon } from "semantic-ui-react";
-import "./RatingSection.css";
+import './RatingSection.css';
+
+import React, {
+  useEffect,
+  useState,
+} from 'react';
+
+import { Icon } from 'semantic-ui-react';
 
 const RatingSection = ({ rooms, user }) => {
   const [selectedRoom, setSelectedRoom] = useState(null);
@@ -16,7 +21,7 @@ const RatingSection = ({ rooms, user }) => {
     const fetchRatings = async () => {
       try {
         setIsLoading(true);
-        const res = await fetch("http://localhost:4000/api/ratings");
+        const res = await fetch(`${import.meta.env.VITE_API_URL}/api/ratings`);
         
         if (!res.ok) {
           const errorData = await res.json().catch(() => ({}));
@@ -70,7 +75,7 @@ const RatingSection = ({ rooms, user }) => {
         role: user.role
       });
 
-      const response = await fetch("http://localhost:4000/api/ratings", {
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/api/ratings`, {
         method: "POST",
         headers: { 
           "Content-Type": "application/json",

@@ -1,6 +1,21 @@
-import React, { useEffect, useState } from "react";
-import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid, Legend } from "recharts";
-import "./ProgressGraph.css"; // Archivo CSS para los estilos personalizados
+import './ProgressGraph.css'; // Archivo CSS para los estilos personalizados
+
+import React, {
+  useEffect,
+  useState,
+} from 'react';
+
+import {
+  Bar,
+  BarChart,
+  CartesianGrid,
+  Legend,
+  Tooltip,
+  XAxis,
+  YAxis,
+} from 'recharts';
+
+// Archivo CSS para los estilos personalizados
 
 const ProgressGraph = () => {
   const [results, setResults] = useState([]);
@@ -8,7 +23,7 @@ const ProgressGraph = () => {
   useEffect(() => {
     const userId = localStorage.getItem("userId");
   
-    fetch(`http://localhost:4000/api/getExamResults/${userId}`)
+    fetch(`${import.meta.env.VITE_API_URL}/api/getExamResults/${userId}`)
       .then((response) => response.json())
       .then((data) => {
         console.log("Datos recibidos del backend:", data); // Debug log

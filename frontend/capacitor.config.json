@@ -1,0 +1,10 @@
+{
+  "appId": "com.chat.app",
+  "appName": "Chat App",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true,
+    "allowNavigation": ["*"]
+  }
+}

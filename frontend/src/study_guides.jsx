@@ -1,13 +1,15 @@
-import React from 'react';
 import './study_guides.css';
+
+import React from 'react';
+
 
 const StudyGuides = () => {
   const guides = [
-    { name: 'Guía de Matemáticas', file: 'http://localhost:4000/guias/guia matematicas.pdf' },
-    { name: 'Guía de Historia', file: 'http://localhost:4000/guias/guia historia.pdf' },
-    { name: 'Guía de Ciencias', file: 'http://localhost:4000/guias/Guia quimica.pdf' },
-    { name: 'Guía de Español', file: 'http://localhost:4000/guias/Guia de trabajo.pdf' },
-    { name: 'Guía de Inglés', file: 'http://localhost:4000/guias/Guia Ingles.pdf' },
+    { name: 'Guía de Matemáticas', file: `${import.meta.env.VITE_API_URL}/guias/guia matematicas.pdf` },
+    { name: 'Guía de Historia', file: `${import.meta.env.VITE_API_URL}/guias/guia historia.pdf` },
+    { name: 'Guía de Ciencias', file: `${import.meta.env.VITE_API_URL}/guias/Guia quimica.pdf` },
+    { name: 'Guía de Español', file: `${import.meta.env.VITE_API_URL}/guias/Guia de trabajo.pdf` },
+    { name: 'Guía de Inglés', file: `${import.meta.env.VITE_API_URL}/guias/Guia Ingles.pdf` },
   ];
 
   return (

@@ -1,45 +1,46 @@
-import React, { Component } from "react";
+import 'semantic-ui-css/semantic.min.css';
+import './App.css';
+
+import React, { Component } from 'react';
+
 import {
+  Button,
+  Container,
+  Grid,
+  Header,
+  Icon,
   Menu,
   MenuItem,
-  Container,
-  Header,
-  Button,
-  Icon,
-  Grid,
-  Card,
   Segment,
-  Progress,
-} from "semantic-ui-react";
-import io from "socket.io-client";
-import Chat from "./Chat";
-import Messages from "./Messages";
-import SearchBar from "./SearchBar";
-import UserProfile from "./UserProfile";
-import RatingSection from "./RatingSection";
-import "./App.css";
-import "semantic-ui-css/semantic.min.css";
-import Exams from "./Exams";
-import ExamBG from "./ExamBG";
-import ExamBG2 from "./ExamBG2";
-import ExamBG3 from "./ExamBG3";
-import ExamBG4 from "./ExamBG4";
-import ExamBG5 from "./ExamBG5";
-import ExamBG6 from "./ExamBG6";
-import ExamBTDS from "./ExamBTDS";
-import ExamBTDS2 from "./ExamBTDS2";
-import ExamBTDS3 from "./ExamBTDS3";
-import ExamBTDS4 from "./ExamBTDS4";
-import ExamBTDS5 from "./ExamBTDS5";
-import ExamBTDS6 from "./ExamBTDS6";
-import ExamBTDI from "./ExamBTDI";
-import ExamBTDI2 from "./ExamBTDI2";
-import ExamBTDI3 from "./ExamBTDI3";
-import ExamBTDI4 from "./ExamBTDI4";
-import ExamBTDI5 from "./ExamBTDI5";
-import ExamBTDI6 from "./ExamBTDI6";
-import ProgressGraph from "./ProgressGraph";
-import StudyGuides from "./study_guides";
+} from 'semantic-ui-react';
+import io from 'socket.io-client';
+
+import Chat from './Chat';
+import ExamBG from './ExamBG';
+import ExamBG2 from './ExamBG2';
+import ExamBG3 from './ExamBG3';
+import ExamBG4 from './ExamBG4';
+import ExamBG5 from './ExamBG5';
+import ExamBG6 from './ExamBG6';
+import ExamBTDI from './ExamBTDI';
+import ExamBTDI2 from './ExamBTDI2';
+import ExamBTDI3 from './ExamBTDI3';
+import ExamBTDI4 from './ExamBTDI4';
+import ExamBTDI5 from './ExamBTDI5';
+import ExamBTDI6 from './ExamBTDI6';
+import ExamBTDS from './ExamBTDS';
+import ExamBTDS2 from './ExamBTDS2';
+import ExamBTDS3 from './ExamBTDS3';
+import ExamBTDS4 from './ExamBTDS4';
+import ExamBTDS5 from './ExamBTDS5';
+import ExamBTDS6 from './ExamBTDS6';
+import Exams from './Exams';
+import Messages from './Messages';
+import ProgressGraph from './ProgressGraph';
+import RatingSection from './RatingSection';
+import SearchBar from './SearchBar';
+import StudyGuides from './study_guides';
+import UserProfile from './UserProfile';
 
 class App extends Component {
   constructor(props) {
@@ -123,7 +124,7 @@ handleMenuClick(name) {
       return;
     }
   
-    this.socket = io("http://localhost:4000", {
+    this.socket = io(`${import.meta.env.VITE_API_URL}`, {
       query: { userId, role },
     });
   
@@ -173,7 +174,7 @@ handleMenuClick(name) {
     }
   
     try {
-      const res = await fetch(`http://localhost:4000/historial/${roomId}`);
+      const res = await fetch(`${import.meta.env.VITE_API_URL}/historial/${roomId}`);
       if (!res.ok) {
         throw new Error(`HTTP error! status: ${res.status}`);
       }
@@ -201,14 +202,14 @@ handleMenuClick(name) {
 
 
   fetchRooms = () => {
-    fetch("http://localhost:4000/api/rooms")
+    fetch(`${import.meta.env.VITE_API_URL}/api/rooms`)
       .then((res) => res.json())
       .then((data) => this.setState({ rooms: data }))
       .catch((err) => console.error("Error al cargar salas:", err));
   };
 
   fetchUserProfile = (userId, role) => {
-    fetch(`http://localhost:4000/api/profile/${userId}/${role}`)
+    fetch(`${import.meta.env.VITE_API_URL}/api/profile/${userId}/${role}`)
       .then((res) => res.json())
       .then((data) => {
         this.setState({
@@ -227,7 +228,7 @@ handleMenuClick(name) {
       return;
     }
   
-    fetch(`http://localhost:4000/userRooms/${userId}/${role}`)
+    fetch(`${import.meta.env.VITE_API_URL}/userRooms/${userId}/${role}`)
       .then((res) => res.json())
       .then((data) => {
         console.log("Salas obtenidas:", data);
@@ -245,7 +246,7 @@ handleMenuClick(name) {
     const contrasena = prompt("Ingrese su contraseña:");
 
     try {
-      const res = await fetch("http://localhost:4000/api/login", {
+      const res = await fetch(`${import.meta.env.VITE_API_URL}/api/login`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ usuario, contrasena }),
@@ -260,7 +261,7 @@ handleMenuClick(name) {
             activeItem: "home", // Set activeItem to home after login
           },
           () => {
-            this.socket = io("http://localhost:4000", {
+            this.socket = io(`${import.meta.env.VITE_API_URL}`, {
               query: {
                 userId: this.state.user.id,
                 role: this.state.user.role,
@@ -317,7 +318,7 @@ handleMenuClick(name) {
       }
   
       try {
-        const res = await fetch("http://localhost:4000/createRoom", {
+        const res = await fetch(`${import.meta.env.VITE_API_URL}/createRoom`, {
           method: "POST",
           body: formData,
         });
@@ -368,7 +369,7 @@ handleMenuClick(name) {
       const password = prompt("Ingrese la contraseña para unirse a la sala privada:");
 
       try {
-        const res = await fetch("http://localhost:4000/joinRoom", {
+        const res = await fetch(`${import.meta.env.VITE_API_URL}/joinRoom`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
@@ -401,7 +402,7 @@ handleMenuClick(name) {
       }
     } else {
       try {
-        const res = await fetch("http://localhost:4000/joinRoom", {
+        const res = await fetch(`${import.meta.env.VITE_API_URL}/joinRoom`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
@@ -486,7 +487,7 @@ handleMenuClick(name) {
     });
 
     // Guardar el mensaje en el backend
-    fetch("http://localhost:4000/saveMessage", {
+    fetch(`${import.meta.env.VITE_API_URL}/saveMessage`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({

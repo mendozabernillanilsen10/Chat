@@ -1,6 +1,8 @@
-import React, { Component } from 'react';
-import { Icon } from 'semantic-ui-react';
 import './CreateChatRoomForm.css';
+
+import React, { Component } from 'react';
+
+import { Icon } from 'semantic-ui-react';
 
 class CreateChatRoomForm extends Component {
   state = {
@@ -57,7 +59,7 @@ class CreateChatRoomForm extends Component {
     formData.append('role', this.props.role);
 
     try {
-      const res = await fetch('http://localhost:4000/createRoom', {
+      const res = await fetch(`${import.meta.env.VITE_API_URL}/createRoom`, {
         method: 'POST',
         body: formData
       });

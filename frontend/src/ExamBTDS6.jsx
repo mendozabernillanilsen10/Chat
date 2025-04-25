@@ -1,7 +1,9 @@
-import React, { useState } from 'react';
-import styles from './ExamBTDS2.module.css'; // Importar estilos como módulo
-import questionsData from './preguntas6.json';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid } from 'recharts';
+import React, { useState } from 'react';
+
+import questionsData from './preguntas6.json';
+import styles from './ExamBTDS2.module.css'; // Importar estilos como módulo
+
 
 function ExamBTDS6({ goToExams }) {
   const [selectedSubject, setSelectedSubject] = useState("");
@@ -36,7 +38,7 @@ function ExamBTDS6({ goToExams }) {
 
     console.log("Enviando datos al backend:", dataToSend);
 
-    fetch("http://localhost:4000/api/saveExamResults", {
+    fetch(`${import.meta.env.VITE_API_URL}/api/saveExamResults`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(dataToSend),

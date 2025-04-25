@@ -1,7 +1,12 @@
-import { useState } from "react";
-import { useNavigate } from "react-router-dom";
-import { Form, Button, Icon, Message } from "semantic-ui-react";
 import './Login.css';
+
+import { useState } from 'react';
+
+import { useNavigate } from 'react-router-dom';
+import {
+  Form,
+  Icon,
+} from 'semantic-ui-react';
 
 const Login = () => {
     const [usuario, setUsuario] = useState("");
@@ -16,13 +21,17 @@ const Login = () => {
         setError(null);
       
         try {
-          const response = await fetch("http://localhost:4000/api/login", {
+          console.log("Enviando datos al backend:", { usuario, contrasena });
+          const response = await fetch(`${import.meta.env.VITE_API_URL}/api/login`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ usuario, contrasena }),
           });
-      
+
+          console.log("Respuesta del servidor:", response);
           const data = await response.json();
+          console.log("Datos recibidos del servidor:", data);
+
           if (data.success) {
             localStorage.setItem("userId", data.userId);
             localStorage.setItem("username", data.username);

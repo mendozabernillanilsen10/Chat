@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+
 import styles from './ExamBTDS2.module.css'; // Importar estilos como módulo
 import questionsData from './preguntas5.json';
 
@@ -56,7 +57,7 @@ function ExamBTDS5({ goToExams }) { // Recibimos goToExams como prop
 
     console.log("Enviando datos al backend:", dataToSend); // Log para verificar los datos
 
-    fetch("http://localhost:4000/api/saveExamResults", {
+    fetch(`${import.meta.env.VITE_API_URL}/api/saveExamResults`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(dataToSend),

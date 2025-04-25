@@ -1,9 +1,11 @@
-import React, { useRef } from "react";
-import { Icon } from "semantic-ui-react";
-import "./UserProfile.css";
+import './UserProfile.css';
+
+import React, { useRef } from 'react';
+
+import { Icon } from 'semantic-ui-react';
 
 const UserProfile = ({ user, onLogout }) => {
-  const imageUrl = user.Foto ? `http://localhost:4000/imagenes/${user.Foto}` : "imagenes/default.jpg";
+  const imageUrl = user.Foto ? `${import.meta.env.VITE_API_URL}/imagenes/${user.Foto}` : "imagenes/default.jpg";
   const logoutButtonRef = useRef(null);
 
   return (

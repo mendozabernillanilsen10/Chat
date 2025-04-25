@@ -1,6 +1,19 @@
-import React, { useState, useEffect } from "react";
-import { Form, Button, Header, Modal, Image, Label, Icon } from "semantic-ui-react";
-import "./Chat.css"; 
+import './Chat.css';
+
+import React, {
+  useEffect,
+  useState,
+} from 'react';
+
+import {
+  Button,
+  Form,
+  Header,
+  Icon,
+  Image,
+  Label,
+  Modal,
+} from 'semantic-ui-react';
 
 const Chat = ({ messages, sendMessage, user, socket, roomId }) => {
   const [message, setMessage] = useState("");
@@ -13,7 +26,7 @@ const Chat = ({ messages, sendMessage, user, socket, roomId }) => {
   const getAvatarUrl = (avatarPath) => {
     if (!avatarPath) return '/default-avatar.png';
     if (avatarPath.startsWith('http')) return avatarPath;
-    return `http://localhost:4000/imagenes/${avatarPath}`;
+    return `${import.meta.env.VITE_API_URL}/imagenes/${avatarPath}`;
   };
 
   // Componente Avatar optimizado
@@ -88,7 +101,7 @@ const Chat = ({ messages, sendMessage, user, socket, roomId }) => {
     if (!userId || role !== "tutor") return;
     
     try {
-      const res = await fetch(`http://localhost:4000/api/profile/${userId}/${role}`);
+      const res = await fetch(`${import.meta.env.VITE_API_URL}/api/profile/${userId}/${role}`);
       if (!res.ok) throw new Error(`Error: ${res.status}`);
       const data = await res.json();
       setSelectedProfile(data);
